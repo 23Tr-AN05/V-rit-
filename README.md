@@ -37,7 +37,7 @@
         color:red
     }
     #para8{
-        font-size:50px;
+        font-size:40px;
         text-align:center;
         color:red
     }
@@ -58,7 +58,7 @@
  <body>
  <h1 id="para1">COMMENT PEUT-ON ÉTABLIR LA VÉRITÉ?</h1>
  <h2 id="para8">Quel est le lien entre la vérité et réalité ?</h2>
- <h2 id="para2">Quel est le lien entre la vérité est l’opinion ?</h2>
+ <h2 id="para8">Quel est le lien entre la vérité est l’opinion ?</h2>
  <br>
  <br>
  <p id="para2">L'étymologie grecque du mot "Vérité":</p>  
