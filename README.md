@@ -56,7 +56,7 @@
  </style></head>
 
  <body>
- <h1 id="para1">Comment peut-on établir la vérité?</h1>
+ <h1 id="para1">COMMENT PEUT-ON ÉTABLIR LA VÉRITÉ?</h1>
  <h2 id="para8">Quel est le lien entre la vérité et réalité ?</h2>
  <h2 id="para2">Quel est le lien entre la vérité est l’opinion ?</h2>
  <br>
