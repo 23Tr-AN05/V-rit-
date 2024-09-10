@@ -2,12 +2,12 @@
 <html>
  <head><style>
     #para1{
-        font-size:60px;
+        font-size:50px;
         text-align:center;
         color:red;
     }
     #para2{
-        font-size:40px;
+        font-size:30px;
         text-align:left;
         color:red;
     }
@@ -38,7 +38,7 @@
     }
     #para8{
         font-size:30px;
-        text-align:center;
+        text-align:left;
         color:#00FF00;
     }
     mark{
@@ -65,4 +65,7 @@
 
  <img scr="https://i0.wp.com/www.jepense.org/wp-content/uploads/2020/03/all%C3%A9gorie-de-la-caverne-interpr%C3%A9tation-explication.png?fit=781%2C347&ssl=1"  width="500" height="150" />
 
+
+ <p id="para3">  <b style="color:red;">La vérité serait donc le fait de ne pas oublier</b> les Idées que nos âmes ont contemplées avant de s’incarner.</p>
+ <br />
  </body>
