@@ -63,6 +63,6 @@
  <br>
  <p id="para8">L'étymologie grecque du mot "Vérité":</p>  
 
- <img scr="https://i0.wp.com/www.jepense.org/wp-content/uploads/2020/03/all%C3%A9gorie-de-la-caverne-interpr%C3%A9tation-explication.png?fit=781%2C347&ssl=1"  />
+ <img scr="https://i0.wp.com/www.jepense.org/wp-content/uploads/2020/03/all%C3%A9gorie-de-la-caverne-interpr%C3%A9tation-explication.png?fit=781%2C347&ssl=1"  width="500" height="150" />
 
  </body>
