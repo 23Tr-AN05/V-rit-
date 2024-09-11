@@ -70,7 +70,7 @@
  <p id="para3"> <u style="color:#0000FF;"> 2 Positions scientifiques :</u></p>
  <ol>
      <li>
-       <p id="para3">Les lois (divines) sont présentées dans le monde et il s’agit pour le scientifique de <b style="color:00FF00;"> les découvrir </b> et <b style="color:00FF00;"> de les dévoiler.</b></p>
+       <p id="para3">Les lois (divines) sont présentées dans le monde et il s’agit pour le scientifique de <b style="color:#00FF00;"> les découvrir </b> et <b style="color:#00FF00;"> de les dévoiler.</b></p>
      </li>
      <li>
        <p id="para3">Le scientifique invente les lois, les théories dans le but de tenter d’expliquer
