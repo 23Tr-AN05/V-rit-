@@ -62,12 +62,12 @@
  <br>
  <br>
  <p id="para8">L'étymologie grecque du mot "Vérité":</p>  
- <iframe src="https://drive.google.com/file/d/1gl1mGENvzBmOVUZjci0JxF6Twfa7C8qX/preview" width="640" height="480" allow="autoplay"></iframe>
+ <iframe src="https://drive.google.com/file/d/1gl1mGENvzBmOVUZjci0JxF6Twfa7C8qX/preview" width="640" height="280" allow="autoplay"></iframe>
 <br>
  <p id="para3">  <b style="color:red;">La vérité serait donc le fait de ne pas oublier</b> les Idées que nos âmes ont contemplées avant de s’incarner.</p>
  <br/>
  <br>
- <p id="para3"> <u style="color:#0000FF;"> 2 Positions scientifiques :</u></p>
+ <p id="para3"> <u style="color:#0000FF;" size="25px"> 2 Positions scientifiques :</u></p>
  <ol>
      <li>
        <p id="para3">Les lois (divines) sont présentées dans le monde et il s’agit pour le scientifique de <b style="color:#00FF00;"> les découvrir </b> et <b style="color:#00FF00;"> de les dévoiler.</b></p>
