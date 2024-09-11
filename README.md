@@ -87,5 +87,20 @@ et de prévoir es phénomènes.</p>
  <p id="para3"><b style="color:#0000FF;"><u>Comment établir une connaissance vrai sur le monde ?</u></b></p>
  <p id="para3">Pour établir la vérité d’une connaissance, les règles générales de la logique sont nécessaires : le principe de non contradiction, le principe de causalité.</p>
  <p id="para3"><mark>De la ligne 1 à 7:</mark>
- <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Notre <font color:"#FF0000;">entendement suit les règles de la logique, déjà la forme de ses raisonnement.</p>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Notre <font color:"#FF0000;">entendement </font>suit les règles de la logique, déjà la forme de ses raisonnement.</p>
+ <p id="para3"><b color="#FF0000;">L’entendement (de Kant): C’est la faculté de créer des concepts, de faire la synthèse des différentes données de l’intuition sensible en les ordonnant à l’aide des catégories (causalité, espace, temps)</b></p>
+ <br>
+ <p id="para3"><mark>De la ligne 7 à 11:</mark>
+ → Les règles de la logique sont nécessaires mais pas suffisantes, car <font color:"#FF0000;">la vérité formelle</font> se distingue de<font color:"#FF0000;"> la vérité matérielle</font>, c’est-à-dire une vérité concernant la contenu. </p>
+ 
+ 
+
+
+
+
+
+
+
+
+
  </body>
