@@ -96,7 +96,11 @@ et de prévoir es phénomènes.</p>
   <br>Exemple :
   <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; - Les hommes sont mortels.  → Vrai
  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; SOCRATE est un homme. → Vrai            <font size="40">}</font> 2 prémisses vraies
- <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; => => Socrate est mortel.
+ <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  => Socrate est mortel.
+ <br>
+  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; - Tous les chats sont mortels.→ Vrai
+ <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Socrate est mortel. → Vrai    &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;    <font size="40">}</font> 2 prémisses vraies
+ <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  => Socrate est mortel.
 
 
          </p>
