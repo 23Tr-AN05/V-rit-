@@ -127,7 +127,7 @@
      <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; Elle doit <mark> prévoir </mark>les phénomènes.</li>
  </ol>
  
-
+<br><br><br>
  <p id="para9"><u><b>Thomas d’AQUIN (¡il est catholique!), <i>Sommes théologiques</i>, XIIIe siècle (p. 522.)</b></u>></p>
  <p id="para3"><mark>La ligne 1:</mark>
  <br />&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ La vérité est contenue dans notre intelligence parce que nous possédons unefaculté logique (que Dieu nous a donnée).</p>
