@@ -78,15 +78,14 @@
        <p id="para3">Les lois (divines) sont présentées dans le monde et il s’agit pour le scientifique de <b style="color:#00FF00;"> les découvrir </b> et <b style="color:#00FF00;"> de les dévoiler.</b></p>
      </li>
      <li>
-       <p id="para3">Le scientifique invente les lois, les théories dans le but de tenter d’expliquer
-et de prévoir es phénomènes.</p>
+       <p id="para3">Le scientifique invente les lois, les théories dans le but de tenter d’expliquer et de prévoir es phénomènes.</p>
      </li>
  </ol>
  <br><br>
  <p id="para9"><u><b>Emmanuel Kant, <i>Critique de la raison pure, II</i>, XVIIIe siècle (p. 524.)</b></u>></p>
  <p id="para3"><b style="color:#0000FF;"><u>Comment établir une connaissance vrai sur le monde ?</u></b></p>
  <p id="para3">Pour établir la vérité d’une connaissance, les règles générales de la logique sont nécessaires : le principe de non contradiction, le principe de causalité.</p>
-<p id="para3"><mark>De la ligne 1 à 7:</mark>
+ <p id="para3"><mark>De la ligne 1 à 7:</mark>
  <br />&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Notre <font style="color:#FF0000;">entendement </font>suit les règles de la logique, déjà la forme de ses raisonnement.</p>
  <p id="para3"><b style="color=#FF0000;">L’entendement (de Kant): C’est la faculté de créer des concepts, de faire la synthèse des différentes données de l’intuition sensible en les ordonnant à l’aide des catégories (causalité, espace, temps)</b></p>
  <br>
@@ -127,6 +126,11 @@ et de prévoir es phénomènes.</p>
      <li>&nbsp;&nbsp; &nbsp;&nbsp; Elle doit pouvoir expliquer le plus de phénomènes possibles</li>
      <li> &nbsp;&nbsp; &nbsp;&nbsp; Elle doit <mark> prévoir </mark>les phénomènes.</li>
  </ol>
+ 
+
+ <p id="para9"><u><b>Thomas d’AQUIN (¡il est catholique!), <i>Sommes théologiques</i>, XIIIe siècle (p. 522.)</b></u>></p>
+ <p id="para3"><mark>La ligne 1:</mark>
+ <br />&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ La vérité est contenue dans notre intelligence parce que nous possédons unefaculté logique (que Dieu nous a donnée).</p>
  
  
 
