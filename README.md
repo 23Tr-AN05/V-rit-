@@ -95,15 +95,12 @@ et de prévoir es phénomènes.</p>
  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Aristote est l’inventeur du syllogisme, constitué de 2 prémisses validées comme vraies et d’une conclusion déduite qui sera donc vraie :
   <br>Exemple :
   <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; - Les hommes sont mortels.  → Vrai
- <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; SOCRATE est un homme. → Vrai &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;           <font size="40">}</font> 2 prémisses vraies
- <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  => Socrate est mortel.
+ <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; SOCRATE est un homme. → Vrai &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;  <font style="color:#FF0000;"> ===> 2 prémisses vraies</font> 
+ <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  => Socrate est mortel.&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <font  style="color:#FF0000;">===>2 prémisses vraies</font> 
  <br>
   <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; - Tous les chats sont mortels.→ Vrai
- <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Socrate est mortel. → Vrai    &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <font size="40">}</font> 2 prémisses vraies
- <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  => Socrate est mortel.
-
-
-         </p>
+ <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; SOCRATE est mortel. → Vrai    &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <font  style="color:#00FF00;">===> Conclusion déduite est vraie.</font> 
+ <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  => Socrate est mortel.&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <font  style="color:#00FF00;">===> Conclusion déduite est fausse.</font>   </p>
  
  
 
