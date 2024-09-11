@@ -110,28 +110,28 @@
  <br><br><br>
  <p id="para3"> Il existe 4 domaines de vérité : </p>
  <ol style="liste-style-type:lower-alpha">
-     <li> &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:#0000FF;">La vérité liée au langage</font>:le discours tenu sur quelque chose doit être en adéquation (en accord) avec ce quelque chose. 
+     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:#0000FF;">La vérité liée au langage</font>:le discours tenu sur quelque chose doit être en adéquation (en accord) avec ce quelque chose. 
      <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  Exemple: La tour Eiffel est à Paris.
      &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; =>Elle repose sur les <font style="color:#FF0000;">faits</font>.</li>
-     <li> &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:#0000FF;">La vérité mathématique</font>: elle repose sur des <font style="color:#FF0000;">démonstrations logiques</font>.</li>
-     <li> &nbsp;&nbsp; &nbsp;&nbsp;<font style="color:#0000FF;">La vérité des sciences expérimentales</font> :
+     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:#0000FF;">La vérité mathématique</font>: elle repose sur des <font style="color:#FF0000;">démonstrations logiques</font>.</li>
+     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;<font style="color:#0000FF;">La vérité des sciences expérimentales</font> :
      <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;- Elle<font style="color:#FF0000;">repose sur un protocole</font>: hypothèse/ expérimentation/ validation ou invalidation de la théorie.
      <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;- Elle repose sur l’<font style="color:#FF0000;">expérimentation</font>.</li>     
-     <li> &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:#0000FF;">La vérité judiciaire</font> : elle repose sur<font style="color:#FF0000;">des preuves</font>afin de déterminer l’innocence ou la culpabilité d’un prévenu.</li>
+     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:#0000FF;">La vérité judiciaire</font> : elle repose sur<font style="color:#FF0000;">des preuves</font>afin de déterminer l’innocence ou la culpabilité d’un prévenu.</li>
  </ol>
  <br><br><br>
  <p id="para3">3 Critères pour définir la qualité d’une théorie scientifique :</p>
  <ol style="liste-style-type:upper-roman">
-     <li> &nbsp;&nbsp; &nbsp;&nbsp; Elle doit être la plus simple possible</li>
-     <li>&nbsp;&nbsp; &nbsp;&nbsp; Elle doit pouvoir expliquer le plus de phénomènes possibles</li>
-     <li> &nbsp;&nbsp; &nbsp;&nbsp; Elle doit <mark> prévoir </mark>les phénomènes.</li>
+     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; Elle doit être la plus simple possible</li>
+     <li id="para3">&nbsp;&nbsp; &nbsp;&nbsp; Elle doit pouvoir expliquer le plus de phénomènes possibles</li>
+     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; Elle doit <mark> prévoir </mark>les phénomènes.</li>
  </ol>
  
 
  <p id="para9"><u><b>Thomas d’AQUIN (¡il est catholique!), <i>Sommes théologiques</i>, XIIIe siècle (p. 522.)</b></u>></p>
  <p id="para3"><mark>La ligne 1:</mark>
  <br />&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ La vérité est contenue dans notre intelligence parce que nous possédons unefaculté logique (que Dieu nous a donnée).</p>
- 
+
  
 
 
