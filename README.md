@@ -84,7 +84,7 @@ et de prévoir es phénomènes.</p>
  </ol>
  <br><br>
  <p id="para9"><b>Emmanuel Kant, <i>Critique de la raison pure, II</i>, XVIIIe siècle (p. 524.)</b></p>
- <p id="para3"><b color="#0000FF;"><u>Comment établir une connaissance vrai sur le monde ?</u></b></p>
+ <p id="para3"><b style="color:#0000FF;"><u>Comment établir une connaissance vrai sur le monde ?</u></b></p>
  <p id="para3">Pour établir la vérité d’une connaissance, les règles générales de la logique sont nécessaires : le principe de non contradiction, le principe de causalité.</p>
 
  </body>
