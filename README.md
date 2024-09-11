@@ -96,11 +96,11 @@ et de prévoir es phénomènes.</p>
   <br>Exemple :
   <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; - Les hommes sont mortels.  → Vrai
  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; SOCRATE est un homme. → Vrai &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;  <font style="color:#FF0000;"> ===> 2 prémisses vraies</font> 
- <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  => Socrate est mortel.&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <font  style="color:#FF0000;">===>2 prémisses vraies</font> 
+ <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  => SOCRATE est mortel.&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<font  style="color:#00FF00;">===> Conclusion déduite est vraie.</font>
  <br>
   <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; - Tous les chats sont mortels.→ Vrai
- <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; SOCRATE est mortel. → Vrai    &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <font  style="color:#00FF00;">===> Conclusion déduite est vraie.</font> 
- <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  => Socrate est mortel.&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <font  style="color:#00FF00;">===> Conclusion déduite est fausse.</font>   </p>
+ <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; SOCRATE est mortel. → Vrai    &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;   <font  style="color:#FF0000;">===>2 prémisses vraies</font> 
+ <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  => => SOCRATE est un chat..&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <font  style="color:#00FF00;">===> Conclusion déduite est fausse.</font>   </p>
  
  
 
