@@ -83,15 +83,23 @@ et de prévoir es phénomènes.</p>
      </li>
  </ol>
  <br><br>
- <p id="para9"><b>Emmanuel Kant, <i>Critique de la raison pure, II</i>, XVIIIe siècle (p. 524.)</b></p>
+ <p id="para9"><u><b>Emmanuel Kant, <i>Critique de la raison pure, II</i>, XVIIIe siècle (p. 524.)</b></u>></p>
  <p id="para3"><b style="color:#0000FF;"><u>Comment établir une connaissance vrai sur le monde ?</u></b></p>
  <p id="para3">Pour établir la vérité d’une connaissance, les règles générales de la logique sont nécessaires : le principe de non contradiction, le principe de causalité.</p>
  <p id="para3"><mark>De la ligne 1 à 7:</mark>
- <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Notre <font color:"#FF0000;">entendement </font>suit les règles de la logique, déjà la forme de ses raisonnement.</p>
- <p id="para3"><b color="#FF0000;">L’entendement (de Kant): C’est la faculté de créer des concepts, de faire la synthèse des différentes données de l’intuition sensible en les ordonnant à l’aide des catégories (causalité, espace, temps)</b></p>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Notre <font style="color:#FF0000;">entendement </font>suit les règles de la logique, déjà la forme de ses raisonnement.</p>
+ <p id="para3"><b style="color=#FF0000;">L’entendement (de Kant): C’est la faculté de créer des concepts, de faire la synthèse des différentes données de l’intuition sensible en les ordonnant à l’aide des catégories (causalité, espace, temps)</b></p>
  <br>
  <p id="para3"><mark>De la ligne 7 à 11:</mark>
- → Les règles de la logique sont nécessaires mais pas suffisantes, car <font color:"#FF0000;">la vérité formelle</font> se distingue de<font color:"#FF0000;"> la vérité matérielle</font>, c’est-à-dire une vérité concernant la contenu. </p>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; → Les règles de la logique sont nécessaires mais pas suffisantes, car <font style="color:#FF0000;">la vérité formelle</font> se distingue de<font styke="color:#FF0000;"> la vérité matérielle</font>, c’est-à-dire une vérité concernant la contenu.
+ <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Aristote est l’inventeur du syllogisme, constitué de 2 prémisses validées comme vraies et d’une conclusion déduite qui sera donc vraie :
+  <br>Exemple :
+  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; - Les hommes sont mortels.  → Vrai
+ <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; SOCRATE est un homme. → Vrai            <font size="40">}</font> 2 prémisses vraies
+ <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; => => Socrate est mortel.
+
+
+         </p>
  
  
 
