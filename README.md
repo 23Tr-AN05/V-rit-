@@ -134,7 +134,7 @@
  <p id="para3"><mark>De la ligne 2 à 5:</mark>
  <br />&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ L’objet étudié est connaissable dans la mesure où il est en lien avec celuicherche à la connaître. Ce lien est fondé sur la création de cet objet et de celui qui cherche à connaître par Dieu.
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <b siz="25"> Ligne 3 : « L’intellect <mark style="color:#FF0000;"> en acte </mark> » => référence à ARISTOTE </b>
- <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  <i style="color:#FF0000;">└>  actif / agissant ≠ en puissance = virtuel, en devenir</i>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  <i style="color:#FF0000;">└>  actif / agissant ≠ en puissance = virtuel, en devenir</i>
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Ex : La chenille est un papillon en puissance. 
  </P>
  <p id="para3"><mark>De la ligne 5 à 7:</mark>
