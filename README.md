@@ -137,6 +137,8 @@
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  <i style="color:#FF0000;">└>  actif / agissant ≠ en puissance = virtuel, en devenir</i>
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Ex : La chenille est un papillon en puissance. 
  </P>
+ <p id="para3"><mark>De la ligne 5 à 7:</mark>
+ <br />&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Conformité de ce qui est saisi par l’intellect avec l’objet étudié.</p>
 
 
 
