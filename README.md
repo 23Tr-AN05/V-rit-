@@ -82,7 +82,7 @@
      </li>
  </ol>
  <br><br>
- <p id="para9"><u><b>Emmanuel Kant, <i>Critique de la raison pure, II</i>, XVIIIe siècle (p. 524.)</b></u>></p>
+ <p id="para9"><u><b>Emmanuel Kant, <i>Critique de la raison pure, II</i>, XVIIIe siècle (p. 524.)</b></u></p>
  <p id="para3"><b style="color:#0000FF;"><u>Comment établir une connaissance vrai sur le monde ?</u></b></p>
  <p id="para3">Pour établir la vérité d’une connaissance, les règles générales de la logique sont nécessaires : le principe de non contradiction, le principe de causalité.</p>
  <p id="para3"><mark>De la ligne 1 à 7:</mark>
@@ -128,7 +128,7 @@
  </ol>
  
  <br><br><br>
- <p id="para9"><u><b>Thomas d’AQUIN (¡il est catholique!), <i>Sommes théologiques</i>, XIIIe siècle (p. 522.)</b></u>></p>
+ <p id="para9"><u><b>Thomas d’AQUIN (¡il est catholique!), <i>Sommes théologiques</i>, XIIIe siècle (p. 522.)</b></u></p>
  <p id="para3"><mark>La ligne 1:</mark>
  <br />&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ La vérité est contenue dans notre intelligence parce que nous possédons unefaculté logique (que Dieu nous a donnée).</p>
  <p id="para3"><mark>De la ligne 2 à 5:</mark>
@@ -139,6 +139,33 @@
  </P>
  <p id="para3"><mark>De la ligne 5 à 7:</mark>
  <br />&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Conformité de ce qui est saisi par l’intellect avec l’objet étudié.</p>
+ <br><br><br>
+ <p id="para9"><u><b>René DESCARTES, <i>Règles pour la direction de l’existence</i>, XVIIe siècle</b></u></p>
+ <p id="para3"><mark>Idée générale </mark>: Apologie des mathématiques comme moyen sûr d’atteindre la vérité.Descartes voulait mettre le monde sous forme mathématique : <i style="color:#FF0000;">Mathesis Universalis</i></p>
+ <p id="para3"><mark>De la ligne 1 à 5</mark>: 
+ <br><font style="color:#FF0000;"> Évidence (du latin <i>"videre"</i>) : voir avec l’esprit
+ <br>Certaine : qui ne laisse pas de place au doute. 
+ <br> Pur : Il n’y a pas l’implication ou l’intervention des sens, les mathématiques sont intellectuelles, abstraites
+ <br>Simple : On peut décomposer les mathématiques jusqu’au plus petit élément.
+ <br></font>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Les mathématiques s’appuient sur des démonstrations rationnelles.</p>
+ <p id="para3"><mark>De la ligne 5 à 7</mark>: 
+ <br><font style="color:#FF0000;">  Claires : évidentes, par l’intuition de l’esprit
+ <br>L’Erreur (du latin <i> error/ errare</i>) : errer, se tromper du chemin, perdre </font>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Les mathématiques sont un outil, un moyen, d’éviter l’erreur.
+ </p>
+ <p id="para3"><mark>De la ligne 5 à 12</mark>: </p>  
+ <table id="p2">
+   <tr>
+     <th>Philosophie, histoire</th>
+     <th>Mathématiques</th>
+   </tr>
+   <tr>
+     <td><p id="p1">- Vocabulaire péjoratif:<br>« Jouer les devins » : pas scientifique <br>« Domain obscur » <br>« question quelconque » : imprécise<br> <font style="color:#00FF00;">- Prédire</font><br><br><b style="color:#0000FF;">Connaissance zététique</b></td>
+     <td><p id="p1">-Simples / faciles <br>- Pures<br>-Évidentes / claires<br>- Précise / rigoureuses<br><font style="color:#00FF00;">-Prévoir</font><br><br> <b style="color:#0000FF;"> Connaissance apodictique </b> </td>
+   </tr>
+ </table>    
+
 
 
 
