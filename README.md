@@ -127,29 +127,18 @@
      <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; Elle doit <mark> prévoir </mark>les phénomènes.</li>
  </ol>
  
-<br><br><br>
+ <br><br><br>
  <p id="para9"><u><b>Thomas d’AQUIN (¡il est catholique!), <i>Sommes théologiques</i>, XIIIe siècle (p. 522.)</b></u>></p>
  <p id="para3"><mark>La ligne 1:</mark>
  <br />&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ La vérité est contenue dans notre intelligence parce que nous possédons unefaculté logique (que Dieu nous a donnée).</p>
-
+ <p id="para3"><mark>De la ligne 2 à 5:</mark>
+ <br />&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ L’objet étudié est connaissable dans la mesure où il est en lien avec celuicherche à la connaître. Ce lien est fondé sur la création de cet objet et de celui qui cherche à connaître par Dieu.
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <b siz="25"> Ligne 3 : « L’intellect <mark style="color=#FF0000"> en acte </mark> » => référence à ARISTOTE </b>
  
+ </p>
 
 
-<p>test</p>
-<p>Liste n°1 :</p>
-<ol type="A">
-  <li>On naît</li>
-  <li>On grandit</li>
-  <li>On meurt</li>
-</ol>
-        
-<p>Liste n°2 :</p>
-<ol type="i">
-  <li>Introduction</li>
-  <li>Partie I</li>
-  <li>Partie II</li>
-  <li>Conclusion</li>
-</ol>
+
 
 
 
