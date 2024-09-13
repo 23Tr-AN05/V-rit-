@@ -146,8 +146,7 @@
  <br><font style="color:#FF0000;"> Évidence (du latin <i>"videre"</i>) : voir avec l’esprit
  <br>Certaine : qui ne laisse pas de place au doute. 
  <br> Pur : Il n’y a pas l’implication ou l’intervention des sens, les mathématiques sont intellectuelles, abstraites
- <br>Simple : On peut décomposer les mathématiques jusqu’au plus petit élément.
- <br></font>
+ <br>Simple : On peut décomposer les mathématiques jusqu’au plus petit élément.</font>
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Les mathématiques s’appuient sur des démonstrations rationnelles.</p>
  <p id="para3"><mark>De la ligne 5 à 7</mark>: 
  <br><font style="color:#FF0000;">  Claires : évidentes, par l’intuition de l’esprit
@@ -165,6 +164,7 @@
      <td><p id="p1">-Simples / faciles <br>- Pures<br>-Évidentes / claires<br>- Précise / rigoureuses<br><font style="color:#00FF00;">-Prévoir</font><br><br> <b style="color:#0000FF;"> Connaissance apodictique </b> </td>
    </tr>
  </table>    
+<p id="para3"><mark>De la ligne 13 à 16</mark>: 
 
 
 
