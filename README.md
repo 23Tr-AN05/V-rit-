@@ -278,7 +278,8 @@
 
 
   <h1>TEST-2</h1>
-<p id="demo" style="display:none">Hello JavaScript!</p>
+<p id="demo1" style="display:none">Hello JavaScript!</p>
+<p id="demo2" style="display:none">Hello JavaScript!</p>
  <button type="button" onclick="document.getElementById('demo1').style.display='none'">Click Me!</button>
  <button type="button" onclick="document.getElementById('demo2').style.display='block'">Click Me!</button>
 
