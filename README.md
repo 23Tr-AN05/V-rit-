@@ -206,10 +206,24 @@
      <li id="para3">Il saura expliquer de plus en plus de phénomènes.</li>
  </ol>
  <p id="para3"><font style="color:#FF0000;"> ¡ FAUX ! </font> Car, plus on connaît d’éléments, plus on prend connaissance de notre ignorance, de tout ce que l’on a encore à comprendre. </p>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; → La vérité se pose comme un horizon à atteindre, une limite idéale.
+
+ <h1>TEST</h1>
+ 
+ <h2>What Can JavaScript Do?</h2>
+
+ <p id="demo">JavaScript can hide HTML elements.</p>
+
+ <button type="button" onclick="document.getElementById('demo').style.display='none'">Click Me!</button>
 
 
+<h2>What Can JavaScript Do?</h2>
 
+<p>JavaScript can show hidden HTML elements.</p>
 
+<p id="demo" style="display:none">Hello JavaScript!</p>
+
+<button type="button" onclick="document.getElementById('demo').style.display='block'">Click Me!</button>
 
 
 
