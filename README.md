@@ -46,6 +46,10 @@
         text-align:right;
         color:#000000;
     }
+     #p3{
+        font-size:20px;
+        text-align:right;
+        color:#FF0000;
     mark{
         background-color:yellow;
         color:black;
@@ -178,11 +182,28 @@
      <li id="para3">Théorie de l’existence de l’inconscient (S. FREUD, 1912) </li>
      <li id="para3">Théorie de la lutte des classes (Karl MARX, 1948) </li>
  </ol>
-
-  <br><br><br>
+ <br><br><br>
  <p id="para9"><u><b>Albert EINSTEIN et Léopold INFELD, <i>L’évolution des idées en physique</i>, XXe siècle</b></u></p>
  <p id="para3"><b style="color:#BF0000;"> Étymologie : physis (en grecque: φύσις) → Physique
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  └> la nature </b></p>
+ <p id="para3"><mark>De la ligne 1 à 8</mark>:
+ <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ La science est « système de conjectures »
+ <br> <font style="color:#FF0000;">Système : ensemble dont les éléments coordonnées par une loi, une théorie
+ <br>Conjecture : hypothèse</font>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Ex : Le système solaire est basé sur le système de la mécanique.</p>
+ <p id="para3"><mark>De la ligne 9 à 12</mark>:
+ <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ La science est une création humaine, de l’intellect. Le but est de tenter d’expliquer les phénomènes.
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; => Métaphore de la montre fermée. </p>
+ <p id="para3"><mark>De la ligne 12 à 17</mark>:
+ <br>  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; « voit » / « entend »  ⟾À l’aide de nos sens, nous percevons les phénomènes.
+ <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  → « Boîtier fermé » renvoie à notre impossibilité de comprendre comment ces phénomènes ont lieu.</p>
+ <p id="para3"><mark>De la ligne 18 à 22</mark>: <u id="p3">Repère : Savoir ≠ Croire</u>
+ <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ CROYANCES :
+ <ol>
+     <li id="para3">Le chercheur pense que plus il possède de connaissance sur le monde, plus la réalité deviendra simple, plus elle sera saisissable.</li>
+     <li>Il saura expliquer de plus en plus de phénomènes.</li>
+ </ol>
+
 
 
 
