@@ -173,16 +173,12 @@
  <br>  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <b style="color:red">  └> La falsifiabilité
  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   La réfutabilité </b>
  <br>Elle doit être testée et éprouvée. </p>
- <p id="para3"><u style="color:#00FF00">2 Théories qui ne sont pas scientifiques pour Karl POPPER :
+ <p id="para3"><u style="color:#00FF00">2 Théories qui ne sont pas scientifiques pour Karl POPPER :</p>
+ <ol type="A">
+     <li>Théorie de l’existence de l’inconscient (S. FREUD, 1912) </li>
+     <li>Théorie de la lutte des classes (Karl MARX, 1948) </li>
+ </ol>
 
- 
- <p>test</p>
-<p>Liste n°1 :</p>
-<ol type="A">
-  <li>On naît</li>
-  <li>On grandit</li>
-  <li>On meurt</li>
-</ol>
 
 
 
