@@ -199,7 +199,7 @@
  <p id="para3"><mark>De la ligne 12 à 17</mark>:
  <br>  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; « voit » / « entend »  ⟾À l’aide de nos sens, nous percevons les phénomènes.
  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  → « Boîtier fermé » renvoie à notre impossibilité de comprendre comment ces phénomènes ont lieu.</p>
- <p id="para3"><mark>De la ligne 18 à 22</mark>: <u id="p3">Repère : Savoir ≠ Croire</u>
+ <p id="para3"><mark>De la ligne 18 à 22</mark>: <u id="para10">Repère : Savoir ≠ Croire</u>
  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ CROYANCES :
  <ol>
      <li id="para3">Le chercheur pense que plus il possède de connaissance sur le monde, plus la réalité deviendra simple, plus elle sera saisissable.</li>
