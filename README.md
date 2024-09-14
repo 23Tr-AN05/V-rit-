@@ -46,10 +46,12 @@
         text-align:right;
         color:#000000;
     }
-     #p3{
+     #para10{
         font-size:20px;
         text-align:right;
         color:#FF0000;
+        background-color:yellow;
+    }
     mark{
         background-color:yellow;
         color:black;
@@ -201,7 +203,7 @@
  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ CROYANCES :
  <ol>
      <li id="para3">Le chercheur pense que plus il possède de connaissance sur le monde, plus la réalité deviendra simple, plus elle sera saisissable.</li>
-     <li>Il saura expliquer de plus en plus de phénomènes.</li>
+     <li id="para3">Il saura expliquer de plus en plus de phénomènes.</li>
  </ol>
 
 
