@@ -263,24 +263,24 @@
  
  <h2>What Can JavaScript Do?</h2>
 
- <p id="demo">JavaScript can hide HTML elements.</p>
+ <p id="demo1">JavaScript can hide HTML elements.</p>
 
- <button type="button" onclick="document.getElementById('demo').style.display='none'">Click Me!</button>
+ <button type="button" onclick="document.getElementById('demo1').style.display='none'">Click Me!</button>
 
 
 <h2>What Can JavaScript Do?</h2>
 
 <p>JavaScript can show hidden HTML elements.</p>
 
-<p id="demo" style="display:none">Hello JavaScript!</p>
+<p id="demo2" style="display:none">Hello JavaScript!</p>
 
-<button type="button" onclick="document.getElementById('demo').style.display='block'">Click Me!</button>
+<button type="button" onclick="document.getElementById('demo2').style.display='block'">Click Me!</button>
 
 
   <h1>TEST-2</h1>
 <p id="demo" style="display:none">Hello JavaScript!</p>
- <button type="button" onclick="document.getElementById('demo').style.display='none'">Click Me!</button>
- <button type="button" onclick="document.getElementById('demo').style.display='block'">Click Me!</button>
+ <button type="button" onclick="document.getElementById('demo1').style.display='none'">Click Me!</button>
+ <button type="button" onclick="document.getElementById('demo2').style.display='block'">Click Me!</button>
 
 
 
