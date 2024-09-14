@@ -160,13 +160,19 @@
          <th>Mathématiques</th>
       </tr>
       <tr>
-         <td><p id="p1"> - Vocabulaire péjoratif: <br> « Jouer les devins » : pas scientifique <br>« Domain obscur » <br>« question quelconque » : imprécise<br> <font style="color:#00FF00;">- Prédire </font><hr> <b style="color:#FF0000;"> Connaissance zététique </b></p></td>
-         <td><p id="p1">-Simples / faciles <br>- Pures<br>-Évidentes / claires<br>- Précise / rigoureuses<br><font style="color:#00FF00;">-Prévoir</font><br><br> <b style="color:#0000FF;"> Connaissance apodictique </b></p></td>
+         <td><p id="p1"> - Vocabulaire péjoratif: <br> « Jouer les devins » : pas scientifique <br>« Domain obscur » <br>« question quelconque » : imprécise<br> <font style="color:#00FF00;">- Prédire </font><hr> <b style="color:#0000FF;"> Connaissance zététique </b></p></td>
+         <td><p id="p1">-Simples / faciles <br>- Pures<br>-Évidentes / claires<br>- Précise / rigoureuses<br><font style="color:#00FF00;">-Prévoir</font><hr> <b style="color:#0000FF;"> Connaissance apodictique </b></p></td>
       </tr>
   </table>
-<br>    
-  
- <p id="para3"><mark>De la ligne 13 à 16</mark>: </p>
+ <br>    
+ <p id="para3"><mark>De la ligne 13 à 16</mark>:
+ <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ L’arithmétique et la géométrie sont le plus sûr moyen d’accéder à la vérité. </p>
+ <br><br><br>
+ <p id="para9"><u><b>Karl POPPER, <i>Conjectures et réfutations</i>, XXe siècle</b></u></p>
+ <p id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→  Une théorie est scientifique si et seulement si elle est réfutable.
+ <br>  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <b style="color:red">  └> >La falsifiabilité
+ <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp;  La réfutabilité </b>
+ </p>
 
 
 
