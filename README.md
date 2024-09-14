@@ -162,8 +162,8 @@
    <tr>
      <td><p id="p1">- Vocabulaire péjoratif:<br>« Jouer les devins » : pas scientifique <br>« Domain obscur » <br>« question quelconque » : imprécise<br> <font style="color:#00FF00;">- Prédire</font><br><br><b style="color:#0000FF;">Connaissance zététique</b></td>
      <td><p id="p1">-Simples / faciles <br>- Pures<br>-Évidentes / claires<br>- Précise / rigoureuses<br><font style="color:#00FF00;">-Prévoir</font><br><br> <b style="color:#0000FF;"> Connaissance apodictique </b></td>
-   </tr>
-</table>  
+ </tr>
+ </table>  
  
  <p id="para3"><mark>De la ligne 13 à 16</mark>: </p>
 
