@@ -207,6 +207,57 @@
  </ol>
  <p id="para3"><font style="color:#FF0000;"> ¡ FAUX ! </font> Car, plus on connaît d’éléments, plus on prend connaissance de notre ignorance, de tout ce que l’on a encore à comprendre. </p>
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; → La vérité se pose comme un horizon à atteindre, une limite idéale.
+ <br><font style="color:#BF0000;">vérité objective » : c’est un pléonasme, car la vérité, par définition, est objective, voire universelle.</font>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;- La science est le produit d’une communauté scientifique constituée d’humains: donc les théories sont objectives :
+ <br> <u id="para10">Repère : objectif ≠ subjectif </u>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; - Les phénomènes sont observés à l’aide des sens : donc perception subjective. </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  <h1>TEST</h1>
  
