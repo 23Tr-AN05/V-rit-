@@ -15,7 +15,7 @@
   font-size: 15px;
  }
  .active, .collapsible:hover {
-    background-color: #555;
+    background-color: #FFFF5B;
  }
  .content {
     padding: 0 18px;
@@ -160,7 +160,7 @@
  <br><br><br>
  <p id="para9"><u><b>Thomas d’AQUIN (¡il est catholique!), <i>Sommes théologiques</i>, XIIIe siècle (p. 522.)</b></u></p>
  
- <button type="button" class="collapsible"><p id="para3"><b>Thomas d'AQUIN</b>, <i>Somme théologie</i>t. I,q. 16,art.2, 126-1273, <br> trad. A.-D. Sertillanges, 1926, mise à jour par A.-M.Rouget,2000</p>    </button>
+ <button type="button" class="collapsible"><p id="para3"><b>Thomas d'AQUIN</b>, <i>Somme théologie</i>, t. I,q. 16,art.2, 126-1273, <br> trad. A.-D. Sertillanges, 1926, mise à jour par A.-M.Rouget,2000</p>    </button>
  <div class="content">
   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; On l'a déjà dit, le vrai, selon sa raison formelle première, est dans l'intelligence.
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Puisque toute chose est vraie selon qu'elle possède la forme qui est propre à sa 
