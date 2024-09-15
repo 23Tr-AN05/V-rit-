@@ -112,7 +112,25 @@
      </li>
  </ol>
  <br><br>
- <p id="para9"><u><b>Emmanuel Kant, <i>Critique de la raison pure, II</i>, XVIIIe siècle (p. 524.)</b></u></p>
+ <p id="para9"><u><b>Emmanuel KANT, <i>Critique de la raison pure, II</i>, XVIIIe siècle (p. 524.)</b></u></p>
+ <button type="button" class="collapsible"><p id="para3"><b>Emmanuel KANT</b>, « Théorie transcendantale de la méthode »,<br> <i>Critique de la raison pure</i>, II, 1781 <br> trad. B. Pacaud et A. Tremesaygues, 1905</p> </button>
+   <div class="content">
+   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; L'ancienne et célèbre question par laquelle on prétendait pousser à bout les logiciens
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  [...] est celle-ci : <i>Qu'est-ce que la vérité?</i> [...] <mark color="pink"> Mais pour ce qui regarde la connaissance,
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;quant à sa forme simplement (abstraction faite de tout contenu)</mark>, il est […] clair 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+   <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+   </p>
+   </div>
+
+
+
+
+
+
+
  <p id="para3"><b style="color:#0000FF;"><u>Comment établir une connaissance vrai sur le monde ?</u></b></p>
  <p id="para3">Pour établir la vérité d’une connaissance, les règles générales de la logique sont nécessaires : le principe de non contradiction, le principe de causalité.</p>
  <p id="para3"><mark>De la ligne 1 à 7:</mark>
@@ -160,7 +178,7 @@
  <br><br><br>
  <p id="para9"><u><b>Thomas d’AQUIN (¡il est catholique!), <i>Sommes théologiques</i>, XIIIe siècle (p. 522.)</b></u></p>
  
- <button type="button" class="collapsible"><p id="para3"><b>Thomas d'AQUIN</b>, <i>Somme théologie</i>, t. I,q. 16,art.2, 126-1273, <br> trad. A.-D. Sertillanges, 1926, mise à jour par A.-M.Rouget,2000</p>    </button>
+ <button type="button" class="collapsible"><p id="para3"><b>Thomas d'AQUIN</b>, <i>Somme théologie</i>, t. I,q. 16,art.2, 1266-1273, <br> trad. A.-D. Sertillanges, 1926, mise à jour par A.-M.Rouget,2000</p>    </button>
  <div class="content">
   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; On l'a déjà dit, le vrai, selon sa raison formelle première, est dans l'intelligence.
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Puisque toute chose est vraie selon qu'elle possède la forme qui est propre à sa 
