@@ -159,6 +159,17 @@
  
  <br><br><br>
  <p id="para9"><u><b>Thomas d’AQUIN (¡il est catholique!), <i>Sommes théologiques</i>, XIIIe siècle (p. 522.)</b></u></p>
+ <p id="para3"><b>Thomas d'AQUIN</b>, <i>Somme théologie</i>t. I,q. 16,art.2, 126-1273, <br> trad. A.-D. Sertillanges, 1926, mise à jour par A.-M.Rouget,2000</p>
+<button type="button" class="collapsible">Open Section 1</button>
+<div class="content">
+  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; On l'a déjà dit, le vrai, selon sa raison formelle première, est dans l'intelligence.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; Puisque toute chose est vraie selon qu'elle possède la forme qui est propre à sa 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; nature, il est nécessaire que l'intellect en acte de connaître soit vrai en tant qu'il y
+  <br> a en lui la similitude de la chose connue, similitude qui est sa forme propre en tant 
+  <br>5 &nbsp;&nbsp; &nbsp;&nbsp; qu'il est connaissant. Et c'est pour cela que l'on définit la vérité par la confirmité
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; de l'intellect et de la chose. Il en résulte que connaître une telle conformité, c'est 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; connaître la vérité.   </p>
+</div>
  <p id="para3"><mark>La ligne 1:</mark>
  <br />&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ La vérité est contenue dans notre intelligence parce que nous possédons unefaculté logique (que Dieu nous a donnée).</p>
  <p id="para3"><mark>De la ligne 2 à 5:</mark>
