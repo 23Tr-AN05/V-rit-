@@ -297,9 +297,19 @@
  <br><br><br>
  <p id="para9"><u><b>René DESCARTES, <i>Méditations métaphysiques</i>, XVIIIe siècle</b></u></p>
  <p id="para3"><b style="color:#BF0000;"> Étymologie :Étymologie : &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Méta physique <br>
- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbspau-delà <┘ └> la nature
- <br>Métaphysique : ce qui est au-delà du visible (existence du Dieu, la matière, l’esprit/ la conscience)</b>
- <br>
+ &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; au-delà <┘ └> la nature
+ <br>Métaphysique : ce qui est au-delà du visible (existence du Dieu, la matière, l’esprit/ la conscience)</b></p>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Il cherche une vérité<font style="color:#FF000;"> indubitable (=dont on ne peut douter)</font> sur laquelle il pourra faire sa philosophie.
+ <br>Pour trouver cette vérité sûre et certaine, il va remettre en question : 
+ <ol>
+     <li id="para3">Les connaissances qui viennent des sens, parce que les sens nous trompent : les illusions d’optique (tour perçue comme petite car éloignée, bâton dans l’eau, membres fantômes)</li>
+     <li id="para3">Les connaissances déduites des mathématiques, parce que nous pouvons nous tromper dans nos raisonnements <font style="color:#00FF00;"> (paralogisme)</font></li>
+     <li id="para3">Tout les autres connaissances :
+     <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;- un malin génie qui lui a mis des idées fausses dans la tête, donc qui le trompe
+     <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;- on ne distingue pas les rêves de l’éveil
+     <br><b style="color:#00FF00;" text-align:center;>Faire table rase (tabula rasa)</b></li>
+ </ol>
+ </p>
 
 
 
