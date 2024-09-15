@@ -1,6 +1,29 @@
 <meta chartes="utf-8" />
 <html>
- <head><style>
+ <head>
+ <meta name="viewport" content="width=device-width, initial-scale=1"><style>
+ .collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+ }
+ .active, .collapsible:hover {
+    backgrounf-color: #555;
+ }
+ .content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    backround-color:#F1F1F1;
+ }
+ </style>
+ <style>
     #para1{
         font-size:50px;
         text-align:center;
@@ -282,6 +305,12 @@
 <p id="demo2" style="display:none">Hello JavaScript!</p>
  <button type="button" onclick="document.getElementById('demo1').style.display='none'">Click Me!</button>
  <button type="button" onclick="document.getElementById('demo2').style.display='block'">Click Me!</button>
+
+ <h1> TEST 3 </h1>
+ <button type="button" class="collapsible">Open Collapsible</button>
+ <div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+ </div>
 
 
 
