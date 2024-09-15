@@ -80,6 +80,10 @@
         background-color:yellow;
         color:black;
     }
+    #m1{
+        background-color:#FFDCDA;
+        color: black;
+    }
     #p1{
         text-align:center;
     }
@@ -116,7 +120,7 @@
  <button type="button" class="collapsible"><p id="para3"><b>Emmanuel KANT</b>, « Théorie transcendantale de la méthode »,<br> <i>Critique de la raison pure</i>, II, 1781 <br> trad. B. Pacaud et A. Tremesaygues, 1905</p> </button>
    <div class="content">
    <p id="para3"  style="margin-right:1cm"   style="margin-left:1cm">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; L'ancienne et célèbre question par laquelle on prétendait pousser à bout les logiciens
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  [...] est celle-ci : <i>Qu'est-ce que la vérité?</i> [...] <mark style="color:pink"> Mais pour ce qui regarde la connaissance,
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  [...] est celle-ci : <i>Qu'est-ce que la vérité?</i> [...] <mark id="m1"> Mais pour ce qui regarde la connaissance,
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;quant à sa forme simplement (abstraction faite de tout contenu)</mark>, il est […] clair 
    <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
    <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
