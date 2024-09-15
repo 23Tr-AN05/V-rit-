@@ -21,7 +21,7 @@
     padding: 0 18px;
     display: none;
     overflow: hidden;
-    backround-color:#F1F1F1;
+    background-color:#F1F1F1;
  }
  </style>
  <style>
