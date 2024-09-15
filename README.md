@@ -127,7 +127,7 @@
  <p id="para9"><u><b>Emmanuel KANT, <i>Critique de la raison pure, II</i>, XVIIIe siècle (p. 524.)</b></u></p>
 
  <button type="button" class="collapsible"><p id="para3"><b>Emmanuel KANT</b>, « Théorie transcendantale de la méthode »,<br> <i>Critique de la raison pure</i>, II, 1781 <br> trad. B. Pacaud et A. Tremesaygues, 1905</p> </button>
- 
+
  <div class="content">
    <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; L'ancienne et célèbre question par laquelle on prétendait pousser à bout les logiciens
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  [...] est celle-ci : <i>Qu'est-ce que la vérité?</i> [...] <mark id="m1"> Mais pour ce qui regarde la connaissance,
@@ -138,11 +138,11 @@
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; générales de sa pensée et, par suite,<mark id="m1"> avec lui-même</mark>.<mark id="m2"> Mais ces critères ne concernent </mark>
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m2">que la forme de la vérité, c'est-à-dire de la pensée en général et, s'ils sont, à ce titre,</mark>
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m2">très justes, ils sont pourtant insuffisants. Car une connaissance peut fort bien être</mark>
-   <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m2">complètement conforme à la forme logique, c'est-à-dire ne pas se contredire elle-</mark>
+   <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<mark id="m2">complètement conforme à la forme logique, c'est-à-dire ne pas se contredire elle-</mark>
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m2">  même, et cependant être en contradiction avec l'objet</mark>. <mark id="m1">Donc le critère simplement</mark>
     <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m1">logique de la vérité, c'est-à-dire l'accord d'une connaissance avec les lois générales </mark>
-    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m1">et formelles de l'entendement et de la raison est, il est vrai, la condition<i> sine qua</mark>
-    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m1">non</i> et, par suite, la condition négative de toute vérité; mais la logique ne peut pas </mark>
+    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m1">et formelles de l'entendement et de la raison est, il est vrai, la condition<i> sine qua</i></mark>
+    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m1"><i>non</i> et, par suite, la condition négative de toute vérité; mais la logique ne peut pas </mark>
     <br>15 &nbsp;&nbsp; &nbsp;&nbsp;<mark id="m1">aller plus loin</mark> ;<mark id="m2"> aucune pierre de touche ne lui permet de découvrir l'erreur qui </mark>
     <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m2">atteint non la forme, mais le contenu</mark>. La logique générale résout donc en ses élé-
     <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;ments tout<mark id="m1"> le travail formel de l'entendement</mark> et de la raison et présente ces éléments
@@ -153,7 +153,7 @@
     <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m2">par rapport à l'objet, elle renferme une vérité positive</mark>. Mais, comme<mark id="m2"> la simple forme</mark>
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m2">de la connaissance, aussi d'accord qu'elle puisse être avec les lois logiques, est bien</mark>
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m2">loin par là de suffire à établir la vérité matérielle (objective) de la connaissance,</mark>
-   <br>25&nbsp;&nbsp; &nbsp;&nbsp;personne ne peut se risquer à l'aide de la logique seule, à juger des objets et à en
+   <br>25&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;personne ne peut se risquer à l'aide de la logique seule, à juger des objets et à en
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;affirmer la moindre des choses, sans en avoir entrepris auparavant une étude appro-
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;fondie,<mark id="m2"> en dehors do la logique.</mark>
  </p>
