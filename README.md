@@ -89,7 +89,7 @@
     }
     </style>
     <style type="text/css">
- .typeA { margin: 1cm 2cm;
+ .typeA { margin: 1cm 1cm;
          background-color:#FFFF99; }
  .typeB { margin: 1cm 2cm 3cm;
          background-color:#99FFFF; }
