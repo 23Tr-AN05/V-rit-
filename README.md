@@ -296,8 +296,8 @@
 
  <br><br><br>
  <p id="para9"><u><b>René DESCARTES, <i>Méditations métaphysiques</i>, XVIIIe siècle</b></u></p>
- <p id="para3"><b style="color:#BF0000;"> Étymologie :Étymologie : &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Méta physique <br>
- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; au-delà <┘ └> la nature
+ <p id="para3"><b style="color:#BF0000;"> Étymologie :Étymologie : &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Méta    physique <br>
+ &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; au-delà <┘ └> la nature
  <br>Métaphysique : ce qui est au-delà du visible (existence du Dieu, la matière, l’esprit/ la conscience)</b></p>
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Il cherche une vérité<font style="color:#FF000;"> indubitable (=dont on ne peut douter)</font> sur laquelle il pourra faire sa philosophie.
  <br>Pour trouver cette vérité sûre et certaine, il va remettre en question : 
