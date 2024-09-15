@@ -84,6 +84,14 @@
         background-color:#FFDCDA;
         color: black;
     }
+    #m2{
+         background-color:#8FFF6D;
+        color: black;
+    }
+    #m3{
+         background-color:#C1FFFC;
+        color: black;
+    }
     #p1{
         text-align:center;
     }
@@ -119,14 +127,33 @@
  <p id="para9"><u><b>Emmanuel KANT, <i>Critique de la raison pure, II</i>, XVIIIe siècle (p. 524.)</b></u></p>
  <button type="button" class="collapsible"><p id="para3"><b>Emmanuel KANT</b>, « Théorie transcendantale de la méthode »,<br> <i>Critique de la raison pure</i>, II, 1781 <br> trad. B. Pacaud et A. Tremesaygues, 1905</p> </button>
    <div class="content">
-   <p id="para3"  style="margin-right:1cm"   style="margin-left:1cm">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; L'ancienne et célèbre question par laquelle on prétendait pousser à bout les logiciens
+   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; L'ancienne et célèbre question par laquelle on prétendait pousser à bout les logiciens
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  [...] est celle-ci : <i>Qu'est-ce que la vérité?</i> [...] <mark id="m1"> Mais pour ce qui regarde la connaissance,
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;quant à sa forme simplement (abstraction faite de tout contenu)</mark>, il est […] clair 
-   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-   <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-   </p>
+   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;qu'une logique, en tant qu'elle traite des règles générales et nécessaires de l'enten-
+   <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; dement, doit exposer, dans ces règles mêmes, les critères de la vérité. Car ce qui les 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; contredit est faux, puisque l'entendement s'y met en contradiction avec les règles
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; générales de sa pensée et, par suite,<mark id="m1"> avec lui-même</mark>.<mark id="m2"> Mais ces critères ne concernent </mark>
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m2">que la forme de la vérité, c'est-à-dire de la pensée en général et, s'ils sont, à ce titre,</mark>
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m2">très justes, ils sont pourtant insuffisants. Car une connaissance peut fort bien être</mark>
+   <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m2">complètement conforme à la forme logique, c'est-à-dire ne pas se contredire elle-</mark>
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m2">  même, et cependant être en contradiction avec l'objet</mark>. <mark id="m1">Donc le critère simplement</mark>
+    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m1">logique de la vérité, c'est-à-dire l'accord d'une connaissance avec les lois générales </mark>
+    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m1">et formelles de l'entendement et de la raison est, il est vrai, la condition<i> sine qua</mark>
+    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m1">non</i> et, par suite, la condition négative de toute vérité; mais la logique ne peut pas </mark>
+    <br>15 &nbsp;&nbsp; &nbsp;&nbsp;<mark id="m1">aller plus loin</mark> ;<mark id="m2"> aucune pierre de touche ne lui permet de découvrir l'erreur qui </mark>
+    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m2">atteint non la forme, mais le contenu</mark>. La logique générale résout donc en ses élé-
+    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;ments tout<mark id="m1"> le travail formel de l'entendement</mark> et de la raison et présente ces éléments
+    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;comme principes de toute appréciation logique de notre connaissance. Cette partie
+    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;de la logique [...] est par là même<mark id="m1"> la pierre de touche au moins négative de la vérité, </mark>
+    <br>20 &nbsp;&nbsp; &nbsp;&nbsp;puisqu'il faut tout d'abord examiner et apprécier toute connaissance, quant à sa
+    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;forme, d'après ces règles,<mark id="m2"> avant de l'éprouver quant à son contenu, pour établir si,</mark>
+    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m2">par rapport à l'objet, elle renferme une vérité positive</mark>. Mais, comme<mark id="m2"> la simple forme</mark>
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m2">de la connaissance, aussi d'accord qu'elle puisse être avec les lois logiques, est bien</mark>
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m2">loin par là de suffire à établir la vérité matérielle (objective) de la connaissance,</mark>
+   <br>25&nbsp;&nbsp; &nbsp;&nbsp;personne ne peut se risquer à l'aide de la logique seule, à juger des objets et à en
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;affirmer la moindre des choses, sans en avoir entrepris auparavant une étude appro-
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;fondie,<mark id="m2"> en dehors do la logique.</mark> </p>
    </div>
 
 
