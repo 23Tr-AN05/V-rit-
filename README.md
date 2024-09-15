@@ -123,9 +123,9 @@
  <br><br>
  <p id="para9"><u><b>Emmanuel KANT, <i>Critique de la raison pure, II</i>, XVIIIe siècle (p. 524.)</b></u></p>
  <button type="button" class="collapsible"><p id="para3"><b>Emmanuel KANT</b>, « Théorie transcendantale de la méthode »,<br> <i>Critique de la raison pure</i>, II, 1781 <br> trad. B. Pacaud et A. Tremesaygues, 1905</p> </button>
-   <div class="content"  class="typeC">
-   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; L'ancienne et célèbre question par laquelle on prétendait pousser à bout les logiciens
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  [...] est celle-ci : <i>Qu'est-ce que la vérité?</i> [...] <mark color="pink"> Mais pour ce qui regarde la connaissance,
+   <div class="content">
+   <p id="para3" class="typeC">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; L'ancienne et célèbre question par laquelle on prétendait pousser à bout les logiciens
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  [...] est celle-ci : <i>Qu'est-ce que la vérité?</i> [...] <mark style="color:pink"> Mais pour ce qui regarde la connaissance,
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;quant à sa forme simplement (abstraction faite de tout contenu)</mark>, il est […] clair 
    <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
    <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
