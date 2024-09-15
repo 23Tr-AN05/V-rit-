@@ -297,7 +297,7 @@
  <br><br><br>
  <p id="para9"><u><b>René DESCARTES, <i>Méditations métaphysiques</i>, XVIIIe siècle</b></u></p>
  <p id="para3"><b style="color:#BF0000;"> Étymologie :Étymologie : &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Méta    physique <br>
- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; au-delà <┘ └> la nature
+ &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; au-delà <┘&nbsp;&nbsp; &nbsp;&nbsp; └> la nature
  <br>Métaphysique : ce qui est au-delà du visible (existence du Dieu, la matière, l’esprit/ la conscience)</b></p>
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Il cherche une vérité<font style="color:#FF000;"> indubitable (=dont on ne peut douter)</font> sur laquelle il pourra faire sa philosophie.
  <br>Pour trouver cette vérité sûre et certaine, il va remettre en question : 
@@ -307,9 +307,11 @@
      <li id="para3">Tout les autres connaissances :
      <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;- un malin génie qui lui a mis des idées fausses dans la tête, donc qui le trompe
      <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;- on ne distingue pas les rêves de l’éveil
-     <br><b style="color:#00FF00;" text-align:center;>Faire table rase (tabula rasa)</b></li>
+     <br><b style="color:#00FF00;" style="text-align:center;">Faire table rase (tabula rasa)</b></li>
  </ol>
  </p>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Si, je remets en question mes connaissances, c’est que je doute de celles-ci ; ci je doute, c’est donc que quelque chose pense en moi, si quelque chose pense en moi, c’est donc j’existe.
+ <p id="para5" style="border: 1px solid black; padding: 10px;"><b>Cogito ergo sum <br> Je pense donc je suis (j’existe)</b></p>
 
 
 
