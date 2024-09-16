@@ -245,13 +245,13 @@
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;puisse difficilement se trompe. Il ne faut pas s’étonner pourtant si beaucoup d’esprits se
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;portent spontanément plutôt vers d’autres disciplines ou vers la philosophie : cela vient,
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;en effet, de ce que chacun se donne plus hardiment licence de jouer les devins<sup>1</sup> dans un
-   <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;domaine obscure que dans un domaine évident, et qu’il est bien plus facile d’entrevoir
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;quelque chose à propos d’une question quelconque, que de parvenir sur une seule, si facile
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;soit-elle, à la vérité elle-même.
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;De tout cela il faut maintenant conclure, non point certes qu’on ne doivent étudier que
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;l’arithmétique et la géométrie, mais seulement que ceux qui cherchent le droit chemin de 
-   <br>15 &nbsp;&nbsp; &nbsp;&nbsp;la vérité ne doivent s’occuper d’aucun objet à propos duquel ils ne puissent obtenir une 
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;certitude égale aux démonstrations de l’arithmétique et de la géométrie.
+   <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;domaine obscure que dans un domaine évident, et qu’il est bien plus facile d’entrevoir
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;quelque chose à propos d’une question quelconque, que de parvenir sur une seule, si facile
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;soit-elle, à la vérité elle-même.
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;De tout cela il faut maintenant conclure, non point certes qu’on ne doivent étudier que
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;l’arithmétique et la géométrie, mais seulement que ceux qui cherchent le droit chemin de 
+   <br>15 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;la vérité ne doivent s’occuper d’aucun objet à propos duquel ils ne puissent obtenir une 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;certitude égale aux démonstrations de l’arithmétique et de la géométrie.
    <br><sub>1- Qui prétend connaître ce qui est caché ou prédire l’avenir.</sub><br>
    <br><mark id="m1"><u>Repères</u></mark>
    <br>Certain : ne laisse subsister aucun doute, par opposition à ce qui n’est que probable. 
@@ -269,7 +269,7 @@
 
 
 
-
+ <br>
  <p id="para3"><mark>Idée générale </mark>: Apologie des mathématiques comme moyen sûr d’atteindre la vérité.Descartes voulait mettre le monde sous forme mathématique : <i style="color:#FF0000;">Mathesis Universalis</i></p>
  <p id="para3"><mark>De la ligne 1 à 5</mark>: 
  <br><font style="color:#FF0000;"> Évidence (du latin <i>"videre"</i>) : voir avec l’esprit
