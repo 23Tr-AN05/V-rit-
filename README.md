@@ -230,21 +230,21 @@
  <br><br><br>
  <p id="para9"><u><b>René DESCARTES, <i>Règles pour la direction de l’existence</i>, XVIIe siècle</b></u></p>
 
-  <button type="button" class="collapsible"><p id="para3"><b> René DESCARTES</b>, <i>Règles pour la direction de l’esprit</i></p>, règle II, AT X,365.</button>
+  <button type="button" class="collapsible"><p id="para3"><b> René DESCARTES</b>, <i>Règles pour la direction de l’esprit</i>, règle II, AT X,365.</p></button>
  
  <div class="content">
   <p id="para3"><i>Le privilège des mathématiques comme modèle de vérité n’a rien d’arbitraire, selon Descartes.
  Il vient du fait que leur objet est simple et abstrait, conçu hors de toute expérience. </i>
  <br> 
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; De là se conclut avec évidence la raison pour laquelle l’arithmétique et la géométrie sont
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; bien plus<mark id="m1"> certaines</mark> que toutes les autres disciplines : c’est qu’elles seules traient d’un
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;De là se conclut avec évidence la raison pour laquelle l’arithmétique et la géométrie sont
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;bien plus<mark id="m1"> certaines</mark> que toutes les autres disciplines : c’est qu’elles seules traient d’un
    <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;objet si pur et si simple qu’elles n’admettent absolument rien que l’expérience ait rendu
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;incertain, et qu’elles consistent tout entières à tirer des conséquences par voie de déduction
-   <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;rationnelle. Elles sont ainsi les plus faciles et les plus claires de toutes, et elles ont un objet
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;incertain, et qu’elles consistent tout entières à tirer des conséquences par voie de déduction
+   <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rationnelle. Elles sont ainsi les plus faciles et les plus claires de toutes, et elles ont un objet
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; tel que celui que nous exigeons, puisqu’en elles, sauf inadvertance, il semble que l’homme 
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;puisse difficilement se trompe. Il ne faut pas s’étonner pourtant si beaucoup d’esprits se
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;portent spontanément plutôt vers d’autres disciplines ou vers la philosophie : cela vient,
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;en effet, de ce que chacun se donne plus hardiment licence de jouer les devins<sup>1</sup> dans un
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;puisse difficilement se trompe. Il ne faut pas s’étonner pourtant si beaucoup d’esprits se
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;portent spontanément plutôt vers d’autres disciplines ou vers la philosophie : cela vient,
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;en effet, de ce que chacun se donne plus hardiment licence de jouer les devins<sup>1</sup> dans un
    <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;domaine obscure que dans un domaine évident, et qu’il est bien plus facile d’entrevoir
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;quelque chose à propos d’une question quelconque, que de parvenir sur une seule, si facile
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;soit-elle, à la vérité elle-même.
@@ -252,8 +252,8 @@
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;l’arithmétique et la géométrie, mais seulement que ceux qui cherchent le droit chemin de 
    <br>15 &nbsp;&nbsp; &nbsp;&nbsp;la vérité ne doivent s’occuper d’aucun objet à propos duquel ils ne puissent obtenir une 
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;certitude égale aux démonstrations de l’arithmétique et de la géométrie.
-   <br><sub>1- Qui prétend connaître ce qui est caché ou prédire l’avenir.</sub>
-   <br><u>Repères</u>
+   <br><sub>1- Qui prétend connaître ce qui est caché ou prédire l’avenir.</sub><br>
+   <br><mark id=m1"><u>Repères</u></mark>
    <br>Certain : ne laisse subsister aucun doute, par opposition à ce qui n’est que probable. 
    <br>Exemple: Descartes avec son <i>cogito</i> montre qu’il est certain que « Je suis, j’existe » par le fait que je pense rend impossible le fait que je ne sois pas.
    </p>
