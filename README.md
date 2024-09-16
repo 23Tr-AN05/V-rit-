@@ -236,8 +236,8 @@
   <p id="para3"><i>Le privilège des mathématiques comme modèle de vérité n’a rien d’arbitraire, selon Descartes.
  Il vient du fait que leur objet est simple et abstrait, conçu hors de toute expérience. </i>
  <br> 
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;De là se conclut avec évidence la raison pour laquelle l’arithmétique et la géométrie sont
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;bien plus<mark id="m1"> certaines</mark> que toutes les autres disciplines : c’est qu’elles seules traient d’un
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;De là se conclut avec évidence la raison pour laquelle l’arithmétique et la géométrie sont
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;bien plus <mark id="m1">certaines</mark> que toutes les autres disciplines : c’est qu’elles seules traient d’un
    <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;objet si pur et si simple qu’elles n’admettent absolument rien que l’expérience ait rendu
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;incertain, et qu’elles consistent tout entières à tirer des conséquences par voie de déduction
    <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rationnelle. Elles sont ainsi les plus faciles et les plus claires de toutes, et elles ont un objet
@@ -253,7 +253,7 @@
    <br>15 &nbsp;&nbsp; &nbsp;&nbsp;la vérité ne doivent s’occuper d’aucun objet à propos duquel ils ne puissent obtenir une 
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;certitude égale aux démonstrations de l’arithmétique et de la géométrie.
    <br><sub>1- Qui prétend connaître ce qui est caché ou prédire l’avenir.</sub><br>
-   <br><mark id=m1"><u>Repères</u></mark>
+   <br><mark id="m1"><u>Repères</u></mark>
    <br>Certain : ne laisse subsister aucun doute, par opposition à ce qui n’est que probable. 
    <br>Exemple: Descartes avec son <i>cogito</i> montre qu’il est certain que « Je suis, j’existe » par le fait que je pense rend impossible le fait que je ne sois pas.
    </p>
