@@ -443,7 +443,7 @@
  </div>
 
  <br>
- <p did="para">« Le morceau de cire » </p>
+ <p id="para">« Le morceau de cire » </p>
  <p id="para3"><mark>De la ligne 1 à 13:</mark>
  <br />&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Les changements de la substance « cire » perçus par les sens.
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;=> connaissance par le sens</p>
@@ -454,7 +454,7 @@
  <p id="para3"><mark>De la ligne 20 à 23:</mark>
  <br />&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ C’est l’entendement qui permet d’obtenir une connaissance stable et certaine de cette substance changeante.
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Mon entendement construit un jugement à partir des perceptions et des données sensibles.
- <br><font style="color:#FF000;">  Entendement (de Descartes) : La faculté de comprendre, d’apercevoir, de saisir l’intelligible (ce qui est saisi par l’intellect), par opposition aux sensations.</font></p>
+ <br><font style="color:#FF0000;">  Entendement (de Descartes) : La faculté de comprendre, d’apercevoir, de saisir l’intelligible (ce qui est saisi par l’intellect), par opposition aux sensations.</font></p>
  <p id="para3"><mark>De la ligne 24 à 29:</mark></p>
  <table id="p2">
      <tr>
