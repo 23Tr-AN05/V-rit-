@@ -586,7 +586,7 @@
  <br>
  <br>Cette loi morale ne souffre aucune exception, sinon elle devient, inutile donc caduque.
  <br>
- <br>Une action est morale si est seulement si elle est <b style="color:#FF0000;">universalisable</font>.
+ <br>Une action est morale si est seulement si elle est <b style="color:#FF0000;">universalisable</b>.
  <br>
  <br><mark>Ligne 20 : « commandement sacré de la raison »</mark>
  <br>« raison » : nous sommes des êtres rationnels donc nous avons grâce à la raison la capacité de retrouver cette loi morale qui est universelle.
