@@ -473,7 +473,7 @@
 
 
  <p id="para9"><u><b>PLATON, <i>La République, Livre VII</i>, IV<sup>e</sup> siècle avant J.-C.</b></u></p>
-   <button type="button" class="collapsible"><p id="para3"><b>PLATON</b>, <i>La République</i>, IV<sup>e</sup> av. J.-C.<br> Les sens ne suffisent pas pour connaître</p>  </button>
+   <button type="button" class="collapsible"><p id="para3"><b>PLATON</b>, <i>La République</i>, IV<sup>e</sup> av. J.-C.<br> La vérité est dans les Idées: l'âme doit chercher à s'élever</p>  </button>
  <div class="content">
   <p id="para3"><i></i>
   <br>
@@ -518,9 +518,14 @@
  <br>
  <p id="para2">Allégorie de la caverne : </p>
  <br>
- <iframe src="https://drive.google.com/file/d/1yAkQ_NIkB-qL8z6q-RXNKHkvxnGnyuH_/preview" width="640" height="480" allow="autoplay"></iframe>
- <br>
+ <iframe src="https://drive.google.com/file/d/1yAkQ_NIkB-qL8z6q-RXNKHkvxnGnyuH_/preview" width="640" height="400" allow="autoplay"></iframe>
+ <br><br>
  <p id="para3">Platon utilise une image et une histoire pour exprimer l’état dans lequel se situe Homme.</p>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <&nbsp;&nbsp; <u style="color:#0000FF."><b> 1.&nbsp;&nbsp; Les prisonniers représentent notre condition dans un état d ’<font style="color:#FF0000;"> illusion</font></b></u>
+ <br> <font style="color:#FF0000;">Illusion : idée que l’on a fait sur quelque chose ou quelqu’un, qui est fausse et souvent embellie.</font>
+ <br><br>
+ <br><br><font style="color:#FF0000;"> 
+ 
 
 
 
