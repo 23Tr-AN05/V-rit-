@@ -527,27 +527,24 @@
  Ce que l’on vit et perçoit depuis l’enfance, nous croyons que c’est la vérité <font style="coolor:#00FF00;">(pour Platon : Vérité = réalité)</font> : préjugés, opinions qui nous sont transmis par la famille, l’éducation, les médias.
  <br><br><font style="color:#FF0000;"> Préjugés : posséder un jugement sans savoir, sans connaître ce dont on parle.
  <br>Opinion (du grec « δόξα », doxa : opinion commune) : Ce que tout le monde pense sans y avoir réfléchi, sans savoir l’argumenter. </font>
-
-
+ <br>
  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp; <u style="color:#0000FF;"><b> 2.&nbsp;&nbsp;La sortie d’un prisonnier de la caverne :</b></u>
  <br>&nbsp;&nbsp; Ce prisonnier va passer par des différents étapes qui symbolisent celles de l’accès à la connaissance :
+ <br>
  <iframe src="https://drive.google.com/file/d/138fT1G_MpyOlmwI8d_1rdgMAi07AQXKd/preview" width="640" height="200" allow="autoplay"></iframe>
  <br>
  <br>&nbsp;&nbsp; &nbsp;&nbsp;-Tout ce en quoi il croyait se révèle être faux.
  <br>&nbsp;&nbsp; &nbsp;&nbsp;-« montée rude et escarpée » = le chemin vers la vérité est difficile et douloureux
  <br>&nbsp;&nbsp; &nbsp;&nbsp;- « souffrira »
  <br>&nbsp;&nbsp; &nbsp;&nbsp;-le passage de l’ombre à la lumière est un éblouissement qui fait mal aux yeux.
- 
-
-
-
-
- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <u style="color:#0000FF;"><b> 1.&nbsp;&nbsp; Les prisonniers représentent notre condition dans un état d ’<font style="color:#FF0000;"> illusion</font></b></u>
-
-
+ <br>
+ <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <u style="color:#0000FF;"><b> 3.&nbsp;&nbsp; Le retour du prisonnier / le philosophe</b></u>
+ <br>
  <iframe src="https://drive.google.com/file/d/1Mh_E51PMa5SY5NCzRjY6cd68uaINquH1/preview" width="640" height="400" allow="autoplay"></iframe>
-
-
+ <br>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; - Rôle du philosophe dans la société : il retourne dans la caverne pour guider les prisonniers vers la réalité et/ou la réalité.
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;- Le philosophe a perdu l’habitude de vivre dans l’illusion, il est inadapté, décalé.
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;- Les prisonniers vont le rejeter, se moquer de lui et vouloir le tuer (hommage à SOCRATE condamné à la mort).</p>
 
 
 
