@@ -521,7 +521,7 @@
  <iframe src="https://drive.google.com/file/d/1yAkQ_NIkB-qL8z6q-RXNKHkvxnGnyuH_/preview" width="640" height="300" allow="autoplay"></iframe>
  <br><br>
  <p id="para3">Platon utilise une image et une histoire pour exprimer l’état dans lequel se situe Homme.</p>
- <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <u style="color:#0000FF."><b> 1.&nbsp;&nbsp; Les prisonniers représentent notre condition dans un état d ’<font style="color:#FF0000;"> illusion</font></b></u>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <u style="color:#0000FF;"><b> 1.&nbsp;&nbsp; Les prisonniers représentent notre condition dans un état d ’<font style="color:#FF0000;"> illusion</font></b></u>
  <br> <font style="color:#FF0000;">Illusion : idée que l’on a fait sur quelque chose ou quelqu’un, qui est fausse et souvent embellie.</font>
  <br><br>
  Ce que l’on vit et perçoit depuis l’enfance, nous croyons que c’est la vérité <font style="coolor:#00FF00;">(pour Platon : Vérité = réalité)</font> : préjugés, opinions qui nous sont transmis par la famille, l’éducation, les médias.
@@ -529,7 +529,7 @@
  <br>Opinion (du grec « δόξα », doxa : opinion commune) : Ce que tout le monde pense sans y avoir réfléchi, sans savoir l’argumenter. </font>
 
 
- <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp; <u style="color:#0000FF."><b> 2.&nbsp;&nbsp;La sortie d’un prisonnier de la caverne :</b></u>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp; <u style="color:#0000FF;"><b> 2.&nbsp;&nbsp;La sortie d’un prisonnier de la caverne :</b></u>
  <br>&nbsp;&nbsp; Ce prisonnier va passer par des différents étapes qui symbolisent celles de l’accès à la connaissance :
  <iframe src="https://drive.google.com/file/d/138fT1G_MpyOlmwI8d_1rdgMAi07AQXKd/preview" width="640" height="200" allow="autoplay"></iframe>
  <br>
@@ -542,10 +542,10 @@
 
 
 
- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <u style="color:#0000FF."><b> 1.&nbsp;&nbsp; Les prisonniers représentent notre condition dans un état d ’<font style="color:#FF0000;"> illusion</font></b></u>
+ &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <u style="color:#0000FF;"><b> 1.&nbsp;&nbsp; Les prisonniers représentent notre condition dans un état d ’<font style="color:#FF0000;"> illusion</font></b></u>
 
 
- <iframe src="https://drive.google.com/file/d/1Mh_E51PMa5SY5NCzRjY6cd68uaINquH1/preview" width="640" height="480" allow="autoplay"></iframe>
+ <iframe src="https://drive.google.com/file/d/1Mh_E51PMa5SY5NCzRjY6cd68uaINquH1/preview" width="640" height="400" allow="autoplay"></iframe>
 
 
 
