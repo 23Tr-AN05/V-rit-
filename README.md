@@ -400,18 +400,49 @@
   <br><br><br>
 
  <p id="para9"><u><b>René DESCARTES, <i>Méditations métaphysiques</i>, XVIIIe siècle</b></u></p>
-   <button type="button" class="collapsible"><p id="para3"><b>René DESCARTES</b>, <i>Méditations métaphysiques</i>, 1641</p>    </button>
+   <button type="button" class="collapsible"><p id="para3"><b>René DESCARTES</b>, <i>Méditations métaphysiques</i>, 1641<br> Les sens ne suffisent pas pour connaître</p>    </button>
    <div class="content">
-   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-   <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+   <p id="para3"><i>Après s'être défini comme « une chose qui pense », Descartes se demande ce qu'il peut connaître<br> du monde. Malgré les changements d'état d'un morceau de cire chauffé, et donc son changement<br> d'apparence sensorielle, nous ne doutons pas qu'il s'agisse bel et bien du même morceau <br>de cire. C'est notre jugement qui s'impose à la perception du morceau de cire : nous ne recevons <br>pas passivement des informations des sens, nous jugeons la réalité perçue.</i>
+
+   <br>
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Prenons pour exemple ce morceau de cire : il vient tout 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; fraîchement d'être tiré de la ruche, il n'a pas encore perdu  
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; la douceur du miel qu'il contenait, il retient encore quelque
+   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; chose de l'odeur des fleurs dont il a été recueilli ; sa couleur, 
+   <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; sa figure, sa grandeur sont apparentes ; il est dur, il est
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  froid, il est maniable, et si vous frappez dessus, il rendra
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; quelque son. Enfin toutes les choses qui peuvent distinctement
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; faire connaître un corps se rencontrent en celui-ci.
+   <br>
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Mais voici que pendant que je parle, on l'approche du
+   <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; feu : ce qui y restait de saveur s'exhale, l'odeur s'évapore, sa 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; couleur se change, sa figure se perd, sa grandeur augmente, 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; il devient liquide, il s'échauffe, à peine peut-on le manier,
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; et quoique l'on frappe dessus, il ne rendra plus aucun son.
+   <br>
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; La même cire demeure-t-elle encore après ce changement ? Il faut avouer qu'elle
+   <br>15 &nbsp;&nbsp; &nbsp;&nbsp; demeure ; personne n'en doute, personne ne juge autrement. Qu'est-ce donc que
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; l'on connaissait en ce morceau de cire avec tant de distinction ? Certes ce ne peut
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  être rien de tout ce que j'y ai remarqué par l'entremise des sens, puisque toutes les 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; choses qui tombaient sous le goût, sous l'odorat, sous la vue, sous l'attouchement 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;et sous l'ouïe, se trouvent changées, et que cependant la même cire demeure. […]
+   <br>
+   <br>20 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Je dis ce morceau de cire en particulier : car pour la cire en général, il est encore plus 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; évident. Mais quel est ce morceau de cire qui ne peut être compris que par l'entendement 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; ou par l'esprit ? Certes c'est le même que je vois, que je touche, que j'imagine,
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; et enfin, c'est le même que j'ai toujours cru que c'était au commencement.
+   <br>
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Or ce qui est ici grandement à remarquer, c'est que sa perception n'est point
+   <br>25&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;une vision, ni un attouchement, ni une imagination, et ne l'a jamais été quoiqu'il 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; le semblât ainsi auparavant, mais seulement une inspection de l'esprit, laquelle 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; peut être imparfaite et confuse, comme elle était auparavant, ou bien claire et distincte,
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  comme elle est à présent, selon que mon attention se porte plus ou moins 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;aux choses qui sont en elle, et dont elle est composée.
+   <br><br>Repère: Croire / Savoir
    </p>
  </div>
 
+ <br>
  <p did="para">« Le morceau de cire » </p>
  <p id="para3"><mark>De la ligne 1 à 13:</mark>
  <br />&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Les changements de la substance « cire » perçus par les sens.
