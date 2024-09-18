@@ -533,11 +533,11 @@
  <br>&nbsp;&nbsp; Ce prisonnier va passer par des différents étapes qui symbolisent celles de l’accès à la connaissance :
  <iframe src="https://drive.google.com/file/d/138fT1G_MpyOlmwI8d_1rdgMAi07AQXKd/preview" width="640" height="480" allow="autoplay"></iframe>
  <br>
-
-
-
-
-
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;-Tout ce en quoi il croyait se révèle être faux.
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;-« montée rude et escarpée » = le chemin vers la vérité est difficile et douloureux
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;- « souffrira »
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;-le passage de l’ombre à la lumière est un éblouissement qui fait mal aux yeux.
+ 
 
 
 
