@@ -474,6 +474,7 @@
 
  <p id="para9"><u><b>PLATON, <i>La République, Livre VII</i>, IV<sup>e</sup> siècle avant J.-C.</b></u></p>
    <button type="button" class="collapsible"><p id="para3"><b>PLATON</b>, <i>La République</i>, IV<sup>e</sup> s. av. J.-C.<br> La vérité est dans les Idées: l'âme doit chercher à s'élever</p>  </button>
+  
  <div class="content">
   <p id="para3"><i></i>
   <br>
@@ -550,6 +551,7 @@
  
  <p id="para9"><u><b>Emmanuel KANT, <i>D’un prétendu droit de mentir par l’humanité</i>, XVIII<sup>e</sup> siècle</b></u></p>
    <button type="button" class="collapsible"><p id="para3"><b>Emmanuel KANT</b>, <i>D’un prétendu droit de mentir par l’humanité</i>, [1797]<br> Dire la vérité est un impératif absolu</p>  </button>
+  
  <div class="content">
   <p id="para3"><i></i>
   <br>
@@ -574,16 +576,23 @@
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
   <br>20 &nbsp;&nbsp; &nbsp;&nbsp;
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>25&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; déclarations.
+  <br>
+  <br>
   </p>
  </div>
+
+ <br>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Ne pas mentir est un <font style="color:#FF0000;"> devoir</font>, car si l’un d’entre nous ment, il engage l’humanité entière. Nos relations inter-humaines sont basées sur la confiance et fonctionnelles grâce à celle-ci. SI chacun d’entre nous ment, cette confiance disparaît (contrat). 
+ <br> <font style="color:#FF0000;">Devoir : loi morale = obligation</font>
+ <br>
+ <br>Cette loi morale ne souffre aucune exception, sinon elle devient, inutile donc caduque.
+ <br>
+ <br>Une action est morale si est seulement si elle est <b style="color:#FF0000;">universalisable</font>.
+ <br>
+ <br><mark>Ligne 20 : « commandement sacré de la raison »</mark>
+ <br>« raison » : nous sommes des êtres rationnels donc nous avons grâce à la raison la capacité de retrouver cette loi morale qui est universelle.
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Quelles que soient les conséquences pour autrui, la loi morale exige de dire la vérité.</p>
 
 
 
