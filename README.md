@@ -425,7 +425,7 @@
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; l'on connaissait en ce morceau de cire avec tant de distinction ? Certes ce ne peut
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  être rien de tout ce que j'y ai remarqué par l'entremise des sens, puisque toutes les 
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; choses qui tombaient sous le goût, sous l'odorat, sous la vue, sous l'attouchement 
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;et sous l'ouïe, se trouvent changées, et que cependant la même cire demeure. […]
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;et sous l'ouïe, se trouvent changées, et que cependant la même cire demeure. […]
    <br>
    <br>20 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Je dis ce morceau de cire en particulier : car pour la cire en général, il est encore plus 
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; évident. Mais quel est ce morceau de cire qui ne peut être compris que par l'entendement 
@@ -433,11 +433,11 @@
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; et enfin, c'est le même que j'ai toujours cru que c'était au commencement.
    <br>
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Or ce qui est ici grandement à remarquer, c'est que sa perception n'est point
-   <br>25&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;une vision, ni un attouchement, ni une imagination, et ne l'a jamais été quoiqu'il 
+   <br>25&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;une vision, ni un attouchement, ni une imagination, et ne l'a jamais été quoiqu'il 
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; le semblât ainsi auparavant, mais seulement une inspection de l'esprit, laquelle 
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; peut être imparfaite et confuse, comme elle était auparavant, ou bien claire et distincte,
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  comme elle est à présent, selon que mon attention se porte plus ou moins 
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;aux choses qui sont en elle, et dont elle est composée.
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;aux choses qui sont en elle, et dont elle est composée.
    <br><br>Repère: Croire / Savoir
    </p>
  </div>
