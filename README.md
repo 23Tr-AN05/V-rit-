@@ -539,12 +539,13 @@
  <br>&nbsp;&nbsp; &nbsp;&nbsp;-le passage de l’ombre à la lumière est un éblouissement qui fait mal aux yeux.
  <br>
  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <u style="color:#0000FF;"><b> 3.&nbsp;&nbsp; Le retour du prisonnier / le philosophe</b></u>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; - Rôle du philosophe dans la société : il retourne dans la caverne pour guider les prisonniers vers la réalité et/ou la réalité.
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;- Le philosophe a perdu l’habitude de vivre dans l’illusion, il est inadapté, décalé.
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;- Les prisonniers vont le rejeter, se moquer de lui et vouloir le tuer (hommage à SOCRATE condamné à la mort).
  <br>
  <iframe src="https://drive.google.com/file/d/1Mh_E51PMa5SY5NCzRjY6cd68uaINquH1/preview" width="640" height="400" allow="autoplay"></iframe>
  <br>
- <br>&nbsp;&nbsp; &nbsp;&nbsp; - Rôle du philosophe dans la société : il retourne dans la caverne pour guider les prisonniers vers la réalité et/ou la réalité.
- <br>&nbsp;&nbsp; &nbsp;&nbsp;- Le philosophe a perdu l’habitude de vivre dans l’illusion, il est inadapté, décalé.
- <br>&nbsp;&nbsp; &nbsp;&nbsp;- Les prisonniers vont le rejeter, se moquer de lui et vouloir le tuer (hommage à SOCRATE condamné à la mort).</p>
+ </p>
 
 
 
