@@ -332,7 +332,7 @@
 
  <br><br><br>
  <p id="para9"><u><b>René DESCARTES, <i>Méditations métaphysiques</i>, XVIIIe siècle</b></u></p>
-   <button type="button" class="collapsible"><p id="para3"><b></b>, <i></i></p>    </button>
+   <button type="button" class="collapsible"><p id="para3"><b>René DESCARTES</b>, <i>Méditations métaphysiques</i>,1641</p>    </button>
    <div class="content">
    <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
@@ -377,9 +377,30 @@
  <p id="para3" style="color:#0000FF;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; => La vérité 1re à laquelle il aboutit.
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; => Le doute cartésien est radical, hyperbolique, <u>méthod</u>ique (par étapes)
   <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;└> "Chemin" en latin
-  <br> <center>Mais, il aboutit à une vérité, donc il est fécond. </center>
+  <br> <center<><font style="color:#0000FF;" size="20">Mais, il aboutit à une vérité, donc il est fécond. </font></center>
   </p>
-  <p id="para3">
+  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Ce doute est fécond car il aboutit à cette vérité, au contraire du doute des Sceptiques, qui demeure stérile. En effet, ce courant a été fondé vers 300 ans avant notre ère, par PYRRHON D’ÉLIS : pour les Sceptiques, il n’y a pas de vérité accessible aux Hommes, ou bien on peut défendre tout et son contraire.</p>
+  <br><br><br>
+
+ <p id="para9"><u><b>René DESCARTES, <i>Méditations métaphysiques</i>, XVIIIe siècle</b></u></p>
+   <button type="button" class="collapsible">René DESCARTES<p id="para3"><b></b>, <i>Méditations métaphysiques</i>, 1641</p>    </button>
+   <div class="content">
+   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+   <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+   </p>
+ </div>
+
+
+
+
+
+
+
 
 
 
