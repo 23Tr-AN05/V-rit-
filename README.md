@@ -334,7 +334,7 @@
  <p id="para9"><u><b>René DESCARTES, <i>Méditations métaphysiques</i>, XVIIIe siècle</b></u></p>
    <button type="button" class="collapsible"><p id="para3"><b>René DESCARTES</b>, <i>Méditations métaphysiques</i>,1641<br> Trouver un fondement sûr à nos connaissances</p> </button>
 
-   <div class="content">
+ <div class="content">
      <p id="para3"><i>Dans un contexte historique où le système géocentrique est remis en cause par Copernic puis <br>par Galilée,il est urgent, pour Descartes, de se demander s'il peut trouver une première certitude <br>qui lui servira de fondement. Après avoir entrepris de douter de tout, dans cette deuxième<br> méditation, il émet l'hypothèse d'un malin génie qui le tromperait constamment.</i> 
    <br> 
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Je suppose donc que toutes les choses que je vois sont fausses ; je me persuade que
@@ -402,9 +402,9 @@
 
  <p id="para9"><u><b>René DESCARTES, <i>Méditations métaphysiques</i>, XVIIIe siècle</b></u></p>
    <button type="button" class="collapsible"><p id="para3"><b>René DESCARTES</b>, <i>Méditations métaphysiques</i>, 1641<br> Les sens ne suffisent pas pour connaître</p>    </button>
-   <div class="content">
-   <p id="para3"><i>Après s'être défini comme « une chose qui pense », Descartes se demande ce qu'il peut connaître<br> du monde. Malgré les changements d'état d'un morceau de cire chauffé, et donc son changement<br> d'apparence sensorielle, nous ne doutons pas qu'il s'agisse bel et bien du même morceau <br>de cire. C'est notre jugement qui s'impose à la perception du morceau de cire : nous ne recevons <br>pas passivement des informations des sens, nous jugeons la réalité perçue.</i>
 
+ <div class="content">
+   <p id="para3"><i>Après s'être défini comme « une chose qui pense », Descartes se demande ce qu'il peut connaître<br> du monde. Malgré les changements d'état d'un morceau de cire chauffé, et donc son changement<br> d'apparence sensorielle, nous ne doutons pas qu'il s'agisse bel et bien du même morceau <br>de cire. C'est notre jugement qui s'impose à la perception du morceau de cire : nous ne recevons <br>pas passivement des informations des sens, nous jugeons la réalité perçue.</i>
    <br>
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Prenons pour exemple ce morceau de cire : il vient tout 
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; fraîchement d'être tiré de la ruche, il n'a pas encore perdu  
