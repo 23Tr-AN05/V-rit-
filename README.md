@@ -368,7 +368,7 @@
      <li id="para3">Tout les autres connaissances :
      <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;- un malin génie qui lui a mis des idées fausses dans la tête, donc qui le trompe
      <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;- on ne distingue pas les rêves de l’éveil
-     <br><b style="color:#00FF00;" style="text-align:center;">Faire table rase (tabula rasa)</b></li>
+     <br><b style="color:#00FF00;"><font style="text-align:center;">Faire table rase (tabula rasa)</font></b></li>
  </ol>
  </p>
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Si, je remets en question mes connaissances, c’est que je doute de celles-ci ; ci je doute, c’est donc que quelque chose pense en moi, si quelque chose pense en moi, c’est donc j’existe.
