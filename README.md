@@ -473,7 +473,7 @@
 
 
  <p id="para9"><u><b>PLATON, <i>La République, Livre VII</i>, IV<sup>e</sup> siècle avant J.-C.</b></u></p>
-   <button type="button" class="collapsible"><p id="para3"><b>PLATON</b>, <i>La République</i>, IV<sup>e</sup> av. J.-C.<br> La vérité est dans les Idées: l'âme doit chercher à s'élever</p>  </button>
+   <button type="button" class="collapsible"><p id="para3"><b>PLATON</b>, <i>La République</i>, IV<sup>e</sup> s. av. J.-C.<br> La vérité est dans les Idées: l'âme doit chercher à s'élever</p>  </button>
  <div class="content">
   <p id="para3"><i></i>
   <br>
@@ -524,7 +524,7 @@
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <u style="color:#0000FF;"><b> 1.&nbsp;&nbsp; Les prisonniers représentent notre condition dans un état d ’<font style="color:#FF0000;"> illusion</font></b></u>
  <br> <font style="color:#FF0000;">Illusion : idée que l’on a fait sur quelque chose ou quelqu’un, qui est fausse et souvent embellie.</font>
  <br><br>
- Ce que l’on vit et perçoit depuis l’enfance, nous croyons que c’est la vérité <font style="coolor:#00FF00;">(pour Platon : Vérité = réalité)</font> : préjugés, opinions qui nous sont transmis par la famille, l’éducation, les médias.
+ Ce que l’on vit et perçoit depuis l’enfance, nous croyons que c’est la vérité <font style="color:#00FF00;">(pour Platon : Vérité = réalité)</font> : préjugés, opinions qui nous sont transmis par la famille, l’éducation, les médias.
  <br><br><font style="color:#FF0000;"> Préjugés : posséder un jugement sans savoir, sans connaître ce dont on parle.
  <br>Opinion (du grec « δόξα », doxa : opinion commune) : Ce que tout le monde pense sans y avoir réfléchi, sans savoir l’argumenter. </font>
  <br>
@@ -539,15 +539,51 @@
  <br>&nbsp;&nbsp; &nbsp;&nbsp;-le passage de l’ombre à la lumière est un éblouissement qui fait mal aux yeux.
  <br>
  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <u style="color:#0000FF;"><b> 3.&nbsp;&nbsp; Le retour du prisonnier / le philosophe</b></u>
- <br>&nbsp;&nbsp; &nbsp;&nbsp; - Rôle du philosophe dans la société : il retourne dans la caverne pour guider les prisonniers vers la réalité et/ou la réalité.
- <br>&nbsp;&nbsp; &nbsp;&nbsp;- Le philosophe a perdu l’habitude de vivre dans l’illusion, il est inadapté, décalé.
- <br>&nbsp;&nbsp; &nbsp;&nbsp;- Les prisonniers vont le rejeter, se moquer de lui et vouloir le tuer (hommage à SOCRATE condamné à la mort).
+ <br>- Rôle du philosophe dans la société : il retourne dans la caverne pour guider les prisonniers vers la réalité et/ou la réalité.
+ <br>- Le philosophe a perdu l’habitude de vivre dans l’illusion, il est inadapté, décalé.
+ <br>- Les prisonniers vont le rejeter, se moquer de lui et vouloir le tuer (hommage à SOCRATE condamné à la mort).
  <br>
  <iframe src="https://drive.google.com/file/d/1Mh_E51PMa5SY5NCzRjY6cd68uaINquH1/preview" width="640" height="400" allow="autoplay"></iframe>
  <br>
  </p>
-
-
+ <br><br><br>
+ 
+ <p id="para9"><u><b>Emmanuel KANT, <i>D’un prétendu droit de mentir par l’humanité</i>, XVIII<sup>e</sup> siècle</b></u></p>
+   <button type="button" class="collapsible"><p id="para3"><b>Emmanuel KANT</b>, <i>D’un prétendu droit de mentir par l’humanité</i>, [1797]<br> Dire la vérité est un impératif absolu</p>  </button>
+ <div class="content">
+  <p id="para3"><i></i>
+  <br>
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>15 &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>20 &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>25&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  </p>
+ </div>
 
 
 
