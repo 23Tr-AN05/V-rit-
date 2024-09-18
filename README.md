@@ -374,10 +374,10 @@
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Si, je remets en question mes connaissances, c’est que je doute de celles-ci ; ci je doute, c’est donc que quelque chose pense en moi, si quelque chose pense en moi, c’est donc j’existe.
  <p id="para5" style="border: 1px solid black; padding: 10px;"><b>Cogito ergo sum <br> Je pense donc je suis (j’existe)</b></p>
  <br>
- <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; => La vérité 1re à laquelle il aboutit.
+ <p id="para3" style="color:#0000FF;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; => La vérité 1re à laquelle il aboutit.
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; => Le doute cartésien est radical, hyperbolique, méthodique (par étapes)
   <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;└> "Chemin" en latin
-  <br> <font text-align="center">Mais, il aboutit à une vérité, donc il est fécond.  
+  <br> <font style="text-align:center;">Mais, il aboutit à une vérité, donc il est fécond.  
 
 
 
