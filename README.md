@@ -110,7 +110,7 @@
  <br>
  <p id="para8">L'étymologie grecque du mot "Vérité":</p>  
  <iframe src="https://drive.google.com/file/d/1gl1mGENvzBmOVUZjci0JxF6Twfa7C8qX/preview" width="640" height="280" allow="autoplay"></iframe>
-<br>
+ <br>
  <p id="para3">  <b style="color:red;">La vérité serait donc le fait de ne pas oublier</b> les Idées que nos âmes ont contemplées avant de s’incarner.</p>
  <br/>
  <br>
@@ -125,8 +125,7 @@
  </ol>
  <br><br>
  <p id="para9"><u><b>Emmanuel KANT, <i>Critique de la raison pure, II</i>, XVIIIe siècle (p. 524.)</b></u></p>
-
- <button type="button" class="collapsible"><p id="para3"><b>Emmanuel KANT</b>, « Théorie transcendantale de la méthode »,<br> <i>Critique de la raison pure</i>, II, 1781 <br> trad. B. Pacaud et A. Tremesaygues, 1905</p> </button>
+     <button type="button" class="collapsible"><p id="para3"><b>Emmanuel KANT</b>, « Théorie transcendantale de la méthode »,<br> <i>Critique de la raison pure</i>, II, 1781 <br> trad. B. Pacaud et A. Tremesaygues, 1905</p> </button>
 
  <div class="content">
    <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; L'ancienne et célèbre question par laquelle on prétendait pousser à bout les logiciens
@@ -206,8 +205,7 @@
  
  <br><br><br>
  <p id="para9"><u><b>Thomas d’AQUIN (¡il est catholique!), <i>Sommes théologiques</i>, XIIIe siècle (p. 522.)</b></u></p>
- 
- <button type="button" class="collapsible"><p id="para3"><b>Thomas d'AQUIN</b>, <i>Somme théologie</i>, t. I,q. 16,art.2, 1266-1273, <br> trad. A.-D. Sertillanges, 1926, mise à jour par A.-M.Rouget,2000</p>    </button>
+     <button type="button" class="collapsible"><p id="para3"><b>Thomas d'AQUIN</b>, <i>Somme théologie</i>, t. I,q. 16,art.2, 1266-1273, <br> trad. A.-D. Sertillanges, 1926, mise à jour par A.-M.Rouget,2000</p>    </button>
  <div class="content">
   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; On l'a déjà dit, le vrai, selon sa raison formelle première, est dans l'intelligence.
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Puisque toute chose est vraie selon qu'elle possède la forme qui est propre à sa 
