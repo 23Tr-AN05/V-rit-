@@ -159,6 +159,7 @@
  </p>
  </div>
 
+ <br>
  <p id="para3"><b style="color:#0000FF;"><u>Comment établir une connaissance vrai sur le monde ?</u></b></p>
  <p id="para3">Pour établir la vérité d’une connaissance, les règles générales de la logique sont nécessaires : le principe de non contradiction, le principe de causalité.</p>
  <p id="para3"><mark>De la ligne 1 à 7:</mark>
@@ -217,6 +218,7 @@
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; connaître la vérité.   </p>
  </div>
 
+ <br>
  <p id="para3"><mark>La ligne 1:</mark>
  <br />&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ La vérité est contenue dans notre intelligence parce que nous possédons unefaculté logique (que Dieu nous a donnée).</p>
  <p id="para3"><mark>De la ligne 2 à 5:</mark>
@@ -258,13 +260,6 @@
    <br>Exemple: Descartes avec son <i>cogito</i> montre qu’il est certain que « Je suis, j’existe » par le fait que je pense rend impossible le fait que je ne sois pas.
    </p>
  </div>
-
-
-
-
-
-
-
 
 
 
@@ -347,7 +342,7 @@
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
    </p>
- </div>
+ </div>
 
 
 
@@ -361,7 +356,7 @@
 
 
 
-
+ <br>
  <p id="para3"><b style="color:#BF0000;"> Étymologie :Étymologie : &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Méta    physique <br>
  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; au-delà <┘&nbsp;&nbsp; &nbsp;&nbsp; └> la nature
  <br>Métaphysique : ce qui est au-delà du visible (existence du Dieu, la matière, l’esprit/ la conscience)</b></p>
