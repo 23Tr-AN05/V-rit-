@@ -472,8 +472,55 @@
  <br><br><br>
 
 
+ <p id="para9"><u><b>PLATON, <i>La République, Livre VII</i>, IV<sup>e</sup> siècle avant J.-C.</b></u></p>
+   <button type="button" class="collapsible"><p id="para3"><b>PLATON</b>, <i>La République</i>, IV<sup>e</sup> av. J.-C.<br> Les sens ne suffisent pas pour connaître</p>  </button>
+ <div class="content">
+  <p id="para3"><i></i>
+  <br>
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>15 &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>20 &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>25&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  </p>
+ </div>
 
 
+
+
+
+
+ 
+ <br>
+ <p id="para2">Allégorie de la caverne : </p>
+ <br>
+ <iframe src="https://drive.google.com/file/d/1yAkQ_NIkB-qL8z6q-RXNKHkvxnGnyuH_/preview" width="640" height="480" allow="autoplay"></iframe>
+ <br>
+ <p id="para3">Platon utilise une image et une histoire pour exprimer l’état dans lequel se situe Homme.</p>
 
 
 
