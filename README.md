@@ -592,8 +592,48 @@
  <br>« raison » : nous sommes des êtres rationnels donc nous avons grâce à la raison la capacité de retrouver cette loi morale qui est universelle.
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Quelles que soient les conséquences pour autrui, la loi morale exige de dire la vérité.</p>
 
+ <br><br><br>
 
+ <p id="para9"><u><b>Benjamin CONSTANT, <i>Dès réactions politiques</i>, XVIII<sup>e</sup> siècle</b></u></p>
+   <button type="button" class="collapsible"><p id="para3"><b>Benjamin CONSTANT</b>, <i>Dès réactions politiques</i>, 1797<br> Il y a des vérités qui nuissent à autrui</p>  </button>
+  
+ <div class="content">
+  <p id="para3"><i></i>
+  <br>
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>15 &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>20 &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>
+  <br>
+  </p>
+ </div>
 
+ <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Distinction entre la théorie et la pratique.
+ <br>La loi morale (kantienne)<┘ &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; └> Les cas particuliers
+ <br> &nbsp;&nbsp;&nbsp;&nbsp;   => générale
+ <br><br><mark>Ligne 7 : « Philosophe allemand »</mark> → référence à<b> Emmanuel KANT</b>
+ <br>- La loi morale qui impose de ne jamais mentir n’est pas applicable dans la pratique.
+ <br>- La loi morale de ne pas mentir exige aussi que la vérité ne nuise pas à autrui.
+ <br>   &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; => La solution de Benjamin CONSTANT.</p>
 
 
 
