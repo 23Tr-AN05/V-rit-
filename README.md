@@ -375,9 +375,11 @@
  <p id="para5" style="border: 1px solid black; padding: 10px;"><b>Cogito ergo sum <br> Je pense donc je suis (j’existe)</b></p>
  <br>
  <p id="para3" style="color:#0000FF;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; => La vérité 1re à laquelle il aboutit.
- <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; => Le doute cartésien est radical, hyperbolique, méthodique (par étapes)
-  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;└> "Chemin" en latin
-  <br> <font style="text-align:center;">Mais, il aboutit à une vérité, donc il est fécond.  
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; => Le doute cartésien est radical, hyperbolique, <u>méthod</u>ique (par étapes)
+  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;└> "Chemin" en latin
+  <br> <center>Mais, il aboutit à une vérité, donc il est fécond. </center>
+  </p>
+  <p id="para3">
 
 
 
