@@ -343,17 +343,17 @@
    <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  véritable ? Peut-être rien autre chose, sinon qu'il n'y a rien au monde de certain.
    <br>
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Mais que sais-je s'il n'y a point quelque autre chose différente de celles que je 
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;viens de juger incertaines, de laquelle on ne puisse avoir le moindre doute ? N'y 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;viens de juger incertaines, de laquelle on ne puisse avoir le moindre doute ? N'y 
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; a-t-il point quelque Dieu, ou quelque autre puissance, qui me met en l'esprit ces
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; pensées ? Cela n'est pas nécessaire ; car peut-être que je suis capable de les produire
-   <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;de moi-même. Moi donc à tout le moins ne suis-je pas quelque chose ? Mais j'ai 
+   <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;de moi-même. Moi donc à tout le moins ne suis-je pas quelque chose ? Mais j'ai 
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; déjà nié que j'eusse aucun sens ni aucun corps. J'hésite néanmoins, car que s'ensuit-il
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;de là ? Suis-je tellement dépendant du corps et des sens, que je ne puisse
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;de là ? Suis-je tellement dépendant du corps et des sens, que je ne puisse
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; être sans eux ? Mais je me suis persuadé qu'il n'y avait rien du tout dans le monde,
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  qu'il n'y avait aucun ciel, aucune terre, aucun esprit, ni aucun corps ; ne me suis-je
-   <br>15 &nbsp;&nbsp; &nbsp;&nbsp;donc pas aussi persuadé que je n'étais point ? Non certes, j'étais sans doute, si je
+   <br>15 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;donc pas aussi persuadé que je n'étais point ? Non certes, j'étais sans doute, si je
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  me suis persuadé, ou seulement si j'ai pensé quelque chose. Mais il y a un je ne 
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;sais quel trompeur très puissant et très rusé, qui emploie toute son industrie à
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;sais quel trompeur très puissant et très rusé, qui emploie toute son industrie à
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  me tromper toujours. Il n'y a donc point de doute que je suis, s'il me trompe ; 
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; et qu'il me trompe tant qu'il voudra il ne saurait jamais faire que je ne sois rien,
    <br>20 &nbsp;&nbsp; &nbsp;&nbsp; tant que je penserai être quelque chose. De sorte qu'après y avoir bien pensé, et
