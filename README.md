@@ -235,7 +235,7 @@
   <button type="button" class="collapsible"><p id="para3"><b> René DESCARTES</b>, <i>Règles pour la direction de l’esprit</i>, règle II, AT X,365.</p></button>
  
  <div class="content">
-  <p id="para3"><i>Le privilège des mathématiques comme modèle de vérité n’a rien d’arbitraire, selon Descartes.
+  <p id="para3"><i>Le privilège des mathématiques comme modèle de vérité n’a rien d’arbitraire, selon Descartes.<br>
  Il vient du fait que leur objet est simple et abstrait, conçu hors de toute expérience. </i>
  <br> 
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;De là se conclut avec évidence la raison pour laquelle l’arithmétique et la géométrie sont
@@ -332,25 +332,42 @@
 
  <br><br><br>
  <p id="para9"><u><b>René DESCARTES, <i>Méditations métaphysiques</i>, XVIIIe siècle</b></u></p>
-   <button type="button" class="collapsible"><p id="para3"><b>René DESCARTES</b>, <i>Méditations métaphysiques</i>,1641</p>    </button>
+   <button type="button" class="collapsible"><p id="para3"><b>René DESCARTES</b>, <i>Méditations métaphysiques</i>,1641<br> Trouver un fondement sûr à nos connaissances</p>    </button>
    <div class="content">
-   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-   <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+   <p id="para3"><i>Dans un contexte historique où le système géocentrique est remis en cause par Copernic puis <br>par Galilée,il est urgent, pour Descartes, de se demander s'il peut trouver une première certitude <br>qui lui servira de fondement. Après avoir entrepris de douter de tout, dans cette deuxième<br> méditation, il émet l'hypothèse d'un malin génie qui le tromperait constamment.</i> 
+   <br> 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Je suppose donc que toutes les choses que je vois sont fausses ; je me persuade que
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; rien n'a jamais été de tout ce que ma mémoire remplie de mensonges me représente ;
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; je pense n'avoir aucun sens ; je crois que le corps, la figure, l'étendue, le mouvement et
+   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;le lieu ne sont que des fictions de mon esprit. Qu'est-ce donc qui pourra être estimé
+   <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  véritable ? Peut-être rien autre chose, sinon qu'il n'y a rien au monde de certain.
+   <br>
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Mais que sais-je s'il n'y a point quelque autre chose différente de celles que je 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;viens de juger incertaines, de laquelle on ne puisse avoir le moindre doute ? N'y 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; a-t-il point quelque Dieu, ou quelque autre puissance, qui me met en l'esprit ces
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; pensées ? Cela n'est pas nécessaire ; car peut-être que je suis capable de les produire
+   <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;de moi-même. Moi donc à tout le moins ne suis-je pas quelque chose ? Mais j'ai 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; déjà nié que j'eusse aucun sens ni aucun corps. J'hésite néanmoins, car que s'ensuit-il
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;de là ? Suis-je tellement dépendant du corps et des sens, que je ne puisse
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; être sans eux ? Mais je me suis persuadé qu'il n'y avait rien du tout dans le monde,
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  qu'il n'y avait aucun ciel, aucune terre, aucun esprit, ni aucun corps ; ne me suis-je
+   <br>15 &nbsp;&nbsp; &nbsp;&nbsp;donc pas aussi persuadé que je n'étais point ? Non certes, j'étais sans doute, si je
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  me suis persuadé, ou seulement si j'ai pensé quelque chose. Mais il y a un je ne 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;sais quel trompeur très puissant et très rusé, qui emploie toute son industrie à
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  me tromper toujours. Il n'y a donc point de doute que je suis, s'il me trompe ; 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; et qu'il me trompe tant qu'il voudra il ne saurait jamais faire que je ne sois rien,
+   <br>20 &nbsp;&nbsp; &nbsp;&nbsp; tant que je penserai être quelque chose. De sorte qu'après y avoir bien pensé, et
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  avoir soigneusement examiné toutes choses, enfin il faut conclure, et tenir pour
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; constant que cette proposition : Je suis, j'existe, est nécessairement vraie, toutes
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; les fois que je la prononce, ou que je la conçois en mon esprit.
+   <br>
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Mais je ne connais pas encore assez clairement ce que je suis, moi qui suis
+   <br>25&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; certain que je suis ; de sorte que désormais il faut que je prenne soigneusement
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; garde de ne prendre pas imprudemment quelque autre chose pour moi, et ainsi de
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  ne me point méprendre dans cette connaissance, que je soutiens être plus certaine
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; et plus évidente que toutes celles que j'ai eues auparavant. 
    </p>
  </div>
-
-
-
-
-
-
-
-
 
 
 
@@ -377,13 +394,13 @@
  <p id="para3" style="color:#0000FF;">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; => La vérité 1re à laquelle il aboutit.
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; => Le doute cartésien est radical, hyperbolique, <u>méthod</u>ique (par étapes)
   <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;└> "Chemin" en latin
-  <br> <center><font style="color:#0000FF;" size="20px">Mais, il aboutit à une vérité, donc il est fécond. </font></center>
+  <br> <center><font style="color:#0000FF;" size="10px">Mais, il aboutit à une vérité, donc il est fécond. </font></center>
   </p>
   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Ce doute est fécond car il aboutit à cette vérité, au contraire du doute des Sceptiques, qui demeure stérile. En effet, ce courant a été fondé vers 300 ans avant notre ère, par PYRRHON D’ÉLIS : pour les Sceptiques, il n’y a pas de vérité accessible aux Hommes, ou bien on peut défendre tout et son contraire.</p>
   <br><br><br>
 
  <p id="para9"><u><b>René DESCARTES, <i>Méditations métaphysiques</i>, XVIIIe siècle</b></u></p>
-   <button type="button" class="collapsible">René DESCARTES<p id="para3"><b></b>, <i>Méditations métaphysiques</i>, 1641</p>    </button>
+   <button type="button" class="collapsible"><p id="para3"><b>René DESCARTES</b>, <i>Méditations métaphysiques</i>, 1641</p>    </button>
    <div class="content">
    <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
@@ -396,8 +413,31 @@
  </div>
 
  <p did="para">« Le morceau de cire » </p>
-
-
+ <p id="para3"><mark>De la ligne 1 à 13:</mark>
+ <br />&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Les changements de la substance « cire » perçus par les sens.
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;=> connaissance par le sens</p>
+ 
+ <p id="para3"><mark>De la ligne 14 à 19:</mark>
+ <br />&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Qu’est-ce qui demeure de la substance sous ces différents changement ?
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;└> Quelle connaissance de la cire je peux fonder ?</p>
+ <p id="para3"><mark>De la ligne 20 à 23:</mark>
+ <br />&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ C’est l’entendement qui permet d’obtenir une connaissance stable et certaine de cette substance changeante.
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Mon entendement construit un jugement à partir des perceptions et des données sensibles.
+ <br><font style="color:#FF000;">  Entendement (de Descartes) : La faculté de comprendre, d’apercevoir, de saisir l’intelligible (ce qui est saisi par l’intellect), par opposition aux sensations.</font></p>
+ <p id="para3"><mark>De la ligne 24 à 29:</mark></p>
+ <table id="p2">
+     <tr>
+         <th>Avec les sens</th>
+         <th>Avec l’entendement</th>
+      </tr>
+      <tr>
+         <td><p id="p1"> - « attouchement » (le toucher) <br>- la vision<br>- l’imagination<br>⇩<br>Connaissance :<br>« imparfait » et « confuse »</p></td>
+         <td><p id="p1">Inspection de l’esprit <br><br>⇩<br><br>Connaissance :<br>« Claire » et «<font style="color:red"> distincte</font> »</p></td>
+      </tr>
+  </table>
+  <p id="para3" style="color:#FF0000;">  Distincte : comparaison, mise en ordre des perception par l’entendement.</p>
+ 
+ <br><br><br>
 
 
 
