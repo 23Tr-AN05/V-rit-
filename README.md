@@ -628,12 +628,50 @@
  </div>
 
  <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Distinction entre la théorie et la pratique.
- <br>La loi morale (kantienne)<┘ &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; └> Les cas particuliers
+ <br>La loi morale (kantienne)<┘ &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; └> Les cas particuliers
  <br> &nbsp;&nbsp;&nbsp;&nbsp;   => générale
  <br><br><mark>Ligne 7 : « Philosophe allemand »</mark> → référence à<b> Emmanuel KANT</b>
  <br>- La loi morale qui impose de ne jamais mentir n’est pas applicable dans la pratique.
  <br>- La loi morale de ne pas mentir exige aussi que la vérité ne nuise pas à autrui.
  <br>   &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; => La solution de Benjamin CONSTANT.</p>
+
+ 
+ <br><br><br>
+
+ <p id="para9"><u><b>Thomas KUHN, <i>La structure de révolutions scientifiques</i>, XX<sup>e</sup> siècle</b></u></p>
+   <button type="button" class="collapsible"><p id="para3"><b>Thomas KUHN</b>, <i>La structure de révolutions scientifiques</i>, 1962</p>  </button>
+  
+ <div class="content">
+  <p id="para3"><i></i>
+  <br>
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>15 &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>20 &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>
+  <br>
+  </p>
+ </div>
+
+ <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Distinction entre la théorie et la pratique.
 
 
 
