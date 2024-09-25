@@ -32,7 +32,7 @@
     }
     #para2{
         font-size:30px;
-        text-align:left;
+        text-align:center;
         color:red;
     }
     #para3{
@@ -191,9 +191,9 @@
      &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; =>Elle repose sur les <font style="color:#FF0000;">faits</font>.</li>
      <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:#0000FF;">La vérité mathématique</font>: elle repose sur des <font style="color:#FF0000;">démonstrations logiques</font>.</li>
      <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;<font style="color:#0000FF;">La vérité des sciences expérimentales</font> :
-     <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;- Elle<font style="color:#FF0000;">repose sur un protocole</font>: hypothèse/ expérimentation/ validation ou invalidation de la théorie.
+     <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;- Elle<font style="color:#FF0000;"> repose sur un protocole</font>: hypothèse/ expérimentation/ validation ou invalidation de la théorie.
      <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;- Elle repose sur l’<font style="color:#FF0000;">expérimentation</font>.</li>     
-     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:#0000FF;">La vérité judiciaire</font> : elle repose sur<font style="color:#FF0000;">des preuves</font>afin de déterminer l’innocence ou la culpabilité d’un prévenu.</li>
+     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:#0000FF;">La vérité judiciaire</font> : elle repose sur <font style="color:#FF0000;">des preuves</font> afin de déterminer l’innocence ou la culpabilité d’un prévenu.</li>
  </ol>
  <br><br><br>
  <p id="para3"><b>3 Critères pour définir la qualité d’une théorie scientifique :</b></p>
