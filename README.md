@@ -723,7 +723,7 @@
    <br>
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; PROTAGORAS : Car j’affirme, moi, que la vérité est telle que je l’ai définie, que chacun 
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; de nous est la mesure de ce qui est et de ce qui n’est pas, mais qu’un homme diffère
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;infiniment d’un autre précisément en ce que les choses sont et paraissent autres à 
+   <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;infiniment d’un autre précisément en ce que les choses sont et paraissent autres à 
    <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;celui-ci, et autres à celui-là. Quant à la sagesse et à l’homme sage, je suis bien loin
    <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  d’en nier l’existence ; mais par homme sage j’entends précisément celui qui, changeant
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  la face des objets, les fait apparaître et être bons à celui à qui ils apparaissaient 
@@ -740,7 +740,7 @@
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; remèdes, le sophiste le fait par des discours. Jamais en effet on n’est parvenu à faire 
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; qu’un homme qui avait des opinions fausses ait ensuite des opinions vraies, puisqu'il 
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; n’est pas possible d’avoir des opinions sur ce qui n’est pas, ni d’autres impressions
-   <br>20 &nbsp;&nbsp; &nbsp;&nbsp;que celles que l’on éprouve, et celles-ci sont toujours vraies. 
+   <br>20 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;que celles que l’on éprouve, et celles-ci sont toujours vraies. 
 
 
 
