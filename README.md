@@ -591,10 +591,10 @@
   <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Donc, si on définit le mensonge que comme la déclaration (faite à autrui) qu’on sait 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; n’être pas vraie, il n’est besoin d’y ajouter qu’il doive nuire à autrui, comme les juristes  
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; l’exigent de leur définition (<i>mendacium est falsiloquium alterius</i><sup>3</sup>). Car le 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;mensonge nuit toujours à autrui: même s’il ne nuit pas à un autre homme, il nuit à l’humanité 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;mensonge nuit toujours à autrui: même s’il ne nuit pas à un autre homme, il nuit à l’humanité 
    <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;en général et rend vaine la source du droit. […] Celui qui ment, quelle que soit la 
   <br>15 &nbsp;&nbsp; &nbsp;&nbsp;bonté des intentions qui animaient son mensonge, doit donc répondre des conséquences 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  qui en résultent, même devant un tribunal civil, et les réparer, quelque imprévues qu’elles
+  <br>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  qui en résultent, même devant un tribunal civil, et les réparer, quelque imprévues qu’elles
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; puissent être. La véracité est un devoir, on doit le considérer comme le fondement  de tous 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;les devoirs qui doivent se fonder sur un contrat, et sa loi chancelle ; et devient inutile si on 
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;lui concède la moindre exception. 
@@ -669,9 +669,9 @@
  <div class="content">
   <p id="para3"><i></i>
   <br>
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  Il est hors de doute que les principes <mark id="m1"> abstraits </mark> de la morale, s’ils étaient séparés de leurs 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; principes intermédiaires, produiraient autant de désordre dans les relations sociales des 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;hommes que les principes abstraits de la politique, séparés de leurs principes intermédiaires, 
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
   <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
@@ -698,6 +698,53 @@
    <br>Exemple: Une théorie abstraite est éloignée de la réalité vécue.
   </p>
  </div>
+
+
+
+
+doivent en produire dans leurs relations civiles. Le principe moral que dire la vérité est un 
+devoir, s’il était pris de manière absolue et isolée, rendrait toute société impossible. Nous 
+en avons la preuve dans les conséquences très directes qu’a tirées de ce principe un 
+philosophe allemand qui va jusqu’à prétendre qu’envers des assassins qui vous demanderaient 
+si votre ami qu’ils poursuivent n’est pas réfugié dans votre maison, le mensonge
+serait un crime [...].
+
+Je prends pour exemple le principe moral que je viens de citer, que dire la vérité est un 
+devoir. Ce principe isolé est inapplicable. Il détruirait la société. Mais, si vous le rejetez, la
+société n’en sera pas moins détruite, car toutes les bases de la morale seront renversées. Il
+faut donc chercher le moyen d’application, et pour cet effet, il faut, comme nous venons
+de le dire, définir le principe. Dire la vérité est un devoir. Qu’est-ce qu’un devoir? L’idée 
+de devoir est inséparable de celle de droits : un devoir est ce qui, dans un être, correspond 
+aux droits d’un autre. Là où il n’y a pas de droits, il n’y a pas de devoirs. Dire la vérité n’est
+donc un devoir qu’envers ceux qui ont droit à la vérité. Or nul homme n’a droit à la vérité
+ qui nuit à autrui. 
+
+
+Voilà, ce me semble, le principe devenu applicable. En le définissant, nous avons découvert 
+le lien qui l’unissait à un autre principe, et la réunion de ces deux principes nous a fourni 
+la solution de la difficulté qui nous arrêtait.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
