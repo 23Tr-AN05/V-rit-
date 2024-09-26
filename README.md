@@ -478,35 +478,48 @@
   <br>
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  Maintenant représente toi de la façon que voici l’état de notre nature 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; relativement à l’instruction et à l’ignorance. Figure-toi des hommes dans une 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;demeure souterraine, en forme de caverne, ayant sur toute sa largeur une entrée 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;demeure souterraine, en forme de caverne, ayant sur toute sa largeur une entrée 
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;ouverte à la lumière; ces hommes sont là depuis leur enfance, les jambes et le
   <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; cou enchaînés, de sorte qu’ils ne peuvent ni bouger ni voir ailleurs que devant eux, 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  la chaîne les empêchant de tourner la tête; la lumière leur vient d’un feu allumé 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; sur une hauteur, au loin derrière eux; entre le feu et les prisonniers passe une
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; route élevée : imagine que le long de cette route est construit un petit mur, pareil
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; aux cloisons que les montreurs de marionnettes dressent devant eux et au dessus desquelles
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; aux cloisons que les montreurs de marionnettes dressent devant eux et au dessus desquelles
   <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;ils font voir leurs merveilles. 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Je vois cela, dit-il.
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>15 &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>20 &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>25&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Figure toi maintenant le long de ce petit mur des hommes portant des objets
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;de toute sorte, qui dépassent le mur, et des statuettes d'hommes et d'animaux, en 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;pierre en bois et en toute espèce de matière; naturellement parmi ces porteurs, 
+  <br>15 &nbsp;&nbsp; &nbsp;&nbsp;les uns parlent et les autres se taisent. 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Voilà, s'écria-t-il, un étrange tableau et d'étranges prisonniers.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Ils nous ressemblent, répondis-je; et d'abord, penses-tu que dans une telle
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; situation ils aient jamais vu autre chose d'eux-mêmes et de leurs voisins que les 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;ombres projetées par le feu sur la paroi de la caverne qui leur fait face? 
+  <br>20 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Et comment? observa-t-il, s'ils sont forcés de rester la tête immobile durant toute leur vie? 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  Et pour les objets qui défilent, n'en est-il pas de même? 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Sans contredit. 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Si donc ils pouvaient s'entretenir ensemble, ne penses-tu pas qu'ils prendraient 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;pour des objets réels les ombres qu'ils verraient?
+  <br>25&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Il y a nécessité.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
   </p>
  </div>
+
+
+
+  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+
+
+
+
+
+
+
+
+
 
 
 
