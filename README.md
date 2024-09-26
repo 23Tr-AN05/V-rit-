@@ -686,21 +686,17 @@
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  d’espoir conservé par ceux qui voyaient là la fin du paradigme existant. Dans d’autres cas, le problème
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;résiste, même si on l’aborde d’un point de vue en apparence radicalement nouveau. Les scientifiques
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;peuvent alors conclure qu’aucune solution ne se présentera dans l’état actuel de leur domaine de
-  <br>10&nbsp;&nbsp;&nbsp; recherche. Le problème est étiqueté et mis de côté pour une génération future, disposant d’outils plus
+  <br>10&nbsp;&nbsp; recherche. Le problème est étiqueté et mis de côté pour une génération future, disposant d’outils plus
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; développés. Ou bien, finalement, et c’est le cas qui nous concerne le plus directement ici, une crise
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; peut se terminer avec l’apparition d’un nouveau candidat au titre de paradigme et une bataille s’ensuit
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; pour son adoption.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; pour son adoption.
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  Le passage d’un paradigme en état de crise à un nouveau paradigme d’où puisse naître une
-  <br>15 &nbsp;&nbsp;&nbsp;  &nbsp;nouvelle tradition de science normale est loin d’être un processus cumulatif, réalisable à partir de
+  <br>15 &nbsp;&nbsp;nouvelle tradition de science normale est loin d’être un processus cumulatif, réalisable à partir de
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;variantes ou d’extensions de l’ancien paradigme. C’est plutôt une reconstruction de tout un secteur sur
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; de nouveaux fondements. Les spécialistes ont une tout autre manière de considérer leur domaine, ses 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; méthodes et ses buts.[C’est comme un] changement de forme visuelle : le dessin qui était d’abord vu
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;  de nouveaux fondements. Les spécialistes ont une tout autre manière de considérer leur domaine, ses 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; méthodes et ses buts.[C’est comme un] changement de forme visuelle : le dessin qui était d’abord vu
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;comme un oiseau est maintenant vu comme une antilope ou vice versa.Le passage au nouveau
-  <br>20 &nbsp;&nbsp; &nbsp;&nbsp;paradigme est une révolution scientifique.
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-  <br>
-  <br>
+  <br>20 &nbsp; &nbsp;&nbsp;paradigme est une révolution scientifique.
   </p>
  </div>
 
@@ -715,6 +711,13 @@
      <br> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;=> Une révolution scientifique</li>
  </ol>
 
+ <br><br><br>
+
+
+ 
+ <p id="para9"><u><b>PLATON, <i>Théétète</i>, IV<sup>e</sup> siècle avant J.-C. (p. 542.)</b></u></p>
+   <button type="button" class="collapsible"><p id="para3"><b>PLATON</b>, <i>Théétète</i>, IV<sup>e</sup> s. av. J.-C.<br> La vérité est dans les Idées: l'âme doit chercher à s'élever</p>  </button>
+  
 
 
 
@@ -731,7 +734,12 @@
 
 
 
-
+Platon fait parler Protagoras, un sophiste qui soutient, dans un livre perdu qui s’appelait 
+probablement <u>La Vérité</u>, que « l’homme est la mesure de toutes choses ». Platon interprète
+cette thèse dans le sens où chaque individu serait le seul juge de ce qui est vrai pour lui. L’idée
+de vérité conserve-t-elle un sens si elle n’a aucun critère ni objectif ni même intersubjectif ? 
+Faut-il sacrifier l’idéal d’une vérité universelle et éternelle au profit d’une multiplicité 
+d’appréciations individuelles et changeantes ?
 
 
 
