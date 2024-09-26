@@ -640,17 +640,17 @@
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; philosophe allemand qui va jusqu’à prétendre qu’envers des assassins qui vous demanderaient 
   <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;si votre ami qu’ils poursuivent n’est pas réfugié dans votre maison, le mensonge
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;serait un crime [...].
-  <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Je prends pour exemple le principe moral que je viens de citer, que dire la vérité est un 
+  <br>10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Je prends pour exemple le principe moral que je viens de citer, que dire la vérité est un 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; devoir. Ce principe isolé est inapplicable. Il détruirait la société. Mais, si vous le rejetez, la 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; société n’en sera pas moins détruite, car toutes les bases de la morale seront renversées. Il
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;faut donc chercher le moyen d’application, et pour cet effet, il faut, comme nous venons
+  <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;faut donc chercher le moyen d’application, et pour cet effet, il faut, comme nous venons
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;de le dire, définir le principe. Dire la vérité est un devoir. Qu’est-ce qu’un devoir? L’idée 
-  <br>15 &nbsp;&nbsp; &nbsp;&nbsp;de devoir est inséparable de celle de droits : un devoir est ce qui, dans un être, correspond 
+  <br>15&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;de devoir est inséparable de celle de droits : un devoir est ce qui, dans un être, correspond 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; aux droits d’un autre. Là où il n’y a pas de droits, il n’y a pas de devoirs. Dire la vérité n’est 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; donc un devoir qu’envers ceux qui ont droit à la vérité. Or nul homme n’a droit à la vérité
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; qui nuit à autrui. 
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Voilà, ce me semble, le principe devenu applicable. En le définissant, nous avons découvert 
-  <br>20 &nbsp;&nbsp; &nbsp;&nbsp;le lien qui l’unissait à un autre principe, et la réunion de ces deux principes nous a fourni 
+  <br>20 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;le lien qui l’unissait à un autre principe, et la réunion de ces deux principes nous a fourni 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; la solution de la difficulté qui nous arrêtait.  
   <br>
   <br>
@@ -752,7 +752,26 @@
 
 
 
-
+Les crises sont une condition préalable et nécessaire de l’apparition de nouvelles théories.
+Comment les scientifiques réagissent-ils à la prise de conscience d’une anomalie dans la cohérence
+entre la théorie et la nature ? Quand une anomalie semble être plus qu’une énigme de la science
+normale, la transition vers la crise, le passage à la science extraordinaire ont commencé.
+Toutes les crises se terminent de l’une des trois manières suivantes. Quelquefois, la science
+normale se révèle in extremis capable de résoudre le problème à l’origine de la crise, malgré le peu
+d’espoir conservé par ceux qui voyaient là la fin du paradigme existant. Dans d’autres cas, le problème
+résiste, même si on l’aborde d’un point de vue en apparence radicalement nouveau. Les scientifiques
+peuvent alors conclure qu’aucune solution ne se présentera dans l’état actuel de leur domaine de
+recherche. Le problème est étiqueté et mis de côté pour une génération future, disposant d’outils plus
+développés. Ou bien, finalement, et c’est le cas qui nous concerne le plus directement ici, une crise
+peut se terminer avec l’apparition d’un nouveau candidat au titre de paradigme et une bataille s’ensuit
+pour son adoption.
+Le passage d’un paradigme en état de crise à un nouveau paradigme d’où puisse naître une
+nouvelle tradition de science normale est loin d’être un processus cumulatif, réalisable à partir de
+variantes ou d’extensions de l’ancien paradigme. C’est plutôt une reconstruction de tout un secteur sur
+de nouveaux fondements. Les spécialistes ont une tout autre manière de considérer leur domaine, ses
+méthodes et ses buts.[C’est comme un] changement de forme visuelle : le dessin qui était d’abord vu
+comme un oiseau est maintenant vu comme une antilope ou vice versa.Le passage au nouveau
+paradigme est une révolution scientifique.
 
 
 
