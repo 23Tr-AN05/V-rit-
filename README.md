@@ -128,7 +128,9 @@
      <button type="button" class="collapsible"><p id="para3"><b>Emmanuel KANT</b>, « Théorie transcendantale de la méthode »,<br>Suffit-il qu'une pensée soit conforme à la logique pour qu'elle soit vrai?</p> </button>
 
  <div class="content">
-   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; L'ancienne et célèbre question par laquelle on prétendait pousser à bout les logiciens
+   <p id="para3"><i>Pour qu’une pensée soit vraie, c’est-à-dire conforme à l’objet dont elle ou nie ceci <br> ou cela (c’est une pomme, ce n’est pas une poire), il faut d’abord qu’elle soit en accord avec <br> elle-même. La logique définit en effet les règles qui s’imposent à toute pensée vraie. Une <br> pensée qui se contredit ne peut à l’évidence prétendre à quelque vérité que ce soit. Mais <br> cette forme logique de la pensée suffit-elle à garantir son accord avec un contenu donné ?</i>
+    <br>
+    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; L'ancienne et célèbre question par laquelle on prétendait pousser à bout les logiciens
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  [...] est celle-ci : <i>Qu'est-ce que la vérité?</i> [...] <mark id="m1"> Mais pour ce qui regarde la connaissance,</mark>
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m1">quant à sa forme simplement (abstraction faite de tout contenu)</mark>, il est […] clair 
    <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;qu'une logique, en tant qu'elle traite des règles générales et nécessaires de l'enten-
@@ -206,12 +208,15 @@
  <br><br><br>
  <p id="para9"><u><b>Thomas d’AQUIN (¡il est catholique!), <i>Sommes théologiques</i>, XIIIe siècle (p. 522.)</b></u></p>
      <button type="button" class="collapsible"><p id="para3"><b>Thomas d'AQUIN</b>, <i>Somme théologie</i> <br> Y a-t-il des choses vraies?</p>    </button>
+
  <div class="content">
-  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; On l'a déjà dit, le vrai, selon sa raison formelle première, est dans l'intelligence.
+  <p id="para3"><i>La vérité qualifie-t-elle un état de choses ou le  jugement que nous portons sur cet état de <br> choses ? N’est-elle pas une qualité de la pensée plutôt que des choses ? Ne désigne-t-elle pas <br> la pensée qui dit qu’une chose blanche est blanche, et l’erreur la pensée qui dit qu’une chose <br> est blanche lorsqu’elle ne l’est pas ? Dans ce texte, Thomas d’AQUIN soutient que la vérité <br> n’est pas une chose mais une relation, celle de l’adéquation de l’idée et de la chose.</i>
+  <br>
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; On l'a déjà dit, le vrai, selon sa raison formelle première, est dans l'intelligence.
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Puisque toute chose est vraie selon qu'elle possède la forme qui est propre à sa 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; nature, il est nécessaire que l'intellect en acte de connaître soit vrai en tant qu'il y
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;a en lui la similitude de la chose connue, similitude qui est sa forme propre en tant 
-  <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; qu'il est connaissant. Et c'est pour cela que l'on définit la vérité par la confirmité
+  <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; qu'il est connaissant. Et c'est pour cela que l'on définit la vérité par la conformité
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; de l'intellect et de la chose. Il en résulte que connaître une telle conformité, c'est 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; connaître la vérité.   </p>
  </div>
@@ -863,8 +868,7 @@
   <br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;=> Pas d’ordre du rational.
   </p>
  <br><br>
- <hr />
- <p id="para3">Si vous trouvez des faute d'ortograf ou d'explication n'hésitez pas me signaler via : ozcelebialican2005@gmail.com </p>
+ 
  <hr />
  <p id="para3"> Veuillez trouver la version PDF de ce cours ci-dessous  😇 </p>
  <iframe src="https://drive.google.com/file/d/1gP7uWC6oWtxYbC4QavRp_OFWxdW22odG/preview" width="700" height="1000" allow="autoplay"></iframe>
