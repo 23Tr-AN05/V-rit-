@@ -298,7 +298,7 @@
   <br>
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Une théorie qui n’est réfutable par aucun événement qui se puisse concevoir est dépourvue 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; de caractère scientifique. Pour les théories, l’irréfutable n’est pas (comme on l’imagine
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;souvent) vertu mais défaut.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;souvent) vertu mais défaut.
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Toute mise à l’épreuve véritable d’une théorie par des tests constitue une tentative pour 
   <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; en démontrer la fausseté ou pour la réfuter. Pouvoir être testée c’est pouvoir être réfutée ;
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; mais cette propriété comporte des degrés: certaines théories se prêtent plu aux tests, s’y 
@@ -310,14 +310,14 @@
   <br>
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Un système n’est empirique<sup>1</sup> ou scientifique que s’il est susceptible d’être soumis à des tests 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; expérimentaux. Ces considérations suggèrent que c’est la falsifiabilité et non vérifiabilité 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;d’un système qu’il faut prendre comme critère de démonstration. En d’autres termes, je 
+  <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;d’un système qu’il faut prendre comme critère de démonstration. En d’autres termes, je 
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;n’exigerai pas d’un système scientifique qu’il puisse être choisi une fois pour toutes, dans
   <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; une acceptation positive<sup>2</sup> mais j’exigerai que sa forme logique soit telle qu’il puisse être
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; distingué, au moyen de tests empiriques, dans une acceptation négative : un système faisant 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;partie de la science empirique doit pouvoir être réfuté par l’expérience. (Ainsi l’énoncé 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;partie de la science empirique doit pouvoir être réfuté par l’expérience. (Ainsi l’énoncé 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; « il pleuvra ou il ne pleuvra pas ici demain » ne sert-t-il pas considéré comme empirique 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; pour simple raison qu’il ne peut être réfuté, alors que l’énoncé « il pleuvra ici demain »
-   <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;sera considéré comme empirique). 
+   <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;sera considéré comme empirique). 
   <br>
   <br><sup>1-Une connaissance empirique est fondée sur l’expérience et non sur des idées innées, sur l’intuition ou sur la pure raison. 
   <br>2- Pour Popper, un système scientifique n’a pas positivement une propriété qui permettrait de le ranger définitivement du côté de la vérité : il n’est vrai que « négativement » autrement dit aussi longtemps qu’il n’a pas été réfuté par l’expérience – ce qui suppose qu’il puisse l’être. </sup>
