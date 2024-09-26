@@ -704,7 +704,7 @@
  <p id="para3"><font style="color:#FF0000"> Paradigme = modèle</font>
  <br>
  <br> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Lorsqu’une théorie se révèle défaillante, c’est-à-dire qu’elle n’explique pas les phénomènes observés, trois solutions sont envisagées :
- <ol style="liste-style-type:lower-alpha">
+ <ol style="list-style-type:lower-alpha">
      <li id="para3">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Les scientifiques résolvent le problème à l’intérieur du modèle / paradigme déjà existant.</li>
      <li id="para3"> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Pas de solution. → On laisse le problème de côté pour la génération future. </li>
      <li id="para3"> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Changement de paradigme : KEPLER → NEWTON → EINSTEIN
@@ -757,7 +757,7 @@
 
 
 
-
+ <p id="para3"><font syle="color:#FF0000;"><mark>
 
 
 
