@@ -581,14 +581,14 @@
   <br>
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  Être véridique dans les propos qu’on ne peut éluder, c’est là le devoir formel de l’homme  
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  envers chaque homme, quelle que soit la gravité du préjudice qui peut en résulter pour 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; soi-même ou pour autrui. Et même si, en falsifiant mon propos, je ne cause pas de tort à 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; soi-même ou pour autrui. Et même si, en falsifiant mon propos, je ne cause pas de tort à 
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;celui qui m’y contraint injustement, il reste qu’une telle falsification , qu’on peut nommer 
   <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; également pour cette raison un mensonge (même si ce n’est pas au sens des juristes<sup>1</sup>),
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  constitue, au regard de l’élément le plus essentiel du devoir en général, un tort : car je fais 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; en sorte, autant qu’il est en mon pouvoir, que des propos (des déclarations) en général ne
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;trouvent aucun crédit et, par suite, que tous les droits fondés sur des contrats deviennent 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; trouvent aucun crédit et, par suite, que tous les droits fondés sur des contrats deviennent 
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;caducs et perdent toute leur force ; ce qui est un tort causé à l’humanité en général. 
-  <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Donc, si on définit le mensonge que comme la déclaration (faite à autrui) qu’on sait 
+  <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Donc, si on définit le mensonge que comme la déclaration (faite à autrui) qu’on sait 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; n’être pas vraie, il n’est besoin d’y ajouter qu’il doive nuire à autrui, comme les juristes  
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; l’exigent de leur définition (<i>mendacium est falsiloquium alterius</i><sup>3</sup>). Car le 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;mensonge nuit toujours à autrui: même s’il ne nuit pas à un autre homme, il nuit à l’humanité 
