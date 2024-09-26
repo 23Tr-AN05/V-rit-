@@ -518,8 +518,8 @@
   <br>40&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; et tourné vers des objets plus réels, il voit plus juste? Si, enfin, en lui montrant 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  chacune des choses qui passent, on l'oblige, à force de questions, à dire ce que
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; c'est? Ne penses-tu pas qu'il sera embarrassé, et que les ombres qu'il voyait tout 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;à l'heure lui paraîtront plus vraies que les objets qu'on lui montre maintenant?
-  <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Beaucoup plus vraies, reconnut-il. 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;à l'heure lui paraîtront plus vraies que les objets qu'on lui montre maintenant?
+  <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Beaucoup plus vraies, reconnut-il. 
   <br>45&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Et si on le force à regarder la lumière elle-même, ses yeux n'en seront-ils pas blessés?
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   N'en fuira-t-il pas la vue pour retourner aux choses qu'il peut regarder, et ne croira-t-il  
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; pas que ces dernières sont réellement plus distinctes que celles qu'on lui montre? 
