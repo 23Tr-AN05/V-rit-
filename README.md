@@ -718,6 +718,34 @@
  <p id="para9"><u><b>PLATON, <i>Théétète</i>, IV<sup>e</sup> siècle avant J.-C. (p. 542.)</b></u></p>
    <button type="button" class="collapsible"><p id="para3"><b>PLATON</b>, <i>Théétète</i>, IV<sup>e</sup> s. av. J.-C.<br> La vérité est dans les Idées: l'âme doit chercher à s'élever</p>  </button>
   
+ <div class="content">
+   <p id="para3"><i>Platon fait parler Protagoras, un sophiste qui soutient, dans un livre perdu qui s’appelait <br>probablement <u>La Vérité</u>, que « l’homme est la mesure de toutes choses ». Platon interprète<br>cette thèse dans le sens où chaque individu serait le seul juge de ce qui est vrai pour lui. L’idée<br>de vérité conserve-t-elle un sens si elle n’a aucun critère ni objectif ni même intersubjectif ? <br>Faut-il sacrifier l’idéal d’une vérité universelle et éternelle au profit d’une multiplicité <br> d’appréciations individuelles et changeantes ?</i>
+   <br>
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; PROTAGORAS : Car j’affirme, moi, que la vérité est telle que je l’ai définie, que chacun 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; de nous est la mesure de ce qui est et de ce qui n’est pas, mais qu’un homme diffère
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;infiniment d’un autre précisément en ce que les choses sont et paraissent autres à 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;celui-ci, et autres à celui-là. Quant à la sagesse et à l’homme sage, je suis bien loin
+   <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  d’en nier l’existence ; mais par homme sage j’entends précisément celui qui, changeant
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  la face des objets, les fait apparaître et être bons à celui à qui ils apparaissaient 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; et étaient mauvais. Et ne va pas de nouveau donner la chasse aux mots de cette
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; définition ; je vais m’expliquer plus clairement pour te faire saisir ma pensée. 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Rappelle-toi, par exemple, ce qui a été dit précédemment, que les aliments paraissent
+   <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;  et sont amers au malade et qu’ils sont et paraissent le contraire à l’homme bien
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; portant. Ni l’un ni l’autre ne doit être représenté comme plus sage — cela n’est même
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  pas possible — et il ne faut pas non plus soutenir que le malade est ignorant, parce
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; qu’il est dans cette opinion, ni que l’homme bien portant est sage, parce qu’il est 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; dans l’opinion contraire. Ce qu’il faut, c’est faire passer le malade à un autre état,
+   <br>15 &nbsp;&nbsp; &nbsp;&nbsp; meilleur que le sien. De même, en ce qui concerne l’éducation, il faut faire passer 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; les hommes d’un état à un état meilleur ; mais, tandis que le médecin le fait par des
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; remèdes, le sophiste le fait par des discours. Jamais en effet on n’est parvenu à faire 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; qu’un homme qui avait des opinions fausses ait ensuite des opinions vraies, puisqu'il 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; n’est pas possible d’avoir des opinions sur ce qui n’est pas, ni d’autres impressions
+   <br>20 &nbsp;&nbsp; &nbsp;&nbsp;que celles que l’on éprouve, et celles-ci sont toujours vraies. 
+
+
+
+   </p>
+ </div>
 
 
 
@@ -734,12 +762,14 @@
 
 
 
-Platon fait parler Protagoras, un sophiste qui soutient, dans un livre perdu qui s’appelait 
-probablement <u>La Vérité</u>, que « l’homme est la mesure de toutes choses ». Platon interprète
-cette thèse dans le sens où chaque individu serait le seul juge de ce qui est vrai pour lui. L’idée
-de vérité conserve-t-elle un sens si elle n’a aucun critère ni objectif ni même intersubjectif ? 
-Faut-il sacrifier l’idéal d’une vérité universelle et éternelle au profit d’une multiplicité 
-d’appréciations individuelles et changeantes ?
+
+
+
+
+
+
+
+
 
 
 
