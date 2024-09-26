@@ -252,7 +252,7 @@
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;l’arithmétique et la géométrie, mais seulement que ceux qui cherchent le droit chemin de 
    <br>15 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;la vérité ne doivent s’occuper d’aucun objet à propos duquel ils ne puissent obtenir une 
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;certitude égale aux démonstrations de l’arithmétique et de la géométrie.
-   <br><sub>1- Qui prétend connaître ce qui est caché ou prédire l’avenir.</sub><br>
+   <br><br><sub>1- Qui prétend connaître ce qui est caché ou prédire l’avenir.</sub><br>
    <br><mark id="m1"><u>Repères</u></mark>
    <br>Certain : ne laisse subsister aucun doute, par opposition à ce qui n’est que probable. 
    <br>Exemple: Descartes avec son <i>cogito</i> montre qu’il est certain que « Je suis, j’existe » par le fait que je pense rend impossible le fait que je ne sois pas.
@@ -289,6 +289,46 @@
  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ L’arithmétique et la géométrie sont le plus sûr moyen d’accéder à la vérité. </p>
  <br><br><br>
  <p id="para9"><u><b>Karl POPPER, <i>Conjectures et réfutations</i>, XXe siècle</b></u></p>
+ <br>
+
+ 
+   <button type="button" class="collapsible"><p id="para3"><b>Albert EINSTEIN et Léopold INFELD</b>, <i>L’évolution des idées en physique</i>, 1936<br> La vérité n'est qu'une limite idéale </p>  </button>
+ 
+ <div class="content">
+    <p id="para3"><i>On pourrait croire que, parmi les sciences, la physique soit celle qui soit la plus proche d’une description fidèle de la 
+  réalité naturelle. Pourtant la vérité n’est pour elle qu’un horizon, considèrent Albert Einstein et Léopold Infeld.</i>
+  <br>
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+<br>15 &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+<br>20 &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  
+   </p>
+ </div>
+
+
+
+
  <p id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→  Une théorie est scientifique si et seulement si elle est réfutable.
  <br>  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  <b style="color:red">  └> La falsifiabilité
  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  La réfutabilité </b>
@@ -300,6 +340,46 @@
  </ol>
  <br><br><br>
  <p id="para9"><u><b>Albert EINSTEIN et Léopold INFELD, <i>L’évolution des idées en physique</i>, XXe siècle</b></u></p>
+ <br>
+ 
+   <button type="button" class="collapsible"><p id="para3"><b>Albert EINSTEIN et Léopold INFELD</b>, <i>L’évolution des idées en physique</i>, 1936<br> La vérité n'est qu'une limite idéale </p>  </button>
+ 
+ <div class="content">
+    <p id="para3"><i>On pourrait croire que, parmi les sciences, la physique soit celle qui soit la plus proche d’une description fidèle de la 
+  réalité naturelle. Pourtant la vérité n’est pour elle qu’un horizon, considèrent Albert Einstein et Léopold Infeld.</i>
+  <br>
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; C’est en réalité tout notre système de conjectures<sup>1</sup> qui
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  doit être prouvé ou réfuté par l’expérience. Aucune de
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;ces suppositions ne peut être isolée pour être examinée 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;séparément. Dans le cas des planètes qui se meuvent 
+  <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; autour du soleil, on trouve que le système de la mécanique 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; est remarquablement opérant. Nous pouvons
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; néanmoins imaginer un autre système, basé sur des
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  suppositions différentes, qui soit opérant au même degré.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Les concepts physiques sont des créations libres de l’esprit humain et ne sont pas, comme
+  <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;on pourrait le croire, uniquement déterminés par le monde extérieur. Dans l’effort que 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; nous faisons pour comprendre le monde, nous ressemblons quelque peu à l’homme qui 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; essaie de comprendre le mécanisme d’une montre fermée. Il voit le cadran et les aiguilles
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; en mouvement, il entend le tic-tac, mais il n’a aucun moyen d’ouvrir le boîtier. S’il est ingénieux
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; il pourra se former quelque image du mécanisme, qu’il rendra responsable de tout ce 
+  <br>15 &nbsp;&nbsp; &nbsp;&nbsp;qu’il observe, mais il ne sera jamais sûr que son image soit la seule capable d’expliquer ses
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; observations. Il ne sera jamais en état de comparer son image avec le mécanisme <mark id="m1"> réel</mark>, et il 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; ne peut même pas se représenter la possibilité ou la signification d’une telle comparaison.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Mais le chercheur croit certainement qu’à mesure que ses connaissances s’accroîtront, 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; son image de la réalité deviendra de plus en plus simple et expliquera des domaines de 
+  <br>20 &nbsp;&nbsp; &nbsp;&nbsp;plus en plus étendus de ses impressions sensibles. Il pourra aussi croire à l’existence d’une
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  limite <mark id="m2"> idéale</mark> de la connaissance que l’esprit humain peut atteindre. Il pourra appeler cette
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  limite idéale la vérité objective."
+  <br>
+  <br><sup>1- une conjecture est une hypothèse de travail qui n’a encore reçu ni confirmation ni infirmation. Elle donc provisoire et peut servir d’hypothèse de travail  pour résoudre un problème ou mener un raisonnement. </sup>
+  <br><mark id="m1"><u>Repères</u></mark>
+   <br>Quand le texte évoque une limite <mark id="m2"> idéale</mark>, il s’agit d’une limite indéterminée, qu’on n’atteindra peut-être jamais, par opposition à ce qui serait une limite <mark id="m1">réelle</mark>, affective et indépassable. 
+   <br>Exemple: On peut aussi opposer une beauté idéale, pure et absolue, sans aucun défaut mais qui n'existe qu'en idée, aux beautés réelles auxquelles on peut toujours reprocher telle ou telle imperfection.  
+   </p>
+ </div>
+ <br><br>
+
+
  <p id="para3"><b style="color:#BF0000;"> Étymologie : physis (en grecque: φύσις) → Physique
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  └> la nature </b></p>
  <p id="para3"><mark>De la ligne 1 à 8</mark>:
