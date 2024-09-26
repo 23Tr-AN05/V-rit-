@@ -502,7 +502,47 @@
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Si donc ils pouvaient s'entretenir ensemble, ne penses-tu pas qu'ils prendraient 
   <br>25&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; pour des objets réels les ombres qu'ils verraient?
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Il y a nécessité.
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Et si la paroi du fond de la prison avait un écho, chaque fois que l'un des
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;porteurs parlerait, croiraient-ils entendre autre chose que l'ombre qui passerait 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;devant eux?
+  <br>30&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Non, par Zeus, dit-il. 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;    &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Assurément, repris-je, de tels hommes n'attribueront de réalité qu'aux ombres 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; des objets fabriqués.  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Considère maintenant ce qui leur arrivera naturellement si on les délivre de 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;leurs chaînes et qu'on les guérisse de leur ignorance. Qu'on détache l'un de ces 
+  <br>35&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; prisonniers, qu'on le force à se dresser immédiatement, à tourner le cou, à marcher,
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   à lever les yeux vers la lumière; en faisant tous ces mouvements il souffrira, 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  et l'éblouissement l'empêchera de distinguer ces objets dont tout à l'heure il voyait 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;les ombres. Que crois-tu donc qu'il répondra si quelqu'un lui vient dire qu'il n'a
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;vu jusqu'alors que de vains fantômes, mais qu'à présent, plus près de la réalité 
+  <br>40&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; et tourné vers des objets plus réels, il voit plus juste? Si, enfin, en lui montrant 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  chacune des choses qui passent, on l'oblige, à force de questions, à dire ce que
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   c'est? Ne penses-tu pas qu'il sera embarrassé, et que les ombres qu'il voyait tout 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;à l'heure lui paraîtront plus vraies que les objets qu'on lui montre maintenant?
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Beaucoup plus vraies, reconnut-il. 
+  <br>45&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>50&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>55&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>60&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>45&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
   </p>
@@ -511,6 +551,23 @@
 
 
   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+ 
+
+
+ 
+
 
 
 
