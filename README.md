@@ -594,7 +594,7 @@
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;mensonge nuit toujours à autrui: même s’il ne nuit pas à un autre homme, il nuit à l’humanité 
    <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;en général et rend vaine la source du droit. […] Celui qui ment, quelle que soit la 
   <br>15 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;bonté des intentions qui animaient son mensonge, doit donc répondre des conséquences 
-  <br>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  qui en résultent, même devant un tribunal civil, et les réparer, quelque imprévues qu’elles
+  <br>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  qui en résultent, même devant un tribunal civil, et les réparer, quelque imprévues qu’elles
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; puissent être. La véracité est un devoir, on doit le considérer comme le fondement  de tous 
   <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;les devoirs qui doivent se fonder sur un contrat, et sa loi chancelle ; et devient inutile si on 
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;lui concède la moindre exception. 
@@ -608,44 +608,6 @@
   <br>3- Compromis. </sup>
   </p>
  </div>
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -674,9 +636,9 @@
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;hommes que les principes abstraits de la politique, séparés de leurs principes intermédiaires, 
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;doivent en produire dans leurs relations civiles. Le principe moral que dire la vérité est un 
   <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; devoir, s’il était pris de manière absolue et isolée, rendrait toute société impossible. Nous 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;en avons la preuve dans les conséquences très directes qu’a tirées de ce principe un   
+  <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;en avons la preuve dans les conséquences très directes qu’a tirées de ce principe un   
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; philosophe allemand qui va jusqu’à prétendre qu’envers des assassins qui vous demanderaient 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;si votre ami qu’ils poursuivent n’est pas réfugié dans votre maison, le mensonge
+  <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;si votre ami qu’ils poursuivent n’est pas réfugié dans votre maison, le mensonge
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;serait un crime [...].
   <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Je prends pour exemple le principe moral que je viens de citer, que dire la vérité est un 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; devoir. Ce principe isolé est inapplicable. Il détruirait la société. Mais, si vous le rejetez, la 
