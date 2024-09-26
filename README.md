@@ -340,8 +340,7 @@
  </ol>
  <br><br><br>
  <p id="para9"><u><b>Albert EINSTEIN et Léopold INFELD, <i>L’évolution des idées en physique</i>, XXe siècle</b></u></p>
- <br>
- 
+ <br> 
    <button type="button" class="collapsible"><p id="para3"><b>Albert EINSTEIN et Léopold INFELD</b>, <i>L’évolution des idées en physique</i>, 1936<br> La vérité n'est qu'une limite idéale </p>  </button>
  
  <div class="content">
@@ -350,30 +349,30 @@
   <br>
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; C’est en réalité tout notre système de conjectures<sup>1</sup> qui
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  doit être prouvé ou réfuté par l’expérience. Aucune de
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;ces suppositions ne peut être isolée pour être examinée 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;ces suppositions ne peut être isolée pour être examinée 
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;séparément. Dans le cas des planètes qui se meuvent 
   <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; autour du soleil, on trouve que le système de la mécanique 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; est remarquablement opérant. Nous pouvons
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; néanmoins imaginer un autre système, basé sur des
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  suppositions différentes, qui soit opérant au même degré.
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Les concepts physiques sont des créations libres de l’esprit humain et ne sont pas, comme
-  <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;on pourrait le croire, uniquement déterminés par le monde extérieur. Dans l’effort que 
+  <br>10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;on pourrait le croire, uniquement déterminés par le monde extérieur. Dans l’effort que 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; nous faisons pour comprendre le monde, nous ressemblons quelque peu à l’homme qui 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; essaie de comprendre le mécanisme d’une montre fermée. Il voit le cadran et les aiguilles
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; en mouvement, il entend le tic-tac, mais il n’a aucun moyen d’ouvrir le boîtier. S’il est ingénieux
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; il pourra se former quelque image du mécanisme, qu’il rendra responsable de tout ce 
-  <br>15 &nbsp;&nbsp; &nbsp;&nbsp;qu’il observe, mais il ne sera jamais sûr que son image soit la seule capable d’expliquer ses
+  <br>15 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;qu’il observe, mais il ne sera jamais sûr que son image soit la seule capable d’expliquer ses
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; observations. Il ne sera jamais en état de comparer son image avec le mécanisme <mark id="m1"> réel</mark>, et il 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; ne peut même pas se représenter la possibilité ou la signification d’une telle comparaison.
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Mais le chercheur croit certainement qu’à mesure que ses connaissances s’accroîtront, 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; son image de la réalité deviendra de plus en plus simple et expliquera des domaines de 
-  <br>20 &nbsp;&nbsp; &nbsp;&nbsp;plus en plus étendus de ses impressions sensibles. Il pourra aussi croire à l’existence d’une
+  <br>20&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;plus en plus étendus de ses impressions sensibles. Il pourra aussi croire à l’existence d’une
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  limite <mark id="m2"> idéale</mark> de la connaissance que l’esprit humain peut atteindre. Il pourra appeler cette
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  limite idéale la vérité objective."
   <br>
   <br><sup>1- une conjecture est une hypothèse de travail qui n’a encore reçu ni confirmation ni infirmation. Elle donc provisoire et peut servir d’hypothèse de travail  pour résoudre un problème ou mener un raisonnement. </sup>
   <br><mark id="m1"><u>Repères</u></mark>
-   <br>Quand le texte évoque une limite <mark id="m2"> idéale</mark>, il s’agit d’une limite indéterminée, qu’on n’atteindra peut-être jamais, par opposition à ce qui serait une limite <mark id="m1">réelle</mark>, affective et indépassable. 
+   <br>⟾Quand le texte évoque une limite <mark id="m2"> idéale</mark>, il s’agit d’une limite indéterminée, qu’on n’atteindra peut-être jamais, par opposition à ce qui serait une limite <mark id="m1">réelle</mark>, affective et indépassable. 
    <br>Exemple: On peut aussi opposer une beauté idéale, pure et absolue, sans aucun défaut mais qui n'existe qu'en idée, aux beautés réelles auxquelles on peut toujours reprocher telle ou telle imperfection.  
    </p>
  </div>
