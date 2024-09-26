@@ -679,18 +679,17 @@
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;si votre ami qu’ils poursuivent n’est pas réfugié dans votre maison, le mensonge
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;serait un crime [...].
   <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Je prends pour exemple le principe moral que je viens de citer, que dire la vérité est un 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>15 &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>20 &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; devoir. Ce principe isolé est inapplicable. Il détruirait la société. Mais, si vous le rejetez, la 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; société n’en sera pas moins détruite, car toutes les bases de la morale seront renversées. Il
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;faut donc chercher le moyen d’application, et pour cet effet, il faut, comme nous venons
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;de le dire, définir le principe. Dire la vérité est un devoir. Qu’est-ce qu’un devoir? L’idée 
+  <br>15 &nbsp;&nbsp; &nbsp;&nbsp;de devoir est inséparable de celle de droits : un devoir est ce qui, dans un être, correspond 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; aux droits d’un autre. Là où il n’y a pas de droits, il n’y a pas de devoirs. Dire la vérité n’est 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; donc un devoir qu’envers ceux qui ont droit à la vérité. Or nul homme n’a droit à la vérité
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; qui nuit à autrui. 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Voilà, ce me semble, le principe devenu applicable. En le définissant, nous avons découvert 
+  <br>20 &nbsp;&nbsp; &nbsp;&nbsp;le lien qui l’unissait à un autre principe, et la réunion de ces deux principes nous a fourni 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; la solution de la difficulté qui nous arrêtait.  
   <br>
   <br>
   <br><mark id="m1"><u>Repères</u></mark>
@@ -710,19 +709,11 @@
 
 
 
-devoir. Ce principe isolé est inapplicable. Il détruirait la société. Mais, si vous le rejetez, la
-société n’en sera pas moins détruite, car toutes les bases de la morale seront renversées. Il
-faut donc chercher le moyen d’application, et pour cet effet, il faut, comme nous venons
-de le dire, définir le principe. Dire la vérité est un devoir. Qu’est-ce qu’un devoir? L’idée 
-de devoir est inséparable de celle de droits : un devoir est ce qui, dans un être, correspond 
-aux droits d’un autre. Là où il n’y a pas de droits, il n’y a pas de devoirs. Dire la vérité n’est
-donc un devoir qu’envers ceux qui ont droit à la vérité. Or nul homme n’a droit à la vérité
- qui nuit à autrui. 
 
 
-Voilà, ce me semble, le principe devenu applicable. En le définissant, nous avons découvert 
-le lien qui l’unissait à un autre principe, et la réunion de ces deux principes nous a fourni 
-la solution de la difficulté qui nous arrêtait.  
+
+
+ 
 
 
 
