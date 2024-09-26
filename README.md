@@ -671,7 +671,7 @@
   <br>
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  Il est hors de doute que les principes <mark id="m1"> abstraits </mark> de la morale, s’ils étaient séparés de leurs 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; principes intermédiaires, produiraient autant de désordre dans les relations sociales des 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;hommes que les principes abstraits de la politique, séparés de leurs principes intermédiaires, 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;hommes que les principes abstraits de la politique, séparés de leurs principes intermédiaires, 
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;doivent en produire dans leurs relations civiles. Le principe moral que dire la vérité est un 
   <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; devoir, s’il était pris de manière absolue et isolée, rendrait toute société impossible. Nous 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;en avons la preuve dans les conséquences très directes qu’a tirées de ce principe un   
