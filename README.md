@@ -581,32 +581,75 @@
  <div class="content">
   <p id="para3"><i>Une célèbre polémique a opposé Constant à Kant vers 1797 concernant la question du droit<br> de mentir. Aucun des deux ne défend le principe d’un mensonge par égoïsme et tous les deux <br> s’accordent à considérer que dire la vérité est un devoir. Mais Constant estime indispensable <br> de regarder les circonstances du mensonge et les conséquences qu’il entraînerait avent deb<br> condamner le menteur. Intransigeant, Kant fait de la véracité un devoir absolu et considère <br> qu’un mensonge n’est pas seulement une injustice contre quelqu’un en particulier mais à l’égard <br> de l’humanité en général. </i>
   <br>
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>15 &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>20 &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  Être véridique dans les propos qu’on ne peut éluder, c’est là le devoir formel de l’homme  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  envers chaque homme, quelle que soit la gravité du préjudice qui peut en résulter pour 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;soi-même ou pour autrui. Et même si, en falsifiant mon propos, je ne cause pas de tort à 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;celui qui m’y contraint injustement, il reste qu’une telle falsification , qu’on peut nommer 
+  <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; également pour cette raison un mensonge (même si ce n’est pas au sens des juristes<sup>1</sup>),
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  constitue, au regard de l’élément le plus essentiel du devoir en général, un tort : car je fais 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; en sorte, autant qu’il est en mon pouvoir, que des propos (des déclarations) en général ne
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;trouvent aucun crédit et, par suite, que tous les droits fondés sur des contrats deviennent 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;caducs et perdent toute leur force ; ce qui est un tort causé à l’humanité en général. 
+  <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Donc, si on définit le mensonge que comme la déclaration (faite à autrui) qu’on sait 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; n’être pas vraie, il n’est besoin d’y ajouter qu’il doive nuire à autrui, comme les juristes  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; l’exigent de leur définition (<i>mendacium est falsiloquium alterius</i><sup>3</sup>). Car le 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;mensonge nuit toujours à autrui: même s’il ne nuit pas à un autre homme, il nuit à l’humanité 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;en général et rend vaine la source du droit. […] Celui qui ment, quelle que soit la 
+  <br>15 &nbsp;&nbsp; &nbsp;&nbsp;bonté des intentions qui animaient son mensonge, doit donc répondre des conséquences 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  qui en résultent, même devant un tribunal civil, et les réparer, quelque imprévues qu’elles
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; puissent être. La véracité est un devoir, on doit le considérer comme le fondement  de tous 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;les devoirs qui doivent se fonder sur un contrat, et sa loi chancelle ; et devient inutile si on 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;lui concède la moindre exception. 
+  <br>20 &nbsp;&nbsp; &nbsp;&nbsp;Il y a donc un commandement sacré de la raison, qui commande inconditionnellement 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  et qu’aucune convenance<sup>3</sup> ne doit restreindre : être <i>véridique</i> (honnête) dans toutes ses 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; déclarations.
   <br>
   <br>
+  <br><sup>1-Comme l’explique un peu plus loin Kant, dire le faux ne suffit pas aux yeux des juristes, il faut encore qu’il y ait préjudice. En effet, il est nécessaire qu’un discours faux nuise à quelqu’un pour qu’il puisse être considéré comme un mensonge d’un stricte point e vue juridique. 
+  <br>2-  «  Un mensonge est un discours faux qui nuit à autrui. » 
+  <br>3- Compromis. </sup>
   </p>
  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  <br>
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Ne pas mentir est un <font style="color:#FF0000;"> devoir</font>, car si l’un d’entre nous ment, il engage l’humanité entière. Nos relations inter-humaines sont basées sur la confiance et fonctionnelles grâce à celle-ci. SI chacun d’entre nous ment, cette confiance disparaît (contrat). 
