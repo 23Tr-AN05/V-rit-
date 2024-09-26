@@ -520,87 +520,29 @@
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   c'est? Ne penses-tu pas qu'il sera embarrassé, et que les ombres qu'il voyait tout 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;à l'heure lui paraîtront plus vraies que les objets qu'on lui montre maintenant?
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Beaucoup plus vraies, reconnut-il. 
-  <br>45&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>50&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>55&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>60&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>45&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  </p>
+  <br>45&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Et si on le force à regarder la lumière elle-même, ses yeux n'en seront-ils pas blessés?
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   N'en fuira-t-il pas la vue pour retourner aux choses qu'il peut regarder, et ne croira-t-il  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; pas que ces dernières sont réellement plus distinctes que celles qu'on lui montre? 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Assurément. 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Et si, repris-je, on l'arrache de sa caverne par force, qu'on lui fasse gravir la
+  <br>50&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  montée rude et escarpée, et qu'on ne le lâche pas avant de l'avoir traîné jusqu'à la 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; lumière du soleil, ne souffrira-t-il pas vivement, et ne se plaindra-t-il pas de ces violences?   
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  Et lorsqu'il sera parvenu à la lumière, pourra-t-il, les yeux tout éblouis par 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;son éclat, distinguer une seule des choses que maintenant nous appelons vraies? 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Il ne le pourra pas, répondit-il; du moins dès l'abord. 
+  <br>55&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;    &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Il aura, je pense, besoin d'habitude pour voir les objets de la région supérieure.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   D'abord ce seront les ombres qu'il distinguera le plus facilement, puis les images  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  des hommes et des autres objets qui se reflètent dans les eaux, ensuite les objets
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; eux-mêmes. Après cela, il pourra, affrontant la clarté des astres et de la lune, 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;contempler plus facilement pendant la nuit les corps célestes et le ciel lui-même,
+  <br>60&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;   que pendant le jour le soleil et sa lumière. 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Sans doute.  
+    </p>
  </div>
 
 
 
-  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-
-
-
-
- 
- 
-
-
-
-
-
-
- 
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
+  
 
 
 
