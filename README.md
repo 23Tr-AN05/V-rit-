@@ -485,23 +485,23 @@
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; sur une hauteur, au loin derrière eux; entre le feu et les prisonniers passe une
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; route élevée : imagine que le long de cette route est construit un petit mur, pareil
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; aux cloisons que les montreurs de marionnettes dressent devant eux et au dessus desquelles
-  <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;ils font voir leurs merveilles. 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Je vois cela, dit-il.
+  <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;ils font voir leurs merveilles. 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Je vois cela, dit-il.
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Figure toi maintenant le long de ce petit mur des hommes portant des objets
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;de toute sorte, qui dépassent le mur, et des statuettes d'hommes et d'animaux, en 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;pierre en bois et en toute espèce de matière; naturellement parmi ces porteurs, 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;  &nbsp;de toute sorte, qui dépassent le mur, et des statuettes d'hommes et d'animaux, en 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;pierre en bois et en toute espèce de matière; naturellement parmi ces porteurs, 
   <br>15 &nbsp;&nbsp; &nbsp;&nbsp;les uns parlent et les autres se taisent. 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Voilà, s'écria-t-il, un étrange tableau et d'étranges prisonniers.
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Ils nous ressemblent, répondis-je; et d'abord, penses-tu que dans une telle
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; situation ils aient jamais vu autre chose d'eux-mêmes et de leurs voisins que les 
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;ombres projetées par le feu sur la paroi de la caverne qui leur fait face? 
-  <br>20 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Et comment? observa-t-il, s'ils sont forcés de rester la tête immobile durant toute leur vie? 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  Et pour les objets qui défilent, n'en est-il pas de même? 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Sans contredit. 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Si donc ils pouvaient s'entretenir ensemble, ne penses-tu pas qu'ils prendraient 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;pour des objets réels les ombres qu'ils verraient?
-  <br>25&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Il y a nécessité.
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>20 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Et comment? observa-t-il, s'ils sont forcés de rester la tête immobile durant  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; toute leur vie?
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  Et pour les objets qui défilent, n'en est-il pas de même? 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Sans contredit.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Si donc ils pouvaient s'entretenir ensemble, ne penses-tu pas qu'ils prendraient 
+  <br>25&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; pour des objets réels les ombres qu'ils verraient?
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Il y a nécessité.
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
