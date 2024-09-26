@@ -893,6 +893,8 @@
   </p>
  <br><br>
  <hr />
+ <p id="para3">Si vous trouvez des faute d'ortograf ou d'explication n'hésitez pas me signaler via : ozcelebialican2005@gmail.com </p>
+ <hr />
  <p id="para3"> Veuillez trouver la version PDF de ce cours ci-dessous  😇 </p>
  <iframe src="https://drive.google.com/file/d/1gP7uWC6oWtxYbC4QavRp_OFWxdW22odG/preview" width="700" height="1000" allow="autoplay"></iframe>
 
