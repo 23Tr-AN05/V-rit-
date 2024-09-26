@@ -677,26 +677,26 @@
   
  <div class="content">
   <p id="para3"><br>
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Les crises sont une condition préalable et nécessaire de l’apparition de nouvelles théories.
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Comment les scientifiques réagissent-ils à la prise de conscience d’une anomalie dans la cohérence
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;entre la théorie et la nature ? Quand une anomalie semble être plus qu’une énigme de la science
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;normale, la transition vers la crise, le passage à la science extraordinaire ont commencé.
-  <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Toutes les crises se terminent de l’une des trois manières suivantes. Quelquefois, la science
-  <br>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  d’espoir conservé par ceux qui voyaient là la fin du paradigme existant. Dans d’autres cas, le problème
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; résiste, même si on l’aborde d’un point de vue en apparence radicalement nouveau. Les scientifiques
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;peuvent alors conclure qu’aucune solution ne se présentera dans l’état actuel de leur domaine de
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;recherche. Le problème est étiqueté et mis de côté pour une génération future, disposant d’outils plus
-  <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;développés. Ou bien, finalement, et c’est le cas qui nous concerne le plus directement ici, une crise
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; peut se terminer avec l’apparition d’un nouveau candidat au titre de paradigme et une bataille s’ensuit
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; pour son adoption.
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Le passage d’un paradigme en état de crise à un nouveau paradigme d’où puisse naître une
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;nouvelle tradition de science normale est loin d’être un processus cumulatif, réalisable à partir de
-  <br>15 &nbsp;&nbsp; &nbsp;variantes ou d’extensions de l’ancien paradigme. C’est plutôt une reconstruction de tout un secteur sur
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; de nouveaux fondements. Les spécialistes ont une tout autre manière de considérer leur domaine, ses 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; méthodes et ses buts.[C’est comme un] changement de forme visuelle : le dessin qui était d’abord vu
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;comme un oiseau est maintenant vu comme une antilope ou vice versa.Le passage au nouveau
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;paradigme est une révolution scientifique.
-  <br>20 &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  Les crises sont une condition préalable et nécessaire de l’apparition de nouvelles théories.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Comment les scientifiques réagissent-ils à la prise de conscience d’une anomalie dans la cohérence
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; entre la théorie et la nature ? Quand une anomalie semble être plus qu’une énigme de la science
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; normale, la transition vers la crise, le passage à la science extraordinaire ont commencé.
+  <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Toutes les crises se terminent de l’une des trois manières suivantes. Quelquefois, la science     
+  <br>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;  normale se révèle <i>in extremis</i> capable de résoudre le problème à l’origine de la crise, malgré le peu
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  d’espoir conservé par ceux qui voyaient là la fin du paradigme existant. Dans d’autres cas, le problème
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;résiste, même si on l’aborde d’un point de vue en apparence radicalement nouveau. Les scientifiques
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;peuvent alors conclure qu’aucune solution ne se présentera dans l’état actuel de leur domaine de
+  <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;recherche. Le problème est étiqueté et mis de côté pour une génération future, disposant d’outils plus
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; développés. Ou bien, finalement, et c’est le cas qui nous concerne le plus directement ici, une crise
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; peut se terminer avec l’apparition d’un nouveau candidat au titre de paradigme et une bataille s’ensuit
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;pour son adoption.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Le passage d’un paradigme en état de crise à un nouveau paradigme d’où puisse naître une
+  <br>15 &nbsp;&nbsp;&nbsp;  &nbsp;nouvelle tradition de science normale est loin d’être un processus cumulatif, réalisable à partir de
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;variantes ou d’extensions de l’ancien paradigme. C’est plutôt une reconstruction de tout un secteur sur
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; de nouveaux fondements. Les spécialistes ont une tout autre manière de considérer leur domaine, ses 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; méthodes et ses buts.[C’est comme un] changement de forme visuelle : le dessin qui était d’abord vu
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;comme un oiseau est maintenant vu comme une antilope ou vice versa.Le passage au nouveau
+  <br>20 &nbsp;&nbsp; &nbsp;&nbsp;paradigme est une révolution scientifique.
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
   <br>
