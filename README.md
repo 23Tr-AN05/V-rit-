@@ -686,11 +686,11 @@
   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  d’espoir conservé par ceux qui voyaient là la fin du paradigme existant. Dans d’autres cas, le problème
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;résiste, même si on l’aborde d’un point de vue en apparence radicalement nouveau. Les scientifiques
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;peuvent alors conclure qu’aucune solution ne se présentera dans l’état actuel de leur domaine de
-  <br>10&nbsp;&nbsp;&nbsp;&nbsp; recherche. Le problème est étiqueté et mis de côté pour une génération future, disposant d’outils plus
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; développés. Ou bien, finalement, et c’est le cas qui nous concerne le plus directement ici, une crise
+  <br>10&nbsp;&nbsp;&nbsp; recherche. Le problème est étiqueté et mis de côté pour une génération future, disposant d’outils plus
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; développés. Ou bien, finalement, et c’est le cas qui nous concerne le plus directement ici, une crise
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; peut se terminer avec l’apparition d’un nouveau candidat au titre de paradigme et une bataille s’ensuit
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;pour son adoption.
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Le passage d’un paradigme en état de crise à un nouveau paradigme d’où puisse naître une
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; pour son adoption.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  Le passage d’un paradigme en état de crise à un nouveau paradigme d’où puisse naître une
   <br>15 &nbsp;&nbsp;&nbsp;  &nbsp;nouvelle tradition de science normale est loin d’être un processus cumulatif, réalisable à partir de
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;variantes ou d’extensions de l’ancien paradigme. C’est plutôt une reconstruction de tout un secteur sur
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; de nouveaux fondements. Les spécialistes ont une tout autre manière de considérer leur domaine, ses 
@@ -704,8 +704,16 @@
   </p>
  </div>
 
- <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Distinction entre la théorie et la pratique.
-
+ <br>
+ <p id="para3"><font style="color:#FF0000"> Paradigme = modèle</font>
+ <br>
+ <br> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Lorsqu’une théorie se révèle défaillante, c’est-à-dire qu’elle n’explique pas les phénomènes observés, trois solutions sont envisagées :
+ <ol style="liste-style-type:lower-alpha">
+     <li id="para3">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Les scientifiques résolvent le problème à l’intérieur du modèle / paradigme déjà existant.</li>
+     <li id="para3"> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Pas de solution. → On laisse le problème de côté pour la génération future. </li>
+     <li id="para3"> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Changement de paradigme : KEPLER → NEWTON → EINSTEIN
+     <br> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;=> Une révolution scientifique</li>
+ </ol>
 
 
 
