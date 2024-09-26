@@ -694,10 +694,12 @@
   <br>
   <br>
   <br><mark id="m1"><u>Repères</u></mark>
-   <br>Certain : ne laisse subsister aucun doute, par opposition à ce qui n’est que probable. 
-   <br>Exemple: Descartes avec son <i>co
+   <br>Abstrait : signifie souvent séparé de l’expérience sensible et concrète 
+   <br>Exemple: Une théorie abstraite est éloignée de la réalité vécue.
   </p>
  </div>
+
+
 
  <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Distinction entre la théorie et la pratique.
  <br>La loi morale (kantienne)<┘ &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; └> Les cas particuliers
