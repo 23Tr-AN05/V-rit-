@@ -741,9 +741,6 @@
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; qu’un homme qui avait des opinions fausses ait ensuite des opinions vraies, puisqu'il 
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; n’est pas possible d’avoir des opinions sur ce qui n’est pas, ni d’autres impressions
    <br>20 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;que celles que l’on éprouve, et celles-ci sont toujours vraies. 
-
-
-
    </p>
  </div>
 
@@ -757,7 +754,44 @@
 
 
 
- <p id="para3"><font syle="color:#FF0000;"><mark>
+ <p id="para3"><font syle="color:#FF0000;"><mark>-Distinction entre l’opinion et la vérité :</mark>
+ <br> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Opinion (du grec « δόξα », doxa : opinion commune) : Ce que tout le monde pense sans y avoir réfléchi, sans savoir l’argumenter. → <b>SUBJECTIVE</b>
+ <br> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Vérité (du grec « ἀληθής », Léthé) : Qui vise la généralité voire universalité → <b>OBJECTIVE</b>
+ <br>
+ <br><mark>-Distinction entre être et paraître :</mark>
+ <br> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;L’être : les choses qui sont → le réel (la vérité)
+ <br> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Paraître : de l’ordre de la perception, de l’impression → <b> SUBJECTIVE</b></p>
+  <table id="p2">
+     <tr>
+         <th> Sophiste <br> (PROTAGORAS)</th>
+         <th>Philosophe <br> (SOCRATE)</th>
+      </tr>
+      <tr>
+         <td><p id="p1">- donne des cours de rhétorique (art de<br>parler) à des futurs politiciens<br>- Il se fait rémunérer très cher<br>- Il est itinérant<br>- Il possède un savoir superficiel dans<br>plein de domaines<br> - Il ne cherche pas la vérité<br><br>-Persuader (sentiment)</p></td>
+         <td><p id="p1">- n’enseigne pas<br><br><br><br>-Il possède des connaissance dans un<br>domaine précis<br>- il cherche la vérité<br><br>-Convaincre (argumentation) </p></td>
+      </tr>
+  </table>
+
+  <br>
+  <p id="para3"><mark>De la ligne 1 à 4:</mark>
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;→ définition de la vérité selon PROTAGORAS : « L’Homme est la mesure de toutes choses ». C’est ainsi qu’il explique les divergences d’opinion.
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;→ Protagoras confond opinion et la vérité : dire ce que l’on pense et ce que l’on ressent, c’est toujours <b style="color:#00FF00;">subjectif</b>, et donc ce n’est pas la vérité.
+  <br>
+  <br><mark>De la ligne 4 à 8:</mark>
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;→ Le sage, c’est lui qui, à l’aide de la rhétorique, est capable de faire changer d’opinion autrui => <b style="color:#00FF00;"> persuasions
+  <br>
+  <mark>De la ligne 9 à 14:</mark>
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;→ Métaphore de la maladie.
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;└> Deux opinions contraires se valent, ce qui pose la question de savoir où se situe la vérité. Il s’agit de faire changer autrui d’opinion, ce qui suppose que l’un des deux a une « meilleure » opinion que l’autre.
+  <br>
+  <mark>De la ligne 15 à 20:</mark>
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; « Impression »(l.19)  /  « éprouve » (l.20)    ⟾ Il confond toujours l’opinion avec la vérité
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;=> Pas d’ordre du rational.
+  </p>
+
+
+ 
+
 
 
 
