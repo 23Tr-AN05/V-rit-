@@ -488,7 +488,7 @@
   <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;ils font voir leurs merveilles. 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Je vois cela, dit-il.
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Figure toi maintenant le long de ce petit mur des hommes portant des objets
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;  &nbsp;de toute sorte, qui dépassent le mur, et des statuettes d'hommes et d'animaux, en 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;  de toute sorte, qui dépassent le mur, et des statuettes d'hommes et d'animaux, en 
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;pierre en bois et en toute espèce de matière; naturellement parmi ces porteurs, 
   <br>15 &nbsp;&nbsp; &nbsp;&nbsp;les uns parlent et les autres se taisent. 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Voilà, s'écria-t-il, un étrange tableau et d'étranges prisonniers.
@@ -517,9 +517,9 @@
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;vu jusqu'alors que de vains fantômes, mais qu'à présent, plus près de la réalité 
   <br>40&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; et tourné vers des objets plus réels, il voit plus juste? Si, enfin, en lui montrant 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  chacune des choses qui passent, on l'oblige, à force de questions, à dire ce que
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;  c'est? Ne penses-tu pas qu'il sera embarrassé, et que les ombres qu'il voyait tout 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; c'est? Ne penses-tu pas qu'il sera embarrassé, et que les ombres qu'il voyait tout 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;à l'heure lui paraîtront plus vraies que les objets qu'on lui montre maintenant?
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Beaucoup plus vraies, reconnut-il. 
+  <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Beaucoup plus vraies, reconnut-il. 
   <br>45&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Et si on le force à regarder la lumière elle-même, ses yeux n'en seront-ils pas blessés?
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   N'en fuira-t-il pas la vue pour retourner aux choses qu'il peut regarder, et ne croira-t-il  
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; pas que ces dernières sont réellement plus distinctes que celles qu'on lui montre? 
@@ -528,7 +528,7 @@
   <br>50&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  montée rude et escarpée, et qu'on ne le lâche pas avant de l'avoir traîné jusqu'à la 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; lumière du soleil, ne souffrira-t-il pas vivement, et ne se plaindra-t-il pas de ces violences?   
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  Et lorsqu'il sera parvenu à la lumière, pourra-t-il, les yeux tout éblouis par 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;son éclat, distinguer une seule des choses que maintenant nous appelons vraies? 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;son éclat, distinguer une seule des choses que maintenant nous appelons vraies? 
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Il ne le pourra pas, répondit-il; du moins dès l'abord. 
   <br>55&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;    &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Il aura, je pense, besoin d'habitude pour voir les objets de la région supérieure.
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   D'abord ce seront les ombres qu'il distinguera le plus facilement, puis les images  
