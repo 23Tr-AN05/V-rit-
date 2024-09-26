@@ -474,7 +474,7 @@
    <button type="button" class="collapsible"><p id="para3"><b>PLATON</b>, <i>La République</i>, IV<sup>e</sup> s. av. J.-C.<br> La vérité est dans les Idées: l'âme doit chercher à s'élever</p>  </button>
   
  <div class="content">
-  <p id="para3"><i></i>
+  <p id="para3"><i>Au livre VII de la République, SOCRATE discute avec Glaucon et lui demande d’imaginer l’intérieur<br> d’une caverne, où des prisonniers seraient enfermés. Il s’agit d’une allégorie : les différents éléments<br> qui constituent la description de la caverne représentent des idées ou des concepts. L’allégorie <br> de la caverne ne doit pas être lue qu’au premier degré - celui de la critique de l’illusion que <br> constituent nos opinions : elle demande une interprétation. Elle pourrait notamment représenter <br> l’état d’enfermement de notre âme dans le corps et la différence entre le sensible et l’intelligible.<br> Dans cet extrait, nous sommes invité à distinguer l’apparence (les choses telles que nous les <br> percevons) de la vérité (la correspondance entre nos idées et les idées, qui sont intelligibles).</i>
   <br>
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  Maintenant représente toi de la façon que voici l’état de notre nature 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; relativement à l’instruction et à l’ignorance. Figure-toi des hommes dans une 
@@ -519,7 +519,7 @@
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  chacune des choses qui passent, on l'oblige, à force de questions, à dire ce que
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; c'est? Ne penses-tu pas qu'il sera embarrassé, et que les ombres qu'il voyait tout 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;à l'heure lui paraîtront plus vraies que les objets qu'on lui montre maintenant?
-  <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Beaucoup plus vraies, reconnut-il. 
+  <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Beaucoup plus vraies, reconnut-il. 
   <br>45&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Et si on le force à regarder la lumière elle-même, ses yeux n'en seront-ils pas blessés?
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   N'en fuira-t-il pas la vue pour retourner aux choses qu'il peut regarder, et ne croira-t-il  
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; pas que ces dernières sont réellement plus distinctes que celles qu'on lui montre? 
@@ -541,13 +541,6 @@
  </div>
 
 
-
-  
-
-
-
-
-
  
  <br>
  <p id="para2">Allégorie de la caverne : </p>
@@ -564,7 +557,7 @@
  <br>
  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp; <u style="color:#0000FF;"><b> 2.&nbsp;&nbsp;La sortie d’un prisonnier de la caverne :</b></u>
  <br>&nbsp;&nbsp; Ce prisonnier va passer par des différents étapes qui symbolisent celles de l’accès à la connaissance :
- <br>
+ <br><br/>
  <iframe src="https://drive.google.com/file/d/138fT1G_MpyOlmwI8d_1rdgMAi07AQXKd/preview" width="640" height="200" allow="autoplay"></iframe>
  <br>
  <br>&nbsp;&nbsp; &nbsp;&nbsp;-Tout ce en quoi il croyait se révèle être faux.
@@ -576,7 +569,7 @@
  <br>- Rôle du philosophe dans la société : il retourne dans la caverne pour guider les prisonniers vers la réalité et/ou la réalité.
  <br>- Le philosophe a perdu l’habitude de vivre dans l’illusion, il est inadapté, décalé.
  <br>- Les prisonniers vont le rejeter, se moquer de lui et vouloir le tuer (hommage à SOCRATE condamné à la mort).
- <br>
+ <br><br/>
  <iframe src="https://drive.google.com/file/d/1Mh_E51PMa5SY5NCzRjY6cd68uaINquH1/preview" width="640" height="400" allow="autoplay"></iframe>
  <br>
  </p>
@@ -586,7 +579,7 @@
    <button type="button" class="collapsible"><p id="para3"><b>Emmanuel KANT</b>, <i>D’un prétendu droit de mentir par l’humanité</i>, [1797]<br> Dire la vérité est un impératif absolu</p>  </button>
   
  <div class="content">
-  <p id="para3"><i></i>
+  <p id="para3"><i>Une célèbre polémique a opposé Constant à Kant vers 1797 concernant la question du droit<br> de mentir. Aucun des deux ne défend le principe d’un mensonge par égoïsme et tous les deux <br> s’accordent à considérer que dire la vérité est un devoir. Mais Constant estime indispensable <br> de regarder les circonstances du mensonge et les conséquences qu’il entraînerait avent deb<br> condamner le menteur. Intransigeant, Kant fait de la véracité un devoir absolu et considère <br> qu’un mensonge n’est pas seulement une injustice contre quelqu’un en particulier mais à l’égard <br> de l’humanité en général. </i>
   <br>
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
