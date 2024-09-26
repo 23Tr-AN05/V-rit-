@@ -125,7 +125,7 @@
  </ol>
  <br><br>
  <p id="para9"><u><b>Emmanuel KANT, <i>Critique de la raison pure, II</i>, XVIIIe siècle (p. 524.)</b></u></p>
-     <button type="button" class="collapsible"><p id="para3"><b>Emmanuel KANT</b>, « Théorie transcendantale de la méthode »,<br> <i>Critique de la raison pure</i>, II, 1781 <br> trad. B. Pacaud et A. Tremesaygues, 1905</p> </button>
+     <button type="button" class="collapsible"><p id="para3"><b>Emmanuel KANT</b>, « Théorie transcendantale de la méthode »,<br>Suffit-il qu'une pensée soit conforme à la logique pour qu'elle soit vrai?</p> </button>
 
  <div class="content">
    <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; L'ancienne et célèbre question par laquelle on prétendait pousser à bout les logiciens
@@ -205,7 +205,7 @@
  
  <br><br><br>
  <p id="para9"><u><b>Thomas d’AQUIN (¡il est catholique!), <i>Sommes théologiques</i>, XIIIe siècle (p. 522.)</b></u></p>
-     <button type="button" class="collapsible"><p id="para3"><b>Thomas d'AQUIN</b>, <i>Somme théologie</i>, t. I,q. 16,art.2, 1266-1273, <br> trad. A.-D. Sertillanges, 1926, mise à jour par A.-M.Rouget,2000</p>    </button>
+     <button type="button" class="collapsible"><p id="para3"><b>Thomas d'AQUIN</b>, <i>Somme théologie</i> <br> Y a-t-il des choses vraies?</p>    </button>
  <div class="content">
   <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; On l'a déjà dit, le vrai, selon sa raison formelle première, est dans l'intelligence.
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Puisque toute chose est vraie selon qu'elle possède la forme qui est propre à sa 
@@ -230,7 +230,7 @@
  <br><br><br>
  <p id="para9"><u><b>René DESCARTES, <i>Règles pour la direction de l’existence</i>, XVIIe siècle</b></u></p>
 
-  <button type="button" class="collapsible"><p id="para3"><b> René DESCARTES</b>, <i>Règles pour la direction de l’esprit</i>, règle II, AT X,365.</p></button>
+  <button type="button" class="collapsible"><p id="para3"><b> René DESCARTES</b>, <i>Règles pour la direction de l’esprit</i><br> Les mathématiques comme modèle</p></button>
  
  <div class="content">
   <p id="para3"><i>Le privilège des mathématiques comme modèle de vérité n’a rien d’arbitraire, selon Descartes.<br>
@@ -476,17 +476,17 @@
  <div class="content">
   <p id="para3"><i></i>
   <br>
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  Maintenant représente toi de la façon que voici l’état de notre nature 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; relativement à l’instruction et à l’ignorance. Figure-toi des hommes dans une 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;demeure souterraine, en forme de caverne, ayant sur toute sa largeur une entrée 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;ouverte à la lumière; ces hommes sont là depuis leur enfance, les jambes et le
+  <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; cou enchaînés, de sorte qu’ils ne peuvent ni bouger ni voir ailleurs que devant eux, 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  la chaîne les empêchant de tourner la tête; la lumière leur vient d’un feu allumé 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; sur une hauteur, au loin derrière eux; entre le feu et les prisonniers passe une
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; route élevée : imagine que le long de cette route est construit un petit mur, pareil
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; aux cloisons que les montreurs de marionnettes dressent devant eux et au dessus desquelles
+  <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;ils font voir leurs merveilles. 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Je vois cela, dit-il.
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
@@ -507,6 +507,29 @@
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
   </p>
  </div>
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
