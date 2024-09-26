@@ -185,7 +185,7 @@
  <br />&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Nécessité d’étudier l’objet / la vérité pour lui-même, pour en posséder une connaissance vrai.</p>
  <br><br><br>
  <p id="para3"><b> Il existe 4 domaines de vérité :</b> </p>
- <ol style="liste-style-type:lower-alpha">
+ <ol style="list-style-type:lower-alpha">
      <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:#0000FF;">La vérité liée au langage</font>:le discours tenu sur quelque chose doit être en adéquation (en accord) avec ce quelque chose. 
      <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  Exemple: La tour Eiffel est à Paris.
      &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; =>Elle repose sur les <font style="color:#FF0000;">faits</font>.</li>
@@ -197,7 +197,7 @@
  </ol>
  <br><br><br>
  <p id="para3"><b>3 Critères pour définir la qualité d’une théorie scientifique :</b></p>
- <ol style="liste-style-type:upper-roman">
+ <ol style="list-style-type:upper-roman">
      <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; Elle doit être la plus simple possible</li>
      <li id="para3">&nbsp;&nbsp; &nbsp;&nbsp; Elle doit pouvoir expliquer le plus de phénomènes possibles</li>
      <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; Elle doit <mark> prévoir </mark>les phénomènes.</li>
