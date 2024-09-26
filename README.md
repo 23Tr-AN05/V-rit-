@@ -693,10 +693,10 @@
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  Le passage d’un paradigme en état de crise à un nouveau paradigme d’où puisse naître une
   <br>15 &nbsp;&nbsp;nouvelle tradition de science normale est loin d’être un processus cumulatif, réalisable à partir de
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;variantes ou d’extensions de l’ancien paradigme. C’est plutôt une reconstruction de tout un secteur sur
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;  de nouveaux fondements. Les spécialistes ont une tout autre manière de considérer leur domaine, ses 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  de nouveaux fondements. Les spécialistes ont une tout autre manière de considérer leur domaine, ses 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; méthodes et ses buts.[C’est comme un] changement de forme visuelle : le dessin qui était d’abord vu
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;comme un oiseau est maintenant vu comme une antilope ou vice versa.Le passage au nouveau
-  <br>20 &nbsp; &nbsp;&nbsp;paradigme est une révolution scientifique.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;comme un oiseau est maintenant vu comme une antilope ou vice versa.Le passage au nouveau
+  <br>20  &nbsp;&nbsp;paradigme est une révolution scientifique.
   </p>
  </div>
 
