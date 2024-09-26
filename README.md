@@ -291,7 +291,7 @@
  <p id="para9"><u><b>Karl POPPER, <i>Conjectures et réfutations</i>, XXe siècle</b></u></p>
  <br>
 
-   <button type="button" class="collapsible"><p id="para3"><b>Karl POPPER</b>, <i>Conjectures et réfutations</i>, 1963<br> L’irréfutabilité est un défaut <br><b>ET</b>L’épreuve du test (<i> La logique de la découverte scientifique</i>,1934</p>  </button>
+   <button type="button" class="collapsible"><p id="para3"><b>Karl POPPER</b>, <i>Conjectures et réfutations</i>, 1963<br> L’irréfutabilité est un défaut <br><b>ET </b>L’épreuve du test (<i> La logique de la découverte scientifique</i>,1934</p>  </button>
  
  <div class="content">
     <p id="para3"><i> Une théorie serait-elle scientifique parce qu’elle est infaillible et irréfutable ? C’est exactement <br> l’inverse selon Karl Popper, qui entend opposer à la science ce qui relève de la métaphysique,<br> de la religion ou de l’idéologie. </i>
@@ -326,33 +326,7 @@
 
 
 
-
-
-
-
-
  
-
-
-
-
-
-
- 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
  <p id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→  Une théorie est scientifique si et seulement si elle est réfutable.
  <br>  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  <b style="color:red">  └> La falsifiabilité
  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  La réfutabilité </b>
@@ -428,6 +402,9 @@
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;- La science est le produit d’une communauté scientifique constituée d’humains: donc les théories sont objectives :
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <u id="para10">Repère : objectif ≠ subjectif </u>
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; - Les phénomènes sont observés à l’aide des sens : donc perception subjective. </p>
+
+
+
 
  <br><br><br>
  <p id="para9"><u><b>René DESCARTES, <i>Méditations métaphysiques</i>, XVIIIe siècle</b></u></p>
