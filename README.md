@@ -629,8 +629,7 @@
    <button type="button" class="collapsible"><p id="para3"><b>Benjamin CONSTANT</b>, <i>Dès réactions politiques</i>, 1797<br> Il y a des vérités qui nuissent à autrui</p>  </button>
   
  <div class="content">
-  <p id="para3"><i></i>
-  <br>
+  <p id="para3"><br>
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  Il est hors de doute que les principes <mark id="m1"> abstraits </mark> de la morale, s’ils étaient séparés de leurs 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; principes intermédiaires, produiraient autant de désordre dans les relations sociales des 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;hommes que les principes abstraits de la politique, séparés de leurs principes intermédiaires, 
@@ -662,45 +661,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Distinction entre la théorie et la pratique.
  <br>La loi morale (kantienne)<┘ &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; └> Les cas particuliers
  <br> &nbsp;&nbsp;&nbsp;&nbsp;   => générale
@@ -716,8 +676,7 @@
    <button type="button" class="collapsible"><p id="para3"><b>Thomas KUHN</b>, <i>La structure de révolutions scientifiques</i>, 1962</p>  </button>
   
  <div class="content">
-  <p id="para3"><i></i>
-  <br>
+  <p id="para3"><br>
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Les crises sont une condition préalable et nécessaire de l’apparition de nouvelles théories.
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Comment les scientifiques réagissent-ils à la prise de conscience d’une anomalie dans la cohérence
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;entre la théorie et la nature ? Quand une anomalie semble être plus qu’une énigme de la science
@@ -746,46 +705,6 @@
  </div>
 
  <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Distinction entre la théorie et la pratique.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
