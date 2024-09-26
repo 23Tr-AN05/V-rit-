@@ -326,7 +326,7 @@
 
 
 
- 
+
  <p id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→  Une théorie est scientifique si et seulement si elle est réfutable.
  <br>  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  <b style="color:red">  └> La falsifiabilité
  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  La réfutabilité </b>
@@ -828,12 +828,6 @@
 
 
 
-
-
-
-
-
-
  <p id="para3"><font syle="color:#FF0000;"><mark>-Distinction entre l’opinion et la vérité :</mark>
  <br> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Opinion (du grec « δόξα », doxa : opinion commune) : Ce que tout le monde pense sans y avoir réfléchi, sans savoir l’argumenter. → <b>SUBJECTIVE</b>
  <br> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Vérité (du grec « ἀληθής », Léthé) : Qui vise la généralité voire universalité → <b>OBJECTIVE</b>
@@ -876,46 +870,6 @@
  <iframe src="https://drive.google.com/file/d/1gP7uWC6oWtxYbC4QavRp_OFWxdW22odG/preview" width="700" height="1000" allow="autoplay"></iframe>
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
