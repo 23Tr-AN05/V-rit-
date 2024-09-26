@@ -891,7 +891,10 @@
   <br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; « Impression »(l.19)  /  « éprouve » (l.20)    ⟾ Il confond toujours l’opinion avec la vérité
   <br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;=> Pas d’ordre du rational.
   </p>
-
+ <br><br>
+ <hr />
+ <p id="para3"> Veuillez trouver la version PDF de ce cours ci-dessous  😇 </p>
+ <iframe src="https://drive.google.com/file/d/1gP7uWC6oWtxYbC4QavRp_OFWxdW22odG/preview" width="700" height="1000" allow="autoplay"></iframe>
 
  
 
