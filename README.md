@@ -778,7 +778,7 @@
   <br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;→ Protagoras confond opinion et la vérité : dire ce que l’on pense et ce que l’on ressent, c’est toujours <b style="color:#00FF00;">subjectif</b>, et donc ce n’est pas la vérité.
   <br>
   <br><mark>De la ligne 4 à 8:</mark>
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;→ Le sage, c’est lui qui, à l’aide de la rhétorique, est capable de faire changer d’opinion autrui => <b style="color:#00FF00;"> persuasions
+  <br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;→ Le sage, c’est lui qui, à l’aide de la rhétorique, est capable de faire changer d’opinion autrui => <b style="color:#00FF00;"> persuasions </b>
   <br>
   <mark>De la ligne 9 à 14:</mark>
   <br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;→ Métaphore de la maladie.
