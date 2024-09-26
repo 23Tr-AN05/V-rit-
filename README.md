@@ -129,8 +129,8 @@
 
  <div class="content">
    <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; L'ancienne et célèbre question par laquelle on prétendait pousser à bout les logiciens
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  [...] est celle-ci : <i>Qu'est-ce que la vérité?</i> [...] <mark id="m1"> Mais pour ce qui regarde la connaissance,
-   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;quant à sa forme simplement (abstraction faite de tout contenu)</mark>, il est […] clair 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  [...] est celle-ci : <i>Qu'est-ce que la vérité?</i> [...] <mark id="m1"> Mais pour ce qui regarde la connaissance,</mark>
+   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<mark id="m1">quant à sa forme simplement (abstraction faite de tout contenu)</mark>, il est […] clair 
    <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;qu'une logique, en tant qu'elle traite des règles générales et nécessaires de l'enten-
    <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; dement, doit exposer, dans ces règles mêmes, les critères de la vérité. Car ce qui les 
    <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; contredit est faux, puisque l'entendement s'y met en contradiction avec les règles
@@ -258,8 +258,6 @@
    <br>Exemple: Descartes avec son <i>cogito</i> montre qu’il est certain que « Je suis, j’existe » par le fait que je pense rend impossible le fait que je ne sois pas.
    </p>
  </div>
-
-
 
 
  <br>
@@ -583,18 +581,18 @@
   <br>
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  Être véridique dans les propos qu’on ne peut éluder, c’est là le devoir formel de l’homme  
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  envers chaque homme, quelle que soit la gravité du préjudice qui peut en résulter pour 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;soi-même ou pour autrui. Et même si, en falsifiant mon propos, je ne cause pas de tort à 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; soi-même ou pour autrui. Et même si, en falsifiant mon propos, je ne cause pas de tort à 
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;celui qui m’y contraint injustement, il reste qu’une telle falsification , qu’on peut nommer 
   <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; également pour cette raison un mensonge (même si ce n’est pas au sens des juristes<sup>1</sup>),
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  constitue, au regard de l’élément le plus essentiel du devoir en général, un tort : car je fais 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; en sorte, autant qu’il est en mon pouvoir, que des propos (des déclarations) en général ne
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;trouvent aucun crédit et, par suite, que tous les droits fondés sur des contrats deviennent 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;trouvent aucun crédit et, par suite, que tous les droits fondés sur des contrats deviennent 
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;caducs et perdent toute leur force ; ce qui est un tort causé à l’humanité en général. 
   <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Donc, si on définit le mensonge que comme la déclaration (faite à autrui) qu’on sait 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; n’être pas vraie, il n’est besoin d’y ajouter qu’il doive nuire à autrui, comme les juristes  
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; l’exigent de leur définition (<i>mendacium est falsiloquium alterius</i><sup>3</sup>). Car le 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;mensonge nuit toujours à autrui: même s’il ne nuit pas à un autre homme, il nuit à l’humanité 
-   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;en général et rend vaine la source du droit. […] Celui qui ment, quelle que soit la 
+   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;en général et rend vaine la source du droit. […] Celui qui ment, quelle que soit la 
   <br>15 &nbsp;&nbsp; &nbsp;&nbsp;bonté des intentions qui animaient son mensonge, doit donc répondre des conséquences 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  qui en résultent, même devant un tribunal civil, et les réparer, quelque imprévues qu’elles
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; puissent être. La véracité est un devoir, on doit le considérer comme le fondement  de tous 
@@ -695,6 +693,9 @@
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
   <br>
   <br>
+  <br><mark id="m1"><u>Repères</u></mark>
+   <br>Certain : ne laisse subsister aucun doute, par opposition à ce qui n’est que probable. 
+   <br>Exemple: Descartes avec son <i>co
   </p>
  </div>
 
