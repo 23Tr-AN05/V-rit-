@@ -871,7 +871,11 @@
  
  <hr />
  <p id="para3"> Veuillez trouver la version PDF de ce cours ci-dessous  😇 </p>
- <iframe src="https://drive.google.com/file/d/1gP7uWC6oWtxYbC4QavRp_OFWxdW22odG/preview" width="700" height="1000" allow="autoplay"></iframe>
+ <br>
+  <a href="image/Comment_peut-on_établir_la_vérité.pdf" dowload><p id="para3">Cliquer ici pour télécharger!</p></a>
+  <br><br>
+ 
+ <embed type="application/pdf" src="image\Comment_peut-on_établir_la_vérité.pdf" width="1000" height="1500">
 
  
 
