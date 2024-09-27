@@ -743,6 +743,10 @@
 
  
  <br><br><br>
+ <img src="image/7.jpg" width="1000" height="400" />
+
+
+ <br><br><br>
 
  <p id="para9"><u><b>Thomas KUHN, <i>La structure de révolutions scientifiques</i>, XX<sup>e</sup> siècle</b></u></p>
    <button type="button" class="collapsible"><p id="para3"><b>Thomas KUHN</b>, <i>La structure de révolutions scientifiques</i>, 1962</p>  </button>
