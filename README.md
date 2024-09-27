@@ -446,11 +446,8 @@
 
  <br>
  <p id="para3"><b style="color:#BF0000;">
- <img src="image/4.jpg" width="1000" height="150" /> 
+ <img src="image/4.jpg" width="1000" height="300" /> 
  
-  Étymologie :Étymologie : &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Méta    physique <br>
- &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; au-delà <┘&nbsp;&nbsp; &nbsp;&nbsp; └> la nature
- <br>Métaphysique : ce qui est au-delà du visible (existence du Dieu, la matière, l’esprit/ la conscience)</b></p>
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Il cherche une vérité<font style="color:#FF000;"> indubitable (=dont on ne peut douter)</font> sur laquelle il pourra faire sa philosophie.
  <br>Pour trouver cette vérité sûre et certaine, il va remettre en question : 
 
@@ -532,6 +529,13 @@
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Mon entendement construit un jugement à partir des perceptions et des données sensibles.
  <br><font style="color:#FF0000;">  Entendement (de Descartes) : La faculté de comprendre, d’apercevoir, de saisir l’intelligible (ce qui est saisi par l’intellect), par opposition aux sensations.</font></p>
  <p id="para3"><mark>De la ligne 24 à 29:</mark></p>
+ <img src="image/8.jpg" width="800" height="300" />
+
+
+
+
+
+
  <table id="p2">
      <tr>
          <th>Avec les sens</th>
@@ -622,8 +626,8 @@
  <br>
  <p id="para2">Allégorie de la caverne : </p>
  <br>
- <img src="image/3.jpg"  width="700" height="400" />
- <iframe src="https://drive.google.com/file/d/1yAkQ_NIkB-qL8z6q-RXNKHkvxnGnyuH_/preview" width="640" height="300" allow="autoplay"></iframe>
+ <img src="image/3.jpg"  width="1000" height="500" />
+ 
  <br><br>
  <p id="para3">Platon utilise une image et une histoire pour exprimer l’état dans lequel se situe Homme.</p>
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <u style="color:#0000FF;"><b> 1.&nbsp;&nbsp; Les prisonniers représentent notre condition dans un état d ’<font style="color:#FF0000;"> illusion</font></b></u>
@@ -636,8 +640,8 @@
  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp; <u style="color:#0000FF;"><b> 2.&nbsp;&nbsp;La sortie d’un prisonnier de la caverne :</b></u>
  <br>&nbsp;&nbsp; Ce prisonnier va passer par des différents étapes qui symbolisent celles de l’accès à la connaissance :
  <br><br/>
- <iframe src="https://drive.google.com/file/d/138fT1G_MpyOlmwI8d_1rdgMAi07AQXKd/preview" width="640" height="200" allow="autoplay"></iframe>
-  <img src="image/1.jpg"  width="600" height="250" />
+
+  <img src="image/1.jpg"  width="700" height="250" />
  <br>
  <br>&nbsp;&nbsp; &nbsp;&nbsp;-Tout ce en quoi il croyait se révèle être faux.
  <br>&nbsp;&nbsp; &nbsp;&nbsp;-« montée rude et escarpée » = le chemin vers la vérité est difficile et douloureux
@@ -649,8 +653,8 @@
  <br>- Le philosophe a perdu l’habitude de vivre dans l’illusion, il est inadapté, décalé.
  <br>- Les prisonniers vont le rejeter, se moquer de lui et vouloir le tuer (hommage à SOCRATE condamné à la mort).
  <br><br/>
- <iframe src="https://drive.google.com/file/d/1Mh_E51PMa5SY5NCzRjY6cd68uaINquH1/preview" width="640" height="400" allow="autoplay"></iframe>
-  <img src="image/5.jpg"  width="700" height="400" />
+
+  <img src="image/5.jpg"  width="1000" height="600" />
  <br>
  </p>
  <br><br><br>
