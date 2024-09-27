@@ -109,7 +109,7 @@
  <br>
  <br>
  <p id="para8">L'étymologie grecque du mot "Vérité":</p>  
- <iframe src="https://drive.google.com/file/d/1gl1mGENvzBmOVUZjci0JxF6Twfa7C8qX/preview" width="640" height="280" allow="autoplay"></iframe>
+ <img src="image/2.jpg" width="1000" height="300" />
  <br>
  <p id="para3">  <b style="color:red;">La vérité serait donc le fait de ne pas oublier</b> les Idées que nos âmes ont contemplées avant de s’incarner.</p>
  <br/>
@@ -873,8 +873,7 @@
  <p id="para3"> Veuillez trouver la version PDF de ce cours ci-dessous  😇 </p>
  <br>
   <a href="image/Comment_peut-on_établir_la_vérité.pdf" dowload><p id="para3">Cliquer ici pour télécharger!</p></a>
-  <br><br>
- 
+  <br> 
  <embed type="application/pdf" src="image\Comment_peut-on_établir_la_vérité.pdf" width="1000" height="1500">
 
  
