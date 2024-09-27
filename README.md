@@ -277,7 +277,7 @@
  <p id="para3"><mark>De la ligne 5 à 12</mark>: </p>  
 
  <img src="image/10.jpg" width="800" height="400" />
- 
+
  <br>    
  <p id="para3"><mark>De la ligne 13 à 16</mark>:
  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ L’arithmétique et la géométrie sont le plus sûr moyen d’accéder à la vérité. </p>
@@ -450,8 +450,12 @@
  <br>Métaphysique : ce qui est au-delà du visible (existence du Dieu, la matière, l’esprit/ la conscience)</b></p>
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Il cherche une vérité<font style="color:#FF000;"> indubitable (=dont on ne peut douter)</font> sur laquelle il pourra faire sa philosophie.
  <br>Pour trouver cette vérité sûre et certaine, il va remettre en question : 
+
+ <p style="float:right"><img src="/sites/default/files/images/xxx.jpg" /></p>
+<p>blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla</p>
+<p>blabla</p>
  <ol>
-     <li id="para3">Les connaissances qui viennent des sens, parce que les sens nous trompent : les illusions d’optique (tour perçue comme petite car éloignée, bâton dans l’eau, membres fantômes)</li>
+     <li><p style="float:right"><img src="image/9.jpg" /></p><p id="para3">Les connaissances qui viennent des sens, parce que les sens nous trompent : les illusions d’optique (tour perçue comme petite car éloignée, bâton dans l’eau, membres fantômes)</p></li>
      <li id="para3">Les connaissances déduites des mathématiques, parce que nous pouvons nous tromper dans nos raisonnements <font style="color:#00FF00;"> (paralogisme)</font></li>
      <li id="para3">Tout les autres connaissances :
      <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;- un malin génie qui lui a mis des idées fausses dans la tête, donc qui le trompe
