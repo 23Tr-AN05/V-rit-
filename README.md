@@ -446,7 +446,7 @@
 
  <br>
  <p id="para3"><b style="color:#BF0000;">
- <img src="image/4.jpg" width="1000" height="300" /> 
+ <img src="image/4.jpg" width="1000" height="200" /> 
  
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Il cherche une vérité<font style="color:#FF000;"> indubitable (=dont on ne peut douter)</font> sur laquelle il pourra faire sa philosophie.
  <br>Pour trouver cette vérité sûre et certaine, il va remettre en question : 
@@ -532,20 +532,6 @@
  <img src="image/8.jpg" width="800" height="300" />
 
 
-
-
-
-
- <table id="p2">
-     <tr>
-         <th>Avec les sens</th>
-         <th>Avec l’entendement</th>
-      </tr>
-      <tr>
-         <td><p id="p1"> - « attouchement » (le toucher) <br>- la vision<br>- l’imagination<br>⇩<br>Connaissance :<br>« imparfait » et « confuse »</p></td>
-         <td><p id="p1">Inspection de l’esprit <br><br>⇩<br><br>Connaissance :<br>« Claire » et «<font style="color:red"> distincte</font> »</p></td>
-      </tr>
-  </table>
   <p id="para3" style="color:#FF0000;">  Distincte : comparaison, mise en ordre des perception par l’entendement.</p>
  
  <br><br><br>
@@ -840,7 +826,11 @@
  <br>
  <br><mark>-Distinction entre être et paraître :</mark>
  <br> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;L’être : les choses qui sont → le réel (la vérité)
- <br> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Paraître : de l’ordre de la perception, de l’impression → <b> SUBJECTIVE</b></p>
+ <br> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Paraître : de l’ordre de la perception, de l’impression → <b> SUBJECTIVE</b></font></p>
+<img src="image/6.jpg" width="900" height="300" />
+
+
+
   <table id="p2">
      <tr>
          <th> Sophiste <br> (PROTAGORAS)</th>
