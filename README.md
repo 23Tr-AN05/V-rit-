@@ -287,7 +287,7 @@
  </p>
  <p id="para3"><mark>De la ligne 5 à 12</mark>: </p>  
 
- <img src="image/10.jpg" width="800" height="500" />
+ <img src="image/10.jpg" width="800" height="400" />
  <table id="p2">
      <tr>
          <th> Philosophie, Histoire</th>
