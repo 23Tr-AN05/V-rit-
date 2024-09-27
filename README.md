@@ -171,7 +171,7 @@
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; → Les règles de la logique sont nécessaires mais pas suffisantes, car <font style="color:#FF0000;">la vérité formelle</font> se distingue de<font styke="color:#FF0000;"> la vérité matérielle</font>, c’est-à-dire une vérité concernant la contenu.
  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Aristote est l’inventeur du syllogisme, constitué de 2 prémisses validées comme vraies et d’une conclusion déduite qui sera donc vraie :
   <br>Exemple :
-  <img src="image/11.jpg" width="700" height="400" />
+  <img src="image/11.jpg" width="1000" height="400" />
 
 
 
