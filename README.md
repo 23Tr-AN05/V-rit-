@@ -279,6 +279,8 @@
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Les mathématiques sont un outil, un moyen, d’éviter l’erreur.
  </p>
  <p id="para3"><mark>De la ligne 5 à 12</mark>: </p>  
+
+ <img src="image/10.jpg" width="500" height="500" />
  <table id="p2">
      <tr>
          <th> Philosophie, Histoire</th>
