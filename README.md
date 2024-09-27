@@ -109,7 +109,7 @@
  <br>
  <br>
  <p id="para8">L'étymologie grecque du mot "Vérité":</p>  
- <img src="image/2.jpg" width="1000" height="300" />
+ <img src="image/2.jpg" width="800" height="200" />
  <br>
  <p id="para3">  <b style="color:red;">La vérité serait donc le fait de ne pas oublier</b> les Idées que nos âmes ont contemplées avant de s’incarner.</p>
  <br/>
@@ -276,7 +276,7 @@
  </p>
  <p id="para3"><mark>De la ligne 5 à 12</mark>: </p>  
 
- <img src="image/10.jpg" width="800" height="400" />
+ <img src="image/10.jpg" width="800" height="300" />
 
  <br>    
  <p id="para3"><mark>De la ligne 13 à 16</mark>:
