@@ -170,21 +170,10 @@
  <p id="para3"><mark>De la ligne 7 à 11:</mark>
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; → Les règles de la logique sont nécessaires mais pas suffisantes, car <font style="color:#FF0000;">la vérité formelle</font> se distingue de<font styke="color:#FF0000;"> la vérité matérielle</font>, c’est-à-dire une vérité concernant la contenu.
  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Aristote est l’inventeur du syllogisme, constitué de 2 prémisses validées comme vraies et d’une conclusion déduite qui sera donc vraie :
-  <br>Exemple :
+  <br>Exemple :</p>
   <img src="image/11.jpg" width="1000" height="400" />
 
-
-
-
-
-
-  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; - Les hommes sont mortels.  → Vrai
- <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; SOCRATE est un homme. → Vrai &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;  <font style="color:#FF0000;"> ===> 2 prémisses vraies</font> 
- <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  => SOCRATE est mortel.&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<font  style="color:#00FF00;">===> Conclusion déduite est vraie.</font>
- <br>
-  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; - Tous les chats sont mortels.→ Vrai
- <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;SOCRATE est mortel. → Vrai    &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;   <font  style="color:#FF0000;">===>2 prémisses vraies</font> 
- <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   => SOCRATE est un chat..&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <font  style="color:#00FF00;">===> Conclusion déduite est fausse.</font>   </p>
+  
  <p id="para3"><mark>De la ligne 11 à 16:</mark>
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Vérité négative :<font style="color:#00FF00;"> nulle</font> pensée<font style="color:#00FF00;"> ne </font>peut être vraie, si elle<font style="color:#00FF00;"> ne</font> respecte<font style="color:#00FF00;"> pas </font>la logique. </p>
   <p id="para3"><mark>De la ligne 16 à 22:</mark>
@@ -288,16 +277,7 @@
  <p id="para3"><mark>De la ligne 5 à 12</mark>: </p>  
 
  <img src="image/10.jpg" width="800" height="400" />
- <table id="p2">
-     <tr>
-         <th> Philosophie, Histoire</th>
-         <th>Mathématiques</th>
-      </tr>
-      <tr>
-         <td><p id="p1"> - Vocabulaire péjoratif: <br> « Jouer les devins » : pas scientifique <br>« Domain obscur » <br>« question quelconque » : imprécise<br> <font style="color:#00FF00;">- Prédire </font><hr> <b style="color:#0000FF;"> Connaissance zététique </b></p></td>
-         <td><p id="p1">-Simples / faciles <br>- Pures<br>-Évidentes / claires<br>- Précise / rigoureuses<br><font style="color:#00FF00;">-Prévoir</font><hr> <b style="color:#0000FF;"> Connaissance apodictique </b></p></td>
-      </tr>
-  </table>
+ 
  <br>    
  <p id="para3"><mark>De la ligne 13 à 16</mark>:
  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ L’arithmétique et la géométrie sont le plus sûr moyen d’accéder à la vérité. </p>
