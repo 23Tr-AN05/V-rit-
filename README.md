@@ -451,9 +451,7 @@
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Il cherche une vérité<font style="color:#FF000;"> indubitable (=dont on ne peut douter)</font> sur laquelle il pourra faire sa philosophie.
  <br>Pour trouver cette vérité sûre et certaine, il va remettre en question : 
 
- <p style="float:right"><img src="/sites/default/files/images/xxx.jpg" /></p>
-<p>blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla</p>
-<p>blabla</p>
+
  <ol>
      <li><p style="float:right"><img src="image/9.jpg" /></p><p id="para3">Les connaissances qui viennent des sens, parce que les sens nous trompent : les illusions d’optique (tour perçue comme petite car éloignée, bâton dans l’eau, membres fantômes)</p></li>
      <li id="para3">Les connaissances déduites des mathématiques, parce que nous pouvons nous tromper dans nos raisonnements <font style="color:#00FF00;"> (paralogisme)</font></li>
@@ -621,6 +619,7 @@
  <br>
  <p id="para2">Allégorie de la caverne : </p>
  <br>
+ <img src="image/3.jpg"  width="700" height="400" />
  <iframe src="https://drive.google.com/file/d/1yAkQ_NIkB-qL8z6q-RXNKHkvxnGnyuH_/preview" width="640" height="300" allow="autoplay"></iframe>
  <br><br>
  <p id="para3">Platon utilise une image et une histoire pour exprimer l’état dans lequel se situe Homme.</p>
@@ -635,6 +634,7 @@
  <br>&nbsp;&nbsp; Ce prisonnier va passer par des différents étapes qui symbolisent celles de l’accès à la connaissance :
  <br><br/>
  <iframe src="https://drive.google.com/file/d/138fT1G_MpyOlmwI8d_1rdgMAi07AQXKd/preview" width="640" height="200" allow="autoplay"></iframe>
+  <img src="image/1.jpg"  width="600" height="250" />
  <br>
  <br>&nbsp;&nbsp; &nbsp;&nbsp;-Tout ce en quoi il croyait se révèle être faux.
  <br>&nbsp;&nbsp; &nbsp;&nbsp;-« montée rude et escarpée » = le chemin vers la vérité est difficile et douloureux
@@ -647,6 +647,7 @@
  <br>- Les prisonniers vont le rejeter, se moquer de lui et vouloir le tuer (hommage à SOCRATE condamné à la mort).
  <br><br/>
  <iframe src="https://drive.google.com/file/d/1Mh_E51PMa5SY5NCzRjY6cd68uaINquH1/preview" width="640" height="400" allow="autoplay"></iframe>
+  <img src="image/5.jpg"  width="700" height="400" />
  <br>
  </p>
  <br><br><br>
