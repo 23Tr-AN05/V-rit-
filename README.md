@@ -109,7 +109,7 @@
  <br>
  <br>
  <p id="para8">L'étymologie grecque du mot "Vérité":</p>  
- <img src="image/2.jpg" width="800" height="200" />
+ <img src="image/2.jpg" width="1000" height="300" />
  <br>
  <p id="para3">  <b style="color:red;">La vérité serait donc le fait de ne pas oublier</b> les Idées que nos âmes ont contemplées avant de s’incarner.</p>
  <br/>
@@ -171,7 +171,7 @@
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; → Les règles de la logique sont nécessaires mais pas suffisantes, car <font style="color:#FF0000;">la vérité formelle</font> se distingue de<font styke="color:#FF0000;"> la vérité matérielle</font>, c’est-à-dire une vérité concernant la contenu.
  <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Aristote est l’inventeur du syllogisme, constitué de 2 prémisses validées comme vraies et d’une conclusion déduite qui sera donc vraie :
   <br>Exemple :</p>
-  <img src="image/11.jpg" width="1000" height="400" />
+  <img src="image/11.jpg" width="800" height="300" />
 
   
  <p id="para3"><mark>De la ligne 11 à 16:</mark>
