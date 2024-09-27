@@ -777,7 +777,7 @@
  </div>
 
  <br>
- <p id="para3"><font style="color:#FF0000"> Paradigme = modèle</font>
+ <p id="para3"><font style="color:#FF0000;"> Paradigme = modèle</font>
  <br>
  <br> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Lorsqu’une théorie se révèle défaillante, c’est-à-dire qu’elle n’explique pas les phénomènes observés, trois solutions sont envisagées :
  <ol style="list-style-type:lower-alpha">
@@ -824,27 +824,15 @@
 
 
 
- <p id="para3"><font syle="color:#FF0000;"><mark>-Distinction entre l’opinion et la vérité :</mark>
+ <p id="para3"><font style="color:#FF0000;"><mark>-Distinction entre l’opinion et la vérité :</mark>
  <br> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Opinion (du grec « δόξα », doxa : opinion commune) : Ce que tout le monde pense sans y avoir réfléchi, sans savoir l’argumenter. → <b>SUBJECTIVE</b>
  <br> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Vérité (du grec « ἀληθής », Léthé) : Qui vise la généralité voire universalité → <b>OBJECTIVE</b>
  <br>
  <br><mark>-Distinction entre être et paraître :</mark>
  <br> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;L’être : les choses qui sont → le réel (la vérité)
  <br> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Paraître : de l’ordre de la perception, de l’impression → <b> SUBJECTIVE</b></font></p>
-<img src="image/6.jpg" width="900" height="300" />
+ <img src="image/6.jpg" width="900" height="350" />
 
-
-
-  <table id="p2">
-     <tr>
-         <th> Sophiste <br> (PROTAGORAS)</th>
-         <th>Philosophe <br> (SOCRATE)</th>
-      </tr>
-      <tr>
-         <td><p id="p1">- donne des cours de rhétorique (art de<br>parler) à des futurs politiciens<br>- Il se fait rémunérer très cher<br>- Il est itinérant<br>- Il possède un savoir superficiel dans<br>plein de domaines<br> - Il ne cherche pas la vérité<br><br>-Persuader (sentiment)</p></td>
-         <td><p id="p1">- n’enseigne pas<br><br><br><br>-Il possède des connaissance dans un<br>domaine précis<br>- il cherche la vérité<br><br>-Convaincre (argumentation) </p></td>
-      </tr>
-  </table>
 
   <br>
   <p id="para3"><mark>De la ligne 1 à 4:</mark>
