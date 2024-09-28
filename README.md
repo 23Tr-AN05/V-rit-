@@ -445,7 +445,7 @@
 
 
  <br>
- <p id="para3"><b style="color:#BF0000;">
+ <p id="para3">
  <img src="image/4.jpg" width="1000" height="200" /> 
  
  <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ Il cherche une vérité<font style="color:#FF000;"> indubitable (=dont on ne peut douter)</font> sur laquelle il pourra faire sa philosophie.
